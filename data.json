@@ -30076,8 +30076,18 @@
             "type": "Phường"
           },
           {
+            "level3_id": "16670",
+            "name": "Phường Quán Bàu",
+            "type": "Phường"
+          },
+          {
             "level3_id": "16672",
             "name": "Phường Hưng Bình",
+            "type": "Phường"
+          },
+          {
+            "level3_id": "16673",
+            "name": "Phường Hưng Phúc",
             "type": "Phường"
           },
           {
@@ -30242,6 +30252,11 @@
           {
             "level3_id": "16762",
             "name": "Xã Mường Nọc",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "16763",
+            "name": "Xã Quế Sơn",
             "type": "Xã"
           },
           {
@@ -31233,6 +31248,11 @@
           {
             "level3_id": "17323",
             "name": "Xã Phú Sơn",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "17325",
+            "name": "Xã Tân Hương",
             "type": "Xã"
           },
           {
@@ -43824,6 +43844,16 @@
             "type": "Xã"
           },
           {
+            "level3_id": "24359",
+            "name": "Xã Ea Puk",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "24360",
+            "name": "Xã Ea Dăh",
+            "type": "Xã"
+          },
+          {
             "level3_id": "24361",
             "name": "Xã Ea Hồ",
             "type": "Xã"
@@ -43897,12 +43927,22 @@
           },
           {
             "level3_id": "24400",
-            "name": "Xã Ea Păn",
+            "name": "Xã Ea Păl",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "24401",
+            "name": "Xã Cư Prông",
             "type": "Xã"
           },
           {
             "level3_id": "24403",
             "name": "Xã Ea Ô",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "24404",
+            "name": "Xã Cư ELang",
             "type": "Xã"
           },
           {
@@ -44191,6 +44231,11 @@
           {
             "level3_id": "24559",
             "name": "Xã Ea Na",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "24561",
+            "name": "Xã Dray Bhăng",
             "type": "Xã"
           },
           {
