@@ -42511,6 +42511,11 @@
             "type": "Xã"
           },
           {
+            "level3_id": "23684",
+            "name": "Xã Đăk Krong",
+            "type": "Xã"
+          },
+          {
             "level3_id": "23686",
             "name": "Xã Hải Yang",
             "type": "Xã"
@@ -42680,6 +42685,11 @@
             "type": "Xã"
           },
           {
+            "level3_id": "23778",
+            "name": "Xã Ia Grăng",
+            "type": "Xã"
+          },
+          {
             "level3_id": "23779",
             "name": "Xã Ia Tô",
             "type": "Xã"
@@ -42801,6 +42811,11 @@
           {
             "level3_id": "23842",
             "name": "Xã Đăk Song",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "23843",
+            "name": "Xã Đăk Pling",
             "type": "Xã"
           },
           {
@@ -42995,6 +43010,16 @@
             "type": "Xã"
           },
           {
+            "level3_id": "23945",
+            "name": "Xã Chư Pơng",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "23946",
+            "name": "Xã Bar Măih",
+            "type": "Xã"
+          },
+          {
             "level3_id": "23947",
             "name": "Xã Bờ Ngoong",
             "type": "Xã"
@@ -43047,6 +43072,11 @@
           {
             "level3_id": "23977",
             "name": "Xã Ia Ko",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "23978",
+            "name": "Xã Ia Hla",
             "type": "Xã"
           },
           {
