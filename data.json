@@ -1,0 +1,368 @@
+[
+  {
+    "level1_id": "101",
+    "name": "Thành phố Hà Nội",
+    "type": "Thành phố Trung ương",
+    "level2s": []
+  },
+  {
+    "level1_id": "103",
+    "name": "Thành phố Hải Phòng",
+    "type": "Thành phố Trung ương",
+    "level2s": []
+  },
+  {
+    "level1_id": "104",
+    "name": "Tỉnh Vĩnh Phúc",
+    "type": "Tỉnh",
+    "level2s": []
+  },
+  {
+    "level1_id": "105",
+    "name": "Tỉnh Hà Tây",
+    "type": "Tỉnh",
+    "level2s": []
+  },
+  {
+    "level1_id": "106",
+    "name": "Tỉnh Bắc Ninh",
+    "type": "Tỉnh",
+    "level2s": []
+  },
+  {
+    "level1_id": "107",
+    "name": "Tỉnh Hải Dương",
+    "type": "Tỉnh",
+    "level2s": []
+  },
+  {
+    "level1_id": "109",
+    "name": "Tỉnh Hưng Yên",
+    "type": "Tỉnh",
+    "level2s": []
+  },
+  {
+    "level1_id": "111",
+    "name": "Tỉnh Hà Nam",
+    "type": "Tỉnh",
+    "level2s": []
+  },
+  {
+    "level1_id": "113",
+    "name": "Tỉnh Nam Định",
+    "type": "Tỉnh",
+    "level2s": []
+  },
+  {
+    "level1_id": "115",
+    "name": "Tỉnh Thái Bình",
+    "type": "Tỉnh",
+    "level2s": []
+  },
+  {
+    "level1_id": "117",
+    "name": "Tỉnh Ninh Bình",
+    "type": "Tỉnh",
+    "level2s": []
+  },
+  {
+    "level1_id": "201",
+    "name": "Tỉnh Hà Giang",
+    "type": "Tỉnh",
+    "level2s": []
+  },
+  {
+    "level1_id": "203",
+    "name": "Tỉnh Cao Bằng",
+    "type": "Tỉnh",
+    "level2s": []
+  },
+  {
+    "level1_id": "205",
+    "name": "Tỉnh Lào Cai",
+    "type": "Tỉnh",
+    "level2s": []
+  },
+  {
+    "level1_id": "207",
+    "name": "Tỉnh Bắc Kạn",
+    "type": "Tỉnh",
+    "level2s": []
+  },
+  {
+    "level1_id": "209",
+    "name": "Tỉnh Lạng Sơn",
+    "type": "Tỉnh",
+    "level2s": []
+  },
+  {
+    "level1_id": "211",
+    "name": "Tỉnh Tuyên Quang",
+    "type": "Tỉnh",
+    "level2s": []
+  },
+  {
+    "level1_id": "213",
+    "name": "Tỉnh Yên Bái",
+    "type": "Tỉnh",
+    "level2s": []
+  },
+  {
+    "level1_id": "215",
+    "name": "Tỉnh Thái Nguyên",
+    "type": "Tỉnh",
+    "level2s": []
+  },
+  {
+    "level1_id": "217",
+    "name": "Tỉnh Phú Thọ",
+    "type": "Tỉnh",
+    "level2s": []
+  },
+  {
+    "level1_id": "221",
+    "name": "Tỉnh Bắc Giang",
+    "type": "Tỉnh",
+    "level2s": []
+  },
+  {
+    "level1_id": "225",
+    "name": "Tỉnh Quảng Ninh",
+    "type": "Tỉnh",
+    "level2s": []
+  },
+  {
+    "level1_id": "301",
+    "name": "Tỉnh Lai Châu",
+    "type": "Tỉnh",
+    "level2s": []
+  },
+  {
+    "level1_id": "303",
+    "name": "Tỉnh Sơn La",
+    "type": "Tỉnh",
+    "level2s": []
+  },
+  {
+    "level1_id": "305",
+    "name": "Tỉnh Hòa Bình",
+    "type": "Tỉnh",
+    "level2s": []
+  },
+  {
+    "level1_id": "401",
+    "name": "Tỉnh Thanh Hóa",
+    "type": "Tỉnh",
+    "level2s": []
+  },
+  {
+    "level1_id": "403",
+    "name": "Tỉnh Nghệ An",
+    "type": "Tỉnh",
+    "level2s": []
+  },
+  {
+    "level1_id": "405",
+    "name": "Tỉnh Hà Tĩnh",
+    "type": "Tỉnh",
+    "level2s": []
+  },
+  {
+    "level1_id": "407",
+    "name": "Tỉnh Quảng Bình",
+    "type": "Tỉnh",
+    "level2s": []
+  },
+  {
+    "level1_id": "409",
+    "name": "Tỉnh Quảng Trị",
+    "type": "Tỉnh",
+    "level2s": []
+  },
+  {
+    "level1_id": "411",
+    "name": "Tỉnh Thừa Thiên Huế",
+    "type": "Tỉnh",
+    "level2s": []
+  },
+  {
+    "level1_id": "501",
+    "name": "Thành phố Đà Nẵng",
+    "type": "Thành phố Trung ương",
+    "level2s": []
+  },
+  {
+    "level1_id": "503",
+    "name": "Tỉnh Quảng Nam",
+    "type": "Tỉnh",
+    "level2s": []
+  },
+  {
+    "level1_id": "505",
+    "name": "Tỉnh Quảng Ngãi",
+    "type": "Tỉnh",
+    "level2s": []
+  },
+  {
+    "level1_id": "507",
+    "name": "Tỉnh Bình Định",
+    "type": "Tỉnh",
+    "level2s": []
+  },
+  {
+    "level1_id": "509",
+    "name": "Tỉnh Phú Yên",
+    "type": "Tỉnh",
+    "level2s": []
+  },
+  {
+    "level1_id": "511",
+    "name": "Tỉnh Khánh Hòa",
+    "type": "Tỉnh",
+    "level2s": []
+  },
+  {
+    "level1_id": "601",
+    "name": "Tỉnh Kon Tum",
+    "type": "Tỉnh",
+    "level2s": []
+  },
+  {
+    "level1_id": "603",
+    "name": "Tỉnh Gia Lai",
+    "type": "Tỉnh",
+    "level2s": []
+  },
+  {
+    "level1_id": "605",
+    "name": "Tỉnh Đắk Lắk",
+    "type": "Tỉnh",
+    "level2s": []
+  },
+  {
+    "level1_id": "607",
+    "name": "Tỉnh Lâm Đồng",
+    "type": "Tỉnh",
+    "level2s": []
+  },
+  {
+    "level1_id": "701",
+    "name": "Thành phố Hồ Chí Minh",
+    "type": "Thành phố Trung ương",
+    "level2s": []
+  },
+  {
+    "level1_id": "705",
+    "name": "Tỉnh Ninh Thuận",
+    "type": "Tỉnh",
+    "level2s": []
+  },
+  {
+    "level1_id": "707",
+    "name": "Tỉnh Bình Phước",
+    "type": "Tỉnh",
+    "level2s": []
+  },
+  {
+    "level1_id": "709",
+    "name": "Tỉnh Tây Ninh",
+    "type": "Tỉnh",
+    "level2s": []
+  },
+  {
+    "level1_id": "711",
+    "name": "Tỉnh Bình Dương",
+    "type": "Tỉnh",
+    "level2s": []
+  },
+  {
+    "level1_id": "713",
+    "name": "Tỉnh Đồng Nai",
+    "type": "Tỉnh",
+    "level2s": []
+  },
+  {
+    "level1_id": "715",
+    "name": "Tỉnh Bình Thuận",
+    "type": "Tỉnh",
+    "level2s": []
+  },
+  {
+    "level1_id": "717",
+    "name": "Tỉnh Bà Rịa - Vũng Tàu",
+    "type": "Tỉnh",
+    "level2s": []
+  },
+  {
+    "level1_id": "801",
+    "name": "Tỉnh Long An",
+    "type": "Tỉnh",
+    "level2s": []
+  },
+  {
+    "level1_id": "803",
+    "name": "Tỉnh Đồng Tháp",
+    "type": "Tỉnh",
+    "level2s": []
+  },
+  {
+    "level1_id": "805",
+    "name": "Tỉnh An Giang",
+    "type": "Tỉnh",
+    "level2s": []
+  },
+  {
+    "level1_id": "807",
+    "name": "Tỉnh Tiền Giang",
+    "type": "Tỉnh",
+    "level2s": []
+  },
+  {
+    "level1_id": "809",
+    "name": "Tỉnh Vĩnh Long",
+    "type": "Tỉnh",
+    "level2s": []
+  },
+  {
+    "level1_id": "811",
+    "name": "Tỉnh Bến Tre",
+    "type": "Tỉnh",
+    "level2s": []
+  },
+  {
+    "level1_id": "813",
+    "name": "Tỉnh Kiên Giang",
+    "type": "Tỉnh",
+    "level2s": []
+  },
+  {
+    "level1_id": "815",
+    "name": "Tỉnh Cần Thơ",
+    "type": "Thành phố Trung ương",
+    "level2s": []
+  },
+  {
+    "level1_id": "817",
+    "name": "Tỉnh Trà Vinh",
+    "type": "Tỉnh",
+    "level2s": []
+  },
+  {
+    "level1_id": "819",
+    "name": "Tỉnh Sóc Trăng",
+    "type": "Tỉnh",
+    "level2s": []
+  },
+  {
+    "level1_id": "821",
+    "name": "Tỉnh Bạc Liêu",
+    "type": "Tỉnh",
+    "level2s": []
+  },
+  {
+    "level1_id": "823",
+    "name": "Tỉnh Cà Mau",
+    "type": "Tỉnh",
+    "level2s": []
+  }
+]
