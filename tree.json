@@ -1210,7 +1210,8 @@
         ],
         "Thị Xã Mường Lay": [
             "Phường Sông Đà",
-            "Phường Na Lay"
+            "Phường Na Lay",
+            "Xã Lay Nưa"
         ],
         "Huyện Mường Nhé": [
             "Xã Sín Thầu",
@@ -7447,7 +7448,9 @@
         "Quận Liên Chiểu": [
             "Phường Hòa Hiệp Bắc",
             "Phường Hòa Khánh Bắc",
-            "Phường Hòa Minh"
+            "Phường Hòa Minh",
+            "Phường Hòa Hiệp Nam",
+            "Phường Hòa Khánh Nam"
         ],
         "Quận Thanh Khê": [
             "Phường Tam Thuận",
@@ -7471,7 +7474,9 @@
             "Phường Bình Hiên",
             "Phường Bình Thuận",
             "Phường Hòa Cường Bắc",
-            "Phường Khuê Trung"
+            "Phường Khuê Trung",
+            "Phường Hòa Thuận Đông",
+            "Phường Hòa Cường Nam"
         ],
         "Quận Sơn Trà": [
             "Phường Thọ Quang",
@@ -7485,7 +7490,8 @@
         "Quận Ngũ Hành Sơn": [
             "Phường Mỹ An",
             "Phường Hoà Quý",
-            "Phường Hoà Hải"
+            "Phường Hoà Hải",
+            "Phường Khuê Mỹ"
         ],
         "Huyện Hòa Vang": [
             "Xã Hòa Bắc",

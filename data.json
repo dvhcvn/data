@@ -5759,6 +5759,11 @@
             "level3_id": "03151",
             "name": "Phường Na Lay",
             "type": "Phường"
+          },
+          {
+            "level3_id": "03184",
+            "name": "Xã Lay Nưa",
+            "type": "Xã"
           }
         ]
       },
@@ -5822,11 +5827,6 @@
           {
             "level3_id": "03181",
             "name": "Xã Mường Tùng",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "03184",
-            "name": "Xã Lay Nưa",
             "type": "Xã"
           },
           {
@@ -36040,8 +36040,18 @@
             "type": "Phường"
           },
           {
+            "level3_id": "20195",
+            "name": "Phường Hòa Hiệp Nam",
+            "type": "Phường"
+          },
+          {
             "level3_id": "20197",
             "name": "Phường Hòa Khánh Bắc",
+            "type": "Phường"
+          },
+          {
+            "level3_id": "20198",
+            "name": "Phường Hòa Khánh Nam",
             "type": "Phường"
           },
           {
@@ -36139,6 +36149,11 @@
             "type": "Phường"
           },
           {
+            "level3_id": "20246",
+            "name": "Phường Hòa Thuận Đông",
+            "type": "Phường"
+          },
+          {
             "level3_id": "20248",
             "name": "Phường Nam Dương",
             "type": "Phường"
@@ -36156,6 +36171,11 @@
           {
             "level3_id": "20257",
             "name": "Phường Hòa Cường Bắc",
+            "type": "Phường"
+          },
+          {
+            "level3_id": "20258",
+            "name": "Phường Hòa Cường Nam",
             "type": "Phường"
           },
           {
@@ -36215,6 +36235,11 @@
           {
             "level3_id": "20284",
             "name": "Phường Mỹ An",
+            "type": "Phường"
+          },
+          {
+            "level3_id": "20285",
+            "name": "Phường Khuê Mỹ",
             "type": "Phường"
           },
           {
