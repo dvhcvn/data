@@ -6185,7 +6185,65 @@
         "level2_id": "105",
         "name": "Thị xã Lai Châu",
         "type": "Thị xã",
-        "level3s": []
+        "level3s": [
+          {
+            "level3_id": "03386",
+            "name": "Phường Quyết Thắng",
+            "type": "Phường"
+          },
+          {
+            "level3_id": "03387",
+            "name": "Phường Tân Phong",
+            "type": "Phường"
+          },
+          {
+            "level3_id": "03389",
+            "name": "Phường Đoàn Kết",
+            "type": "Phường"
+          },
+          {
+            "level3_id": "03403",
+            "name": "Xã Nậm Loỏng",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "03409",
+            "name": "Xã San Thàng",
+            "type": "Xã"
+          }
+        ]
+      },
+      {
+        "level2_id": "105",
+        "name": "Thị xã Lai Châu",
+        "type": "Thị xã",
+        "level3s": [
+          {
+            "level3_id": "03386",
+            "name": "Phường Quyết Thắng",
+            "type": "Phường"
+          },
+          {
+            "level3_id": "03387",
+            "name": "Phường Tân Phong",
+            "type": "Phường"
+          },
+          {
+            "level3_id": "03389",
+            "name": "Phường Đoàn Kết",
+            "type": "Phường"
+          },
+          {
+            "level3_id": "03403",
+            "name": "Xã Nậm Loỏng",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "03409",
+            "name": "Xã San Thàng",
+            "type": "Xã"
+          }
+        ]
       },
       {
         "level2_id": "106",
@@ -6193,8 +6251,8 @@
         "type": "Huyện",
         "level3s": [
           {
-            "level3_id": "03388",
-            "name": "Thị trấn Phong Thổ",
+            "level3_id": "03390",
+            "name": "Thị trấn Tam Đường",
             "type": "Thị trấn"
           },
           {
@@ -6218,18 +6276,8 @@
             "type": "Xã"
           },
           {
-            "level3_id": "03403",
-            "name": "Xã Nậm Loỏng",
-            "type": "Xã"
-          },
-          {
             "level3_id": "03406",
             "name": "Xã Hồ Thầu",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "03409",
-            "name": "Xã Tam Đường",
             "type": "Xã"
           },
           {
@@ -6483,6 +6531,11 @@
         "name": "Huyện Phong Thổ",
         "type": "Huyện",
         "level3s": [
+          {
+            "level3_id": "03549",
+            "name": "Thị trấn Phong Thổ",
+            "type": "Thị trấn"
+          },
           {
             "level3_id": "03550",
             "name": "Xã Sì Lờ Lầu",

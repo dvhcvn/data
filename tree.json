@@ -1281,7 +1281,13 @@
         ]
     },
     "Tỉnh Lai Châu": {
-        "Thị xã Lai Châu": [],
+        "Thị xã Lai Châu": [
+            "Phường Quyết Thắng",
+            "Phường Tân Phong",
+            "Phường Đoàn Kết",
+            "Xã Nậm Loỏng",
+            "Xã San Thàng"
+        ],
         "Huyện Tam Đường": [
             "Thị trấn Phong Thổ",
             "Xã Lả Nhì Thàng",
@@ -1297,7 +1303,8 @@
             "Xã Bản Hon",
             "Xã Bản Bo",
             "Xã Nà Tăm",
-            "Xã Khun Há"
+            "Xã Khun Há",
+            "Thị trấn Tam Đường"
         ],
         "Huyện Mường Tè": [
             "Thị trấn Mường Tè",
@@ -1357,7 +1364,8 @@
             "Xã Khổng Lào",
             "Xã Nậm Xe",
             "Xã Mường So",
-            "Xã Sin Suối Hồ"
+            "Xã Sin Suối Hồ",
+            "Thị trấn Phong Thổ"
         ],
         "Huyện Than Uyên": [
             "Thị trấn Than Uyên",
