@@ -20,8 +20,18 @@
             "type": "Phường"
           },
           {
+            "level3_id": "00006",
+            "name": "Phường Vĩnh Phúc",
+            "type": "Phường"
+          },
+          {
             "level3_id": "00007",
             "name": "Phường Cống Vị",
+            "type": "Phường"
+          },
+          {
+            "level3_id": "00008",
+            "name": "Phường Liễu Giai",
             "type": "Phường"
           },
           {
@@ -315,6 +325,11 @@
           {
             "level3_id": "00166",
             "name": "Phường Dịch Vọng",
+            "type": "Phường"
+          },
+          {
+            "level3_id": "00167",
+            "name": "Phường Dịch Vọng Hậu",
             "type": "Phường"
           },
           {
@@ -1028,8 +1043,8 @@
           },
           {
             "level3_id": "00565",
-            "name": "Xã Trâu Quỳ",
-            "type": "Xã"
+            "name": "Thị trấn Trâu Quỳ",
+            "type": "Thị trấn"
           },
           {
             "level3_id": "00568",
@@ -36360,58 +36375,18 @@
             "type": "Xã"
           },
           {
-            "level3_id": "20365",
-            "name": "Xã Tam Thành",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "20368",
-            "name": "Xã Tam An",
-            "type": "Xã"
-          },
-          {
             "level3_id": "20371",
             "name": "Xã Tam Phú",
             "type": "Xã"
           },
           {
-            "level3_id": "20374",
-            "name": "Xã Tam Đàn",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "20377",
-            "name": "Xã Tam Lộc",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "20380",
-            "name": "Xã Tam Phước",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "20383",
-            "name": "Xã Tam Vinh",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "20386",
-            "name": "Xã Tam Thái",
-            "type": "Xã"
+            "level3_id": "20375",
+            "name": "Phường Hoà Thuận",
+            "type": "Phường"
           },
           {
             "level3_id": "20389",
             "name": "Xã Tam Ngọc",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "20392",
-            "name": "Xã Tam Dân",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "20395",
-            "name": "Xã Tam Lãnh",
             "type": "Xã"
           }
         ]
@@ -37634,6 +37609,63 @@
           {
             "level3_id": "21007",
             "name": "Xã Tam Trà",
+            "type": "Xã"
+          }
+        ]
+      },
+      {
+        "level2_id": "518",
+        "name": "Huyện Phú Ninh",
+        "type": "Huyện",
+        "level3s": [
+          {
+            "level3_id": "20365",
+            "name": "Xã Tam Thành",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "20368",
+            "name": "Xã Tam An",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "20374",
+            "name": "Xã Tam Đàn",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "20377",
+            "name": "Xã Tam Lộc",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "20380",
+            "name": "Xã Tam Phước",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "20383",
+            "name": "Xã Tam Vinh",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "20386",
+            "name": "Xã Tam Thái",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "20387",
+            "name": "Xã Tam Đại",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "20392",
+            "name": "Xã Tam Dân",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "20395",
+            "name": "Xã Tam Lãnh",
             "type": "Xã"
           }
         ]
@@ -39511,8 +39543,8 @@
     "level2s": [
       {
         "level2_id": "555",
-        "name": "Thị xã Tuy Hòa",
-        "type": "Thị xã",
+        "name": "Thành phố Tuy Hoà",
+        "type": "Thành phố",
         "level3s": [
           {
             "level3_id": "22015",
@@ -39573,6 +39605,16 @@
             "level3_id": "22048",
             "name": "Xã Bình Ngọc",
             "type": "Xã"
+          },
+          {
+            "level3_id": "22162",
+            "name": "Xã An Phú",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "22240",
+            "name": "Phường Phú Lâm",
+            "type": "Phường"
           }
         ]
       },
@@ -39779,11 +39821,6 @@
             "level3_id": "22159",
             "name": "Xã An Thọ",
             "type": "Xã"
-          },
-          {
-            "level3_id": "22162",
-            "name": "Xã An Phú",
-            "type": "Xã"
           }
         ]
       },
@@ -39931,11 +39968,6 @@
         "name": "Huyện Tuy Hòa",
         "type": "Huyện",
         "level3s": [
-          {
-            "level3_id": "22240",
-            "name": "Thị trấn Phú Lâm",
-            "type": "Thị trấn"
-          },
           {
             "level3_id": "22243",
             "name": "Xã Hòa Thành",

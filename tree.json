@@ -12,7 +12,9 @@
             "Phường Ngọc Khánh",
             "Phường Kim Mã",
             "Phường Giảng Võ",
-            "Phường Thành Công"
+            "Phường Thành Công",
+            "Phường Vĩnh Phúc",
+            "Phường Liễu Giai"
         ],
         "Quận Hoàn Kiếm": [
             "Phường Phúc Tân",
@@ -67,7 +69,8 @@
             "Phường Dịch Vọng",
             "Phường Quan Hoa",
             "Phường Yên Hoà",
-            "Phường Trung Hoà"
+            "Phường Trung Hoà",
+            "Phường Dịch Vọng Hậu"
         ],
         "Quận Đống Đa": [
             "Phường Cát Linh",
@@ -219,7 +222,8 @@
             "Xã Kiêu Kỵ",
             "Xã Bát Tràng",
             "Xã Kim Lan",
-            "Xã Văn Đức"
+            "Xã Văn Đức",
+            "Thị trấn Trâu Quỳ"
         ],
         "Huyện Từ Liêm": [
             "Thị trấn Cầu Diễn",
@@ -7523,7 +7527,8 @@
             "Xã Tam Thái",
             "Xã Tam Ngọc",
             "Xã Tam Dân",
-            "Xã Tam Lãnh"
+            "Xã Tam Lãnh",
+            "Phường Hoà Thuận"
         ],
         "Thị xã Hội An": [
             "Phường Minh An",
@@ -7758,6 +7763,18 @@
             "Xã Tam Nghĩa",
             "Xã Tam Mỹ",
             "Xã Tam Trà"
+        ],
+        "Huyện Phú Ninh": [
+            "Xã Tam Thành",
+            "Xã Tam An",
+            "Xã Tam Đàn",
+            "Xã Tam Lộc",
+            "Xã Tam Phước",
+            "Xã Tam Vinh",
+            "Xã Tam Thái",
+            "Xã Tam Đại",
+            "Xã Tam Dân",
+            "Xã Tam Lãnh"
         ]
     },
     "Tỉnh Quảng Ngãi": {
@@ -8269,6 +8286,22 @@
             "Xã Hòa Định Đông",
             "Xã Hòa Định Tây",
             "Xã Hòa Thắng"
+        ],
+        "Thành phố Tuy Hoà": [
+            "Phường 1",
+            "Phường 8",
+            "Phường 2",
+            "Phường 9",
+            "Phường 3",
+            "Phường 4",
+            "Phường 5",
+            "Phường 7",
+            "Phường 6",
+            "Xã Hòa Kiến",
+            "Xã Bình Kiến",
+            "Xã Bình Ngọc",
+            "Xã An Phú",
+            "Phường Phú Lâm"
         ]
     },
     "Tỉnh Khánh Hòa": {
