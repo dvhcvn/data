@@ -1172,6 +1172,25 @@
             "Xã Thẩm Dương",
             "Xã Liêm Phú",
             "Xã Nậm Xây"
+        ],
+        "Thành phố Lào Cai": [
+            "Phường Duyên Hải",
+            "Phường Lào Cai",
+            "Phường Phố Mới",
+            "Phường Cốc Lếu",
+            "Phường Kim Tân",
+            "Phường Bắc Lệnh",
+            "Phường Pom Hán",
+            "Phường Xuân Tăng",
+            "Phường Bình Minh",
+            "Phường Thống Nhất",
+            "Xã Đồng Tuyển",
+            "Xã Vạn Hoà",
+            "Phường Bắc Cường",
+            "Phường Nam Cường",
+            "Xã Cam Đường",
+            "Xã Tả Phời",
+            "Xã Hợp Thành"
         ]
     },
     "Tỉnh Điện Biên": {
@@ -3275,7 +3294,8 @@
             "Phường Đồng Tâm",
             "Xã Định Trung",
             "Xã Khai Quang",
-            "Xã Thanh Trù"
+            "Xã Thanh Trù",
+            "Phường Khai Quang"
         ],
         "Thị xã Phúc Yên": [
             "Phường Trưng Trắc",
@@ -9216,7 +9236,8 @@
             "Xã Đạ Long",
             "Xã Đam Rong",
             "Xã Lát",
-            "Xã Đạ Sar"
+            "Xã Đạ Sar",
+            "Xã Đạ Nhim"
         ],
         "Huyện Lâm Hà": [
             "Thị trấn Nam Ban",
@@ -9342,6 +9363,16 @@
             "Xã Phù Mỹ",
             "Xã Quảng Ngãi",
             "Xã Đồng Nai Thượng"
+        ],
+        "Huyện Đam Rông": [
+            "Xã Đạ Tông",
+            "Xã Đạ Long",
+            "Xã Đạ M' Rong",
+            "Xã Liêng Srônh",
+            "Xã Đạ Rsal",
+            "Xã Rô Men",
+            "Xã Phi Liêng",
+            "Xã Đạ K' Nàng"
         ]
     },
     "Tỉnh Bình Phước": {
@@ -9613,7 +9644,8 @@
             "Xã Tam Lập",
             "Xã Tân Long",
             "Xã Vĩnh Hoà",
-            "Xã Phước Hoà"
+            "Xã Phước Hoà",
+            "Xã An Thái"
         ],
         "Huyện Tân Uyên": [
             "Thị trấn Uyên Hưng",
@@ -9625,7 +9657,9 @@
             "Xã Bạch Đằng",
             "Xã Tân Vĩnh Hiệp",
             "Xã Thạnh Phước",
-            "Xã Thái Hòa"
+            "Xã Thái Hòa",
+            "Xã Tân Hiệp",
+            "Xã Thạnh Hội"
         ],
         "Huyện Dĩ An": [
             "Thị trấn Dĩ An",
@@ -11087,7 +11121,9 @@
             "Xã Tân Thuận Tây",
             "Xã Hòa An",
             "Xã Tân Thuận Đông",
-            "Xã Tịnh Thới"
+            "Xã Tịnh Thới",
+            "Phường Mỹ Phú",
+            "Phường Hoà Thuận"
         ],
         "Thị xã Sa Đéc": [
             "Phường 3",
@@ -11097,7 +11133,9 @@
             "Xã Tân Khánh Đông",
             "Xã Tân Quy Đông",
             "Xã Tân Quy Tây",
-            "Xã Tân Phú Đông"
+            "Xã Tân Phú Đông",
+            "Phường Tân Quy Đông",
+            "Phường An Hoà"
         ],
         "Huyện Tân Hồng": [
             "Thị trấn Sa Rài",
@@ -11976,7 +12014,10 @@
             "Xã Hưng Mỹ",
             "Xã Đông Thới",
             "Xã Tân Hưng Đông",
-            "Xã Trần Thới"
+            "Xã Trần Thới",
+            "Xã Thạnh Phú",
+            "Xã Hoà Mỹ",
+            "Xã Đông Hưng"
         ],
         "Huyện Đầm Dơi": [
             "Thị trấn Đầm Dơi",
@@ -12009,7 +12050,9 @@
             "Xã Tân Hải",
             "Xã Việt Thắng",
             "Xã Tân Hưng Tây",
-            "Xã Nguyễn Việt Khái"
+            "Xã Nguyễn Việt Khái",
+            "Xã Phú Thuận",
+            "Xã Rạch Chèo"
         ],
         "Huyện Ngọc Hiển": [
             "Xã Tam Giang Tây",
