@@ -47746,6 +47746,11 @@
             "type": "Phường"
           },
           {
+            "level3_id": "26508",
+            "name": "Phường Thắng Tam",
+            "type": "Phường"
+          },
+          {
             "level3_id": "26509",
             "name": "Phường 2",
             "type": "Phường"
@@ -47776,6 +47781,11 @@
             "type": "Phường"
           },
           {
+            "level3_id": "26526",
+            "name": "Phường Nguyễn An Ninh",
+            "type": "Phường"
+          },
+          {
             "level3_id": "26527",
             "name": "Phường 8",
             "type": "Phường"
@@ -47788,6 +47798,11 @@
           {
             "level3_id": "26533",
             "name": "Phường Thắng Nhất",
+            "type": "Phường"
+          },
+          {
+            "level3_id": "26535",
+            "name": "Phường Rạch Dừa",
             "type": "Phường"
           },
           {
@@ -47869,6 +47884,11 @@
         "name": "Huyện Châu Đức",
         "type": "Huyện",
         "level3s": [
+          {
+            "level3_id": "26574",
+            "name": "Xã Bàu Chinh",
+            "type": "Xã"
+          },
           {
             "level3_id": "26575",
             "name": "Thị trấn Ngãi Giao",
