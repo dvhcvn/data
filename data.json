@@ -54602,6 +54602,11 @@
             "type": "Phường"
           },
           {
+            "level3_id": "30285",
+            "name": "Phường Đông Xuyên",
+            "type": "Phường"
+          },
+          {
             "level3_id": "30286",
             "name": "Phường Mỹ Xuyên",
             "type": "Phường"
@@ -54638,8 +54643,8 @@
           },
           {
             "level3_id": "30307",
-            "name": "Xã Mỹ Hòa",
-            "type": "Xã"
+            "name": "Phường Mỹ Hòa",
+            "type": "Phường"
           },
           {
             "level3_id": "30310",
@@ -54709,6 +54714,11 @@
             "level3_id": "30340",
             "name": "Xã Khánh An",
             "type": "Xã"
+          },
+          {
+            "level3_id": "30341",
+            "name": "Thị Trấn Long Bình",
+            "type": "Thị trấn"
           },
           {
             "level3_id": "30343",
@@ -54790,6 +54800,11 @@
           {
             "level3_id": "30385",
             "name": "Xã Vĩnh Hòa",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "30387",
+            "name": "Xã Tân Thạnh",
             "type": "Xã"
           },
           {
@@ -55035,8 +55050,8 @@
           },
           {
             "level3_id": "30520",
-            "name": "Xã Xuân Tô",
-            "type": "Xã"
+            "name": "Thị trấn Tịnh Biên",
+            "type": "Thị trấn"
           },
           {
             "level3_id": "30523",
@@ -55349,6 +55364,11 @@
           {
             "level3_id": "30691",
             "name": "Xã Tây Phú",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "30692",
+            "name": "Xã An Bình",
             "type": "Xã"
           },
           {
