@@ -4730,7 +4730,8 @@
             "Xã Đông Hải",
             "Xã Quỳnh Trang",
             "Xã An Tràng",
-            "Xã Đồng Tiến"
+            "Xã Đồng Tiến",
+            "Thị trấn An Bài"
         ],
         "Huyện Hưng Hà": [
             "Thị trấn Hưng Hà",
@@ -4766,7 +4767,10 @@
             "Xã Độc Lập",
             "Xã Chí Hòa",
             "Xã Minh Hòa",
-            "Xã Hồng Minh"
+            "Xã Hồng Minh",
+            "Thị trấn Hưng Nhân",
+            "Xã Hòa Bình",
+            "Xã Chi Lăng"
         ],
         "Huyện Đông Hưng": [
             "Thị trấn Đông Hưng",
@@ -8203,7 +8207,8 @@
             "Xã Xuân Thịnh",
             "Xã Xuân Phương",
             "Xã Xuân Thọ 1",
-            "Xã Xuân Thọ 2"
+            "Xã Xuân Thọ 2",
+            "Xã Xuân Lâm"
         ],
         "Huyện Đồng Xuân": [
             "Thị trấn La Hai",
@@ -8314,6 +8319,31 @@
             "Xã Bình Ngọc",
             "Xã An Phú",
             "Phường Phú Lâm"
+        ],
+        "Huyện Tây Hoà": [
+            "Xã Sơn Thành Tây",
+            "Xã Sơn Thành Đông",
+            "Xã Hòa Bình 1",
+            "Xã Hòa Bình 2",
+            "Xã Hòa Phong",
+            "Xã Hòa Phú",
+            "Xã Hòa Tân Tây",
+            "Xã Hòa Đồng",
+            "Xã Hòa Mỹ Đông",
+            "Xã Hòa Mỹ Tây",
+            "Xã Hòa Thịnh"
+        ],
+        "Huyện Đông Hòa": [
+            "Xã Hòa Thành",
+            "Xã Hòa Hiệp Bắc",
+            "Xã Hòa Vinh",
+            "Xã Hòa Hiệp Trung",
+            "Xã Hòa Tân Đông",
+            "Xã Hòa Xuân Tây",
+            "Xã Hòa Hiệp Nam",
+            "Xã Hòa Xuân Đông",
+            "Xã Hòa Tâm",
+            "Xã Hòa Xuân Nam"
         ]
     },
     "Tỉnh Khánh Hòa": {
@@ -9475,14 +9505,18 @@
             "Xã Lộc Thái",
             "Xã Lộc Điền",
             "Xã Lộc Hưng",
-            "Xã Lộc Khánh"
+            "Xã Lộc Khánh",
+            "Xã Lộc Thạnh",
+            "Xã Lộc Thịnh"
         ],
         "Huyện Bù Đốp": [
             "Xã Hưng Phước",
             "Xã Thiện Hưng",
             "Xã Thanh Hòa",
             "Xã Tân Thành",
-            "Xã Tân Tiến"
+            "Xã Tân Tiến",
+            "Thị trấn Thanh Bình",
+            "Xã Phước Thiện"
         ],
         "Huyện Bình Long": [
             "Thị trấn An Lộc",
@@ -9497,7 +9531,8 @@
             "Xã Phước An",
             "Xã Thanh Bình",
             "Xã Tân Khai",
-            "Xã Đồng Nơ"
+            "Xã Đồng Nơ",
+            "Xã Tân Hiệp"
         ],
         "Huyện Đồng Phú": [
             "Thị trấn Tân Phú",
@@ -9524,7 +9559,8 @@
             "Xã Thống Nhất",
             "Xã Nghĩa Trung",
             "Xã Đăng Hà",
-            "Xã Phước Sơn"
+            "Xã Phước Sơn",
+            "Xã Phú Sơn"
         ],
         "Huyện Chơn Thành": [
             "Thị trấn Chơn Thành",
@@ -9534,7 +9570,8 @@
             "Xã Minh Long",
             "Xã Minh Thành",
             "Xã Nha Bích",
-            "Xã Minh Thắng"
+            "Xã Minh Thắng",
+            "Xã Thành Tâm"
         ]
     },
     "Tỉnh Tây Ninh": {
