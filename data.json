@@ -6051,6 +6051,11 @@
             "type": "Xã"
           },
           {
+            "level3_id": "03317",
+            "name": "Xã Nà Nhạn",
+            "type": "Xã"
+          },
+          {
             "level3_id": "03319",
             "name": "Xã Mường Pồn",
             "type": "Xã"
@@ -6143,6 +6148,11 @@
         "type": "Huyện",
         "level3s": [
           {
+            "level3_id": "03203",
+            "name": "Thị trấn Điện Biên Đông",
+            "type": "Thị trấn"
+          },
+          {
             "level3_id": "03205",
             "name": "Xã Na Son",
             "type": "Xã"
@@ -6168,6 +6178,11 @@
             "type": "Xã"
           },
           {
+            "level3_id": "03371",
+            "name": "Xã Nong U",
+            "type": "Xã"
+          },
+          {
             "level3_id": "03373",
             "name": "Xã Xa Dung",
             "type": "Xã"
@@ -6185,6 +6200,16 @@
           {
             "level3_id": "03382",
             "name": "Xã Phình Giàng",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "03383",
+            "name": "Xã Pú Hồng",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "03384",
+            "name": "Xã Tìa Dình",
             "type": "Xã"
           },
           {
@@ -44491,6 +44516,11 @@
             "type": "Xã"
           },
           {
+            "level3_id": "24677",
+            "name": "Xã Đắk N'Drót",
+            "type": "Xã"
+          },
+          {
             "level3_id": "24679",
             "name": "Xã Đắk Sắk",
             "type": "Xã"
@@ -44533,8 +44563,13 @@
             "type": "Xã"
           },
           {
+            "level3_id": "24699",
+            "name": "Xã Tân Thành",
+            "type": "Xã"
+          },
+          {
             "level3_id": "24700",
-            "name": "Xã Đắk Rồ",
+            "name": "Xã Đắk Drô",
             "type": "Xã"
           },
           {
@@ -44586,7 +44621,12 @@
           },
           {
             "level3_id": "24727",
-            "name": "Xã Đắk Rung",
+            "name": "Xã Đắk N'Dung",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "24728",
+            "name": "Xã Nâm N'Jang",
             "type": "Xã"
           },
           {
@@ -44629,6 +44669,11 @@
           {
             "level3_id": "24748",
             "name": "Xã Quảng Tân",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "24750",
+            "name": "Xã Đắk Wer",
             "type": "Xã"
           },
           {

@@ -1289,7 +1289,8 @@
             "Xã Núa Ngam",
             "Xã Na Ư",
             "Xã Mường Nhà",
-            "Xã Mường Lói"
+            "Xã Mường Lói",
+            "Xã Nà Nhạn"
         ],
         "Huyện Điện Biên Đông": [
             "Xã Na Son",
@@ -1301,7 +1302,11 @@
             "Xã Keo Lôm",
             "Xã Luân Giới",
             "Xã Phình Giàng",
-            "Xã Háng Lìa"
+            "Xã Háng Lìa",
+            "Thị trấn Điện Biên Đông",
+            "Xã Nong U",
+            "Xã Pú Hồng",
+            "Xã Tìa Dình"
         ]
     },
     "Tỉnh Lai Châu": {
@@ -9248,7 +9253,8 @@
             "Xã Đức Mạnh",
             "Xã Đắk Sắk",
             "Xã Thuận An",
-            "Xã Đức Minh"
+            "Xã Đức Minh",
+            "Xã Đắk N'Drót"
         ],
         "Huyện Krông Nô": [
             "Thị trấn Đắk Mâm",
@@ -9260,14 +9266,18 @@
             "Xã Đức Xuyên",
             "Xã Đắk Nang",
             "Xã Quảng Phú",
-            "Xã Nâm N'Đir"
+            "Xã Nâm N'Đir",
+            "Xã Tân Thành",
+            "Xã Đắk Drô"
         ],
         "Huyện Đắk Song": [
             "Xã Đắk Môl",
             "Xã Đắk Song",
             "Xã Thuận Hạnh",
             "Xã Đắk Rung",
-            "Xã Trường Xuân"
+            "Xã Trường Xuân",
+            "Xã Đắk N'Dung",
+            "Xã Nâm N'Jang"
         ],
         "Huyện Đắk R'Lấp": [
             "Thị trấn Kiến Đức",
@@ -9281,7 +9291,8 @@
             "Xã Đạo Nghĩa",
             "Xã Đắk Sin",
             "Xã Đắk Ru",
-            "Xã Nhân Đạo"
+            "Xã Nhân Đạo",
+            "Xã Đắk Wer"
         ]
     },
     "Tỉnh Lâm Đồng": {
