@@ -42070,48 +42070,18 @@
             "type": "Thị trấn"
           },
           {
-            "level3_id": "23404",
-            "name": "Xã Ngọk Lây",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "23407",
-            "name": "Xã Đắk Na",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "23410",
-            "name": "Xã Măng Ri",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "23413",
-            "name": "Xã Ngok Yêu",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "23416",
-            "name": "Xã Đắk Sao",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "23419",
-            "name": "Xã Đắk Tơ Kan",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "23422",
-            "name": "Xã Tu Mơ Rông",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "23425",
-            "name": "Xã Đắk Hà",
+            "level3_id": "23427",
+            "name": "Xã Đắk Rơ Nga",
             "type": "Xã"
           },
           {
             "level3_id": "23428",
             "name": "Xã Ngọk Tụ",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "23430",
+            "name": "Xã Đắk Trăm",
             "type": "Xã"
           },
           {
@@ -42137,16 +42107,6 @@
           {
             "level3_id": "23443",
             "name": "Xã Pô Kô",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "23446",
-            "name": "Xã Tê Xăng",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "23449",
-            "name": "Xã Văn Xuôi",
             "type": "Xã"
           }
         ]
@@ -42350,6 +42310,68 @@
           {
             "level3_id": "23554",
             "name": "Xã Ya ly",
+            "type": "Xã"
+          }
+        ]
+      },
+      {
+        "level2_id": "617",
+        "name": "Huyện Tu Mơ Rông",
+        "type": "Huyện",
+        "level3s": [
+          {
+            "level3_id": "23404",
+            "name": "Xã Ngọc Lây",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "23407",
+            "name": "Xã Đắk Na",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "23410",
+            "name": "Xã Măng Ri",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "23413",
+            "name": "Xã Ngọc Yêu",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "23416",
+            "name": "Xã Đắk Sao",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "23417",
+            "name": "Xã Đắk Rơ Ông",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "23419",
+            "name": "Xã Đắk Tờ Kan",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "23422",
+            "name": "Xã Tu Mơ Rông",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "23425",
+            "name": "Xã Đắk Hà",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "23446",
+            "name": "Xã Tê Xăng",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "23449",
+            "name": "Xã Văn Xuôi",
             "type": "Xã"
           }
         ]
