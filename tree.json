@@ -9321,6 +9321,24 @@
             "Xã Đắk Ru",
             "Xã Nhân Đạo",
             "Xã Đắk Wer"
+        ],
+        "Thị xã Gia Nghĩa": [
+            "Phường Nghĩa Đức",
+            "Phường Nghĩa Thành",
+            "Phường Nghĩa Phú",
+            "Phường Nghĩa Tân",
+            "Phường Nghĩa Trung",
+            "Xã Đăk R'Moan",
+            "Xã Quảng Thành",
+            "Xã Đắk Nia"
+        ],
+        "Huyện Đăk Glong": [
+            "Xã Quảng Sơn",
+            "Xã Đắk Ha",
+            "Xã Đắk R'Măng",
+            "Xã Quảng Khê",
+            "Xã Đắk Plao",
+            "Xã Đắk Som"
         ]
     },
     "Tỉnh Lâm Đồng": {
@@ -10040,7 +10058,9 @@
             "Phường Long Hương",
             "Phường Kim Dinh",
             "Xã Long Phước",
-            "Xã Hoà Long"
+            "Xã Hoà Long",
+            "Phường Long Tâm",
+            "Xã Tân Hưng"
         ],
         "Huyện Châu Đức": [
             "Thị trấn Ngãi Giao",

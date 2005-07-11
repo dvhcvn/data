@@ -44409,23 +44409,60 @@
     "type": "Tỉnh",
     "level2s": [
       {
-        "level2_id": "661",
-        "name": "Huyện Đắk Nông",
-        "type": "Huyện",
+        "level2_id": "660",
+        "name": "Thị xã Gia Nghĩa",
+        "type": "Thị xã",
         "level3s": [
           {
-            "level3_id": "24613",
-            "name": "Thị trấn Gia Nghĩa",
-            "type": "Thị trấn"
+            "level3_id": "24611",
+            "name": "Phường Nghĩa Đức",
+            "type": "Phường"
           },
           {
-            "level3_id": "24616",
-            "name": "Xã Quảng Sơn",
+            "level3_id": "24612",
+            "name": "Phường Nghĩa Thành",
+            "type": "Phường"
+          },
+          {
+            "level3_id": "24614",
+            "name": "Phường Nghĩa Phú",
+            "type": "Phường"
+          },
+          {
+            "level3_id": "24615",
+            "name": "Phường Nghĩa Tân",
+            "type": "Phường"
+          },
+          {
+            "level3_id": "24617",
+            "name": "Phường Nghĩa Trung",
+            "type": "Phường"
+          },
+          {
+            "level3_id": "24618",
+            "name": "Xã Đăk R'Moan",
             "type": "Xã"
           },
           {
             "level3_id": "24619",
             "name": "Xã Quảng Thành",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "24628",
+            "name": "Xã Đắk Nia",
+            "type": "Xã"
+          }
+        ]
+      },
+      {
+        "level2_id": "661",
+        "name": "Huyện Đăk Glong",
+        "type": "Huyện",
+        "level3s": [
+          {
+            "level3_id": "24616",
+            "name": "Xã Quảng Sơn",
             "type": "Xã"
           },
           {
@@ -44436,11 +44473,6 @@
           {
             "level3_id": "24625",
             "name": "Xã Đắk R'Măng",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "24628",
-            "name": "Xã Đắk Nia",
             "type": "Xã"
           },
           {
@@ -48109,6 +48141,11 @@
             "type": "Phường"
           },
           {
+            "level3_id": "26558",
+            "name": "Phường Long Tâm",
+            "type": "Phường"
+          },
+          {
             "level3_id": "26560",
             "name": "Phường Phước Trung",
             "type": "Phường"
@@ -48122,6 +48159,11 @@
             "level3_id": "26566",
             "name": "Phường Kim Dinh",
             "type": "Phường"
+          },
+          {
+            "level3_id": "26567",
+            "name": "Xã Tân Hưng",
+            "type": "Xã"
           },
           {
             "level3_id": "26569",
