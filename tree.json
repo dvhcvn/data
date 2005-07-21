@@ -7639,7 +7639,13 @@
             "Xã Điện Trung",
             "Xã Điện Phong",
             "Xã Điện Minh",
-            "Xã Điện Phương"
+            "Xã Điện Phương",
+            "Xã Điện Thắng Bắc",
+            "Xã Điện Thắng Trung",
+            "Xã Điện Thắng Nam",
+            "Xã Điện Nam Bắc",
+            "Xã Điện Nam Trung",
+            "Xã Điện Nam Đông"
         ],
         "Huyện Duy Xuyên": [
             "Thị trấn Nam Phước",
@@ -7796,7 +7802,11 @@
             "Xã Tam Quang",
             "Xã Tam Nghĩa",
             "Xã Tam Mỹ",
-            "Xã Tam Trà"
+            "Xã Tam Trà",
+            "Xã Tam Anh Bắc",
+            "Xã Tam Anh Nam",
+            "Xã Tam Mỹ Tây",
+            "Xã Tam Mỹ Đông"
         ],
         "Huyện Phú Ninh": [
             "Xã Tam Thành",
@@ -8540,7 +8550,8 @@
             "Xã Xuân Hải",
             "Xã Hộ Hải",
             "Xã Tri Hải",
-            "Xã Nhơn Hải"
+            "Xã Nhơn Hải",
+            "Xã Thanh Hải"
         ],
         "Huyện Ninh Phước": [
             "Thị trấn Phước Dân",
@@ -8558,6 +8569,14 @@
             "Xã Phước Minh",
             "Xã Phước Diêm",
             "Xã Phước Vinh"
+        ],
+        "Huyện Thuận Bắc": [
+            "Xã Phước Chiến",
+            "Xã Công Hải",
+            "Xã Phước Kháng",
+            "Xã Lợi Hải",
+            "Xã Bắc Sơn",
+            "Xã Bắc Phong"
         ]
     },
     "Tỉnh Bình Thuận": {
