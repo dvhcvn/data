@@ -11704,7 +11704,8 @@
             "Xã Minh Hòa",
             "Xã Bình An",
             "Xã Thạnh Lộc",
-            "Xã Vĩnh Hoà Phú"
+            "Xã Vĩnh Hoà Phú",
+            "Xã Mong Thọ"
         ],
         "Huyện Giồng Riềng": [
             "Thị Trấn Giồng Riềng",
@@ -11722,7 +11723,9 @@
             "Xã Hoà An",
             "Xã Long Thạnh",
             "Xã Vĩnh Thạnh",
-            "Xã  Hòa Thuận"
+            "Xã  Hòa Thuận",
+            "Xã Vĩnh Phú",
+            "Xã Ngọc Hoà"
         ],
         "Huyện Gò Quao": [
             "Thị trấn Gò Quao",
@@ -11761,7 +11764,8 @@
             "Xã Đông Hưng B",
             "Xã Vân Khánh",
             "Xã Vân Khánh Đông",
-            "Xã Vân Khánh Tây"
+            "Xã Vân Khánh Tây",
+            "Xã Tân Thạnh"
         ],
         "Huyện Vĩnh Thuận": [
             "Thị trấn Vĩnh Thuận",
@@ -11789,7 +11793,22 @@
         "Huyện Kiên Hải": [
             "Xã Hòn Tre",
             "Xã Lại Sơn",
-            "Xã An Sơn"
+            "Xã An Sơn",
+            "Xã Nam Du"
+        ],
+        "Thành phố Rạch Giá": [
+            "Phường Vĩnh Thanh Vân",
+            "Phường Vĩnh Thanh",
+            "Phường Vĩnh Quang",
+            "Phường Vĩnh Hiệp",
+            "Phường Vĩnh Bảo",
+            "Phường Vĩnh Lạc",
+            "Phường An Hòa",
+            "Phường An Bình",
+            "Phường Rạch Sỏi",
+            "Phường Vĩnh Lợi",
+            "Phường Vĩnh Thông",
+            "Xã Phi Thông"
         ]
     },
     "Thành phố Cần Thơ": {
@@ -11939,7 +11958,15 @@
             "Xã Vị Thanh",
             "Xã Vị Bình"
         ],
-        "Huyện Long Mỹ": []
+        "Huyện Long Mỹ": [],
+        "Thị xã Tân Hiệp": [
+            "Phường Ngã Bảy",
+            "Phường Lái Hiếu",
+            "Phường Hiệp Thành",
+            "Xã Hiệp Lợi",
+            "Xã Đại Thành",
+            "Xã Tân Thành"
+        ]
     },
     "Tỉnh Sóc Trăng": {
         "Thị xã Sóc Trăng": [
@@ -12139,6 +12166,16 @@
             "Xã An Phúc",
             "Xã Định Thành",
             "Xã Định Thành A"
+        ],
+        "Huyện Hoà Bình": [
+            "Thị trấn Hòa Bình",
+            "Xã Minh Diệu",
+            "Xã Vĩnh Bình",
+            "Xã Vĩnh Mỹ B",
+            "Xã Vĩnh Hậu",
+            "Xã Vĩnh Hậu A",
+            "Xã Vĩnh Mỹ A",
+            "Xã Vĩnh Thịnh"
         ]
     },
     "Tỉnh Cà Mau": {

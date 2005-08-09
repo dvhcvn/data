@@ -55670,8 +55670,8 @@
     "level2s": [
       {
         "level2_id": "899",
-        "name": "Thị xã Rạch Giá",
-        "type": "Thị xã",
+        "name": "Thành phố Rạch Giá",
+        "type": "Thành phố",
         "level3s": [
           {
             "level3_id": "30730",
@@ -55994,6 +55994,11 @@
             "type": "Xã"
           },
           {
+            "level3_id": "30887",
+            "name": "Xã Mong Thọ",
+            "type": "Xã"
+          },
+          {
             "level3_id": "30889",
             "name": "Xã Giục Tượng",
             "type": "Xã"
@@ -56106,8 +56111,18 @@
             "type": "Xã"
           },
           {
+            "level3_id": "30947",
+            "name": "Xã Vĩnh Phú",
+            "type": "Xã"
+          },
+          {
             "level3_id": "30949",
             "name": "Xã  Hòa Thuận",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "30950",
+            "name": "Xã Ngọc Hoà",
             "type": "Xã"
           }
         ]
@@ -56264,6 +56279,11 @@
           {
             "level3_id": "31030",
             "name": "Xã Đông Thạnh",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "31031",
+            "name": "Xã Tân Thạnh",
             "type": "Xã"
           },
           {
@@ -56425,6 +56445,11 @@
           {
             "level3_id": "31114",
             "name": "Xã An Sơn",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "31115",
+            "name": "Xã Nam Du",
             "type": "Xã"
           }
         ]
@@ -56882,6 +56907,43 @@
         ]
       },
       {
+        "level2_id": "931",
+        "name": "Thị xã Tân Hiệp",
+        "type": "Thị xã",
+        "level3s": [
+          {
+            "level3_id": "31340",
+            "name": "Phường Ngã Bảy",
+            "type": "Phường"
+          },
+          {
+            "level3_id": "31341",
+            "name": "Phường Lái Hiếu",
+            "type": "Phường"
+          },
+          {
+            "level3_id": "31343",
+            "name": "Phường Hiệp Thành",
+            "type": "Phường"
+          },
+          {
+            "level3_id": "31344",
+            "name": "Xã Hiệp Lợi",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "31411",
+            "name": "Xã Đại Thành",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "31414",
+            "name": "Xã Tân Thành",
+            "type": "Xã"
+          }
+        ]
+      },
+      {
         "level2_id": "932",
         "name": "Huyện Châu Thành A",
         "type": "Huyện",
@@ -56981,11 +57043,6 @@
         "type": "Huyện",
         "level3s": [
           {
-            "level3_id": "31390",
-            "name": "Thị trấn Phụng Hiệp",
-            "type": "Thị trấn"
-          },
-          {
             "level3_id": "31393",
             "name": "Thị trấn Kinh Cùng",
             "type": "Thị trấn"
@@ -57013,16 +57070,6 @@
           {
             "level3_id": "31408",
             "name": "Xã Long Thạnh",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "31411",
-            "name": "Xã Đại Thành",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "31414",
-            "name": "Xã Tân Thành",
             "type": "Xã"
           },
           {
@@ -57889,11 +57936,6 @@
         "type": "Huyện",
         "level3s": [
           {
-            "level3_id": "31891",
-            "name": "Thị trấn Hòa Bình",
-            "type": "Thị trấn"
-          },
-          {
             "level3_id": "31894",
             "name": "Xã Vĩnh Hưng",
             "type": "Xã"
@@ -57929,43 +57971,8 @@
             "type": "Xã"
           },
           {
-            "level3_id": "31915",
-            "name": "Xã Minh Diệu",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "31918",
-            "name": "Xã Vĩnh Bình",
-            "type": "Xã"
-          },
-          {
             "level3_id": "31921",
             "name": "Xã Long Thạnh",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "31924",
-            "name": "Xã Vĩnh Mỹ B",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "31927",
-            "name": "Xã Vĩnh Hậu",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "31930",
-            "name": "Xã Vĩnh Hậu A",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "31933",
-            "name": "Xã Vĩnh Mỹ A",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "31936",
-            "name": "Xã Vĩnh Thịnh",
             "type": "Xã"
           }
         ]
@@ -58075,6 +58082,53 @@
           {
             "level3_id": "31996",
             "name": "Xã Định Thành A",
+            "type": "Xã"
+          }
+        ]
+      },
+      {
+        "level2_id": "961",
+        "name": "Huyện Hoà Bình",
+        "type": "Huyện",
+        "level3s": [
+          {
+            "level3_id": "31891",
+            "name": "Thị trấn Hòa Bình",
+            "type": "Thị trấn"
+          },
+          {
+            "level3_id": "31915",
+            "name": "Xã Minh Diệu",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "31918",
+            "name": "Xã Vĩnh Bình",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "31924",
+            "name": "Xã Vĩnh Mỹ B",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "31927",
+            "name": "Xã Vĩnh Hậu",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "31930",
+            "name": "Xã Vĩnh Hậu A",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "31933",
+            "name": "Xã Vĩnh Mỹ A",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "31936",
+            "name": "Xã Vĩnh Thịnh",
             "type": "Xã"
           }
         ]
