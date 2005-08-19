@@ -36123,7 +36123,12 @@
           },
           {
             "level3_id": "20206",
-            "name": "Phường Thanh Lộc Đán",
+            "name": "Phường Thanh Khê Tây",
+            "type": "Phường"
+          },
+          {
+            "level3_id": "20207",
+            "name": "Phường Thanh Khê Đông",
             "type": "Phường"
           },
           {
@@ -36154,6 +36159,11 @@
           {
             "level3_id": "20224",
             "name": "Phường An Khê",
+            "type": "Phường"
+          },
+          {
+            "level3_id": "20225",
+            "name": "Phường Hòa Khê",
             "type": "Phường"
           }
         ]
@@ -36226,11 +36236,6 @@
           {
             "level3_id": "20258",
             "name": "Phường Hòa Cường Nam",
-            "type": "Phường"
-          },
-          {
-            "level3_id": "20260",
-            "name": "Phường Khuê Trung",
             "type": "Phường"
           }
         ]
@@ -36305,6 +36310,43 @@
         ]
       },
       {
+        "level2_id": "495",
+        "name": "Quận Cẩm Lệ",
+        "type": "Quận",
+        "level3s": [
+          {
+            "level3_id": "20260",
+            "name": "Phường Khuê Trung",
+            "type": "Phường"
+          },
+          {
+            "level3_id": "20305",
+            "name": "Phường Hòa Phát",
+            "type": "Phường"
+          },
+          {
+            "level3_id": "20306",
+            "name": "Phường Hòa An",
+            "type": "Phường"
+          },
+          {
+            "level3_id": "20311",
+            "name": "Phường Hòa Thọ Tây",
+            "type": "Phường"
+          },
+          {
+            "level3_id": "20312",
+            "name": "Phường Hòa Thọ Đông",
+            "type": "Phường"
+          },
+          {
+            "level3_id": "20314",
+            "name": "Phường Hòa Xuân",
+            "type": "Phường"
+          }
+        ]
+      },
+      {
         "level2_id": "497",
         "name": "Huyện Hòa Vang",
         "type": "Huyện",
@@ -36330,23 +36372,8 @@
             "type": "Xã"
           },
           {
-            "level3_id": "20305",
-            "name": "Xã Hoà Phát",
-            "type": "Xã"
-          },
-          {
             "level3_id": "20308",
             "name": "Xã Hòa Nhơn",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "20311",
-            "name": "Xã Hoà Thọ",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "20314",
-            "name": "Xã Hoà Xuân",
             "type": "Xã"
           },
           {

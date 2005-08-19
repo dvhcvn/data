@@ -7488,7 +7488,10 @@
             "Phường Chính Gián",
             "Phường Vĩnh Trung",
             "Phường Thạc Gián",
-            "Phường An Khê"
+            "Phường An Khê",
+            "Phường Thanh Khê Tây",
+            "Phường Thanh Khê Đông",
+            "Phường Hòa Khê"
         ],
         "Quận Hải Châu": [
             "Phường Thanh Bình",
@@ -7537,7 +7540,15 @@
             "Xã Hòa Phước",
             "Xã Hòa Khương"
         ],
-        "Huyện Hoàng Sa": []
+        "Huyện Hoàng Sa": [],
+        "Quận Cẩm Lệ": [
+            "Phường Khuê Trung",
+            "Phường Hòa Phát",
+            "Phường Hòa An",
+            "Phường Hòa Thọ Tây",
+            "Phường Hòa Thọ Đông",
+            "Phường Hòa Xuân"
+        ]
     },
     "Tỉnh Quảng Nam": {
         "Thị xã Tam Kỳ": [
