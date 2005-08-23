@@ -1285,6 +1285,11 @@
             "type": "Phường"
           },
           {
+            "level3_id": "00692",
+            "name": "Phường Ngọc Hà",
+            "type": "Phường"
+          },
+          {
             "level3_id": "00694",
             "name": "Phường Nguyễn Trãi",
             "type": "Phường"
@@ -1501,6 +1506,11 @@
           {
             "level3_id": "00814",
             "name": "Xã Khâu Vai",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "00815",
+            "name": "Xã Niêm Tòng",
             "type": "Xã"
           },
           {
@@ -34804,6 +34814,11 @@
           {
             "level3_id": "19495",
             "name": "Thị trấn Gio Linh",
+            "type": "Thị trấn"
+          },
+          {
+            "level3_id": "19496",
+            "name": "Thị trấn Cửa Việt",
             "type": "Thị trấn"
           },
           {
