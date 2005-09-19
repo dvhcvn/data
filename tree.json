@@ -8745,6 +8745,17 @@
             "Xã Ngũ Phụng",
             "Xã Long Hải",
             "Xã Tam Thanh"
+        ],
+        "Thị xã La Gi": [
+            "Phường Phước Hội",
+            "Phường Phước Lộc",
+            "Phường Tân Thiện",
+            "Phường Tân An",
+            "Phường Bình Tân",
+            "Xã Tân Hải",
+            "Xã Tân Tiến",
+            "Xã Tân Bình",
+            "Xã Tân Phước"
         ]
     },
     "Tỉnh Kon Tum": {
@@ -12241,7 +12252,9 @@
             "Xã Tân Lộc Bắc",
             "Xã Tân Lộc",
             "Xã Tân Lộc Đông",
-            "Xã Hồ Thị Kỷ"
+            "Xã Hồ Thị Kỷ",
+            "Xã Tân Bằng",
+            "Xã Trí Lực"
         ],
         "Huyện Trần Văn Thời": [
             "Thị trấn Trần Văn Thời",
@@ -12254,7 +12267,9 @@
             "Xã Khánh Bình Đông",
             "Xã Khánh Hải",
             "Xã Lợi An",
-            "Xã Phong Lạc"
+            "Xã Phong Lạc",
+            "Xã Khánh Lộc",
+            "Xã Phong Điền"
         ],
         "Huyện Cái Nước": [
             "Thị trấn Cái Nước",
@@ -12282,7 +12297,10 @@
             "Xã Quách Phẩm Bắc",
             "Xã Quách Phẩm",
             "Xã Thanh Tùng",
-            "Xã Nguyễn Huân"
+            "Xã Nguyễn Huân",
+            "Xã Tân Trung",
+            "Xã Tân Dân",
+            "Xã Ngọc Chánh"
         ],
         "Huyện Năm Căn": [
             "Thị Trấn Năm Căn",
@@ -12291,7 +12309,8 @@
             "Xã Đất Mới",
             "Xã Hàng Vịnh",
             "Xã Tam Giang",
-            "Xã Tam Giang Đông"
+            "Xã Tam Giang Đông",
+            "Xã Lâm Hải"
         ],
         "Huyện Phú Tân": [
             "Thị trấn Cái Đôi Vàm",
