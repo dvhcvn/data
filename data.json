@@ -38943,6 +38943,11 @@
             "level3_id": "21607",
             "name": "Xã Nhơn Châu",
             "type": "Xã"
+          },
+          {
+            "level3_id": "21991",
+            "name": "Xã Phước Mỹ",
+            "type": "Xã"
           }
         ]
       },
@@ -39275,6 +39280,11 @@
         "type": "Huyện",
         "level3s": [
           {
+            "level3_id": "21786",
+            "name": "Thị trấn Vĩnh Thạnh",
+            "type": "Thị trấn"
+          },
+          {
             "level3_id": "21787",
             "name": "Xã Vĩnh Sơn",
             "type": "Xã"
@@ -39282,11 +39292,6 @@
           {
             "level3_id": "21790",
             "name": "Xã Vĩnh Kim",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "21793",
-            "name": "Xã Vĩnh Hòa",
             "type": "Xã"
           },
           {
@@ -39300,8 +39305,18 @@
             "type": "Xã"
           },
           {
+            "level3_id": "21801",
+            "name": "Xã Vĩnh Hòa",
+            "type": "Xã"
+          },
+          {
             "level3_id": "21802",
             "name": "Xã Vĩnh Thịnh",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "21804",
+            "name": "Xã Vĩnh Thuận",
             "type": "Xã"
           },
           {
@@ -39640,11 +39655,6 @@
           {
             "level3_id": "21988",
             "name": "Xã Phước Thành",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "21991",
-            "name": "Xã Phước Mỹ",
             "type": "Xã"
           }
         ]
