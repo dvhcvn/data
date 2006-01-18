@@ -17449,6 +17449,21 @@
             "level3_id": "09571",
             "name": "Xã Phú Lương",
             "type": "Xã"
+          },
+          {
+            "level3_id": "09886",
+            "name": "Xã Dương Nội",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "10117",
+            "name": "Xã Đồng Mai",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "10123",
+            "name": "Xã Biên Giang",
+            "type": "Xã"
           }
         ]
       },
