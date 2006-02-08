@@ -4097,11 +4097,6 @@
             "type": "Thị trấn"
           },
           {
-            "level3_id": "02224",
-            "name": "Xã Thúy Loa",
-            "type": "Xã"
-          },
-          {
             "level3_id": "02227",
             "name": "Xã Sinh Long",
             "type": "Xã"
@@ -4114,11 +4109,6 @@
           {
             "level3_id": "02233",
             "name": "Xã Phúc Yên",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "02236",
-            "name": "Xã Xuân Tân",
             "type": "Xã"
           },
           {
@@ -4152,11 +4142,6 @@
             "type": "Xã"
           },
           {
-            "level3_id": "02257",
-            "name": "Xã Xuân Tiến",
-            "type": "Xã"
-          },
-          {
             "level3_id": "02260",
             "name": "Xã Đà Vị",
             "type": "Xã"
@@ -4177,18 +4162,8 @@
             "type": "Xã"
           },
           {
-            "level3_id": "02272",
-            "name": "Xã Trùng Khánh",
-            "type": "Xã"
-          },
-          {
             "level3_id": "02275",
             "name": "Xã Sơn Phú",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "02278",
-            "name": "Xã Vĩnh Yên",
             "type": "Xã"
           },
           {
@@ -16699,8 +16674,8 @@
     "level2s": [
       {
         "level2_id": "256",
-        "name": "Thị xã Bắc Ninh",
-        "type": "Thị xã",
+        "name": "Thành phố Bắc Ninh",
+        "type": "Thành phố",
         "level3s": [
           {
             "level3_id": "09163",
