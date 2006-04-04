@@ -5773,8 +5773,23 @@
             "type": "Xã"
           },
           {
+            "level3_id": "03162",
+            "name": "Xã Nậm Kè",
+            "type": "Xã"
+          },
+          {
             "level3_id": "03163",
             "name": "Xã Mường Toong",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "03164",
+            "name": "Xã Quảng Lâm",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "03165",
+            "name": "Xã Pa Tần",
             "type": "Xã"
           },
           {
@@ -5783,8 +5798,18 @@
             "type": "Xã"
           },
           {
+            "level3_id": "03168",
+            "name": "Xã Nà Khoa",
+            "type": "Xã"
+          },
+          {
             "level3_id": "03169",
             "name": "Xã Nà Hỳ",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "03170",
+            "name": "Xã Nà Bủng",
             "type": "Xã"
           }
         ]
