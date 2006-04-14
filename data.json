@@ -25473,8 +25473,8 @@
           },
           {
             "level3_id": "14056",
-            "name": "Xã Cát Thành",
-            "type": "Xã"
+            "name": "Thị trấn Cát Thành",
+            "type": "Thị trấn"
           },
           {
             "level3_id": "14059",
@@ -25698,11 +25698,6 @@
           {
             "level3_id": "14182",
             "name": "Xã Giao An",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "14183",
-            "name": "Xã Giao Hưng",
             "type": "Xã"
           },
           {
@@ -36580,8 +36575,8 @@
           },
           {
             "level3_id": "20428",
-            "name": "Xã Cẩm Nam",
-            "type": "Xã"
+            "name": "Phường Cẩm Nam",
+            "type": "Phường"
           },
           {
             "level3_id": "20431",
