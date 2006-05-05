@@ -29613,6 +29613,11 @@
             "type": "Thị trấn"
           },
           {
+            "level3_id": "16379",
+            "name": "Thị trấn Nhồi",
+            "type": "Thị trấn"
+          },
+          {
             "level3_id": "16381",
             "name": "Xã Đông Hoàng",
             "type": "Xã"
@@ -30928,8 +30933,8 @@
           },
           {
             "level3_id": "17110",
-            "name": "Xã Quỳnh Thiện",
-            "type": "Xã"
+            "name": "Thị trấn Hoàng Mai",
+            "type": "Thị trấn"
           },
           {
             "level3_id": "17113",
@@ -42734,6 +42739,11 @@
             "type": "Xã"
           },
           {
+            "level3_id": "23660",
+            "name": "Xã Đak SMar",
+            "type": "Xã"
+          },
+          {
             "level3_id": "23662",
             "name": "Xã Nghĩa An",
             "type": "Xã"
@@ -42833,6 +42843,11 @@
           {
             "level3_id": "23713",
             "name": "Xã Trang",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "23714",
+            "name": "Xã HNol",
             "type": "Xã"
           },
           {
@@ -42940,8 +42955,18 @@
             "type": "Xã"
           },
           {
+            "level3_id": "23768",
+            "name": "Xã Ia Yok",
+            "type": "Xã"
+          },
+          {
             "level3_id": "23770",
             "name": "Xã Ia Hrung",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "23771",
+            "name": "Xã Ia Bă",
             "type": "Xã"
           },
           {
@@ -43079,6 +43104,11 @@
             "type": "Xã"
           },
           {
+            "level3_id": "23840",
+            "name": "Xã Đắk Kơ Ning",
+            "type": "Xã"
+          },
+          {
             "level3_id": "23842",
             "name": "Xã Đăk Song",
             "type": "Xã"
@@ -43091,6 +43121,11 @@
           {
             "level3_id": "23845",
             "name": "Xã Yang Trung",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "23846",
+            "name": "Xã Đăk Pơ Pho",
             "type": "Xã"
           },
           {
@@ -43362,6 +43397,11 @@
           {
             "level3_id": "23986",
             "name": "Xã Ia Le",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "23987",
+            "name": "Xã Ia BLứ",
             "type": "Xã"
           }
         ]
