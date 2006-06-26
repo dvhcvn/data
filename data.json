@@ -12504,6 +12504,11 @@
             "level3_id": "06835",
             "name": "Xã Phương Nam",
             "type": "Xã"
+          },
+          {
+            "level3_id": "07141",
+            "name": "Xã Điền Công",
+            "type": "Xã"
           }
         ]
       },
@@ -12572,6 +12577,11 @@
           {
             "level3_id": "06868",
             "name": "Xã Đại Dực",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "06869",
+            "name": "Xã Đại Thành",
             "type": "Xã"
           },
           {
@@ -12659,6 +12669,11 @@
           {
             "level3_id": "06916",
             "name": "Xã Đầm Hà",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "06917",
+            "name": "Xã Tân Lập",
             "type": "Xã"
           },
           {
@@ -13071,11 +13086,6 @@
           {
             "level3_id": "07138",
             "name": "Xã Minh Thành",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "07141",
-            "name": "Xã Điền Công",
             "type": "Xã"
           },
           {
