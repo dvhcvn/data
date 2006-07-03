@@ -50507,6 +50507,11 @@
             "type": "Phường"
           },
           {
+            "level3_id": "27692",
+            "name": "Phường Tân Khánh",
+            "type": "Phường"
+          },
+          {
             "level3_id": "27694",
             "name": "Phường 1",
             "type": "Phường"
@@ -50514,6 +50519,11 @@
           {
             "level3_id": "27697",
             "name": "Phường 3",
+            "type": "Phường"
+          },
+          {
+            "level3_id": "27698",
+            "name": "Phường 7",
             "type": "Phường"
           },
           {
@@ -50543,8 +50553,8 @@
           },
           {
             "level3_id": "27715",
-            "name": "Xã Khánh Hậu",
-            "type": "Xã"
+            "name": "Phường Khánh Hậu",
+            "type": "Phường"
           },
           {
             "level3_id": "27718",
