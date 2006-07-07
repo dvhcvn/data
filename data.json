@@ -1305,18 +1305,13 @@
             "type": "Xã"
           },
           {
-            "level3_id": "00703",
-            "name": "Xã Kim Thạch",
+            "level3_id": "00946",
+            "name": "Xã Phương Độ",
             "type": "Xã"
           },
           {
-            "level3_id": "00706",
-            "name": "Xã Phú Linh",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "00709",
-            "name": "Xã Kim Linh",
+            "level3_id": "00949",
+            "name": "Xã Phương Thiện",
             "type": "Xã"
           }
         ]
@@ -1695,6 +1690,21 @@
         "type": "Huyện",
         "level3s": [
           {
+            "level3_id": "00703",
+            "name": "Xã Kim Thạch",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "00706",
+            "name": "Xã Phú Linh",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "00709",
+            "name": "Xã Kim Linh",
+            "type": "Xã"
+          },
+          {
             "level3_id": "00913",
             "name": "Thị trấn Vị Xuyên",
             "type": "Thị trấn"
@@ -1747,16 +1757,6 @@
           {
             "level3_id": "00943",
             "name": "Xã Lao Chải",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "00946",
-            "name": "Xã Phương Độ",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "00949",
-            "name": "Xã Phương Thiện",
             "type": "Xã"
           },
           {
