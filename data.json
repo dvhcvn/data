@@ -42605,6 +42605,11 @@
             "type": "Phường"
           },
           {
+            "level3_id": "23582",
+            "name": "Phường Thắng Lợi",
+            "type": "Phường"
+          },
+          {
             "level3_id": "23584",
             "name": "Phường Yên Thế",
             "type": "Phường"
@@ -43034,6 +43039,16 @@
           {
             "level3_id": "23797",
             "name": "Xã Ayun",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "23798",
+            "name": "Xã Đak Jơ Ta",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "23799",
+            "name": "Xã Đak Ta Ley",
             "type": "Xã"
           },
           {
@@ -43536,8 +43551,13 @@
             "type": "Xã"
           },
           {
+            "level3_id": "24048",
+            "name": "Xã Ayun Hạ",
+            "type": "Xã"
+          },
+          {
             "level3_id": "24049",
-            "name": "Xã Ia Ke",
+            "name": "Xã Ia Ake",
             "type": "Xã"
           },
           {
@@ -43553,6 +43573,11 @@
           {
             "level3_id": "24058",
             "name": "Xã Ia Peng",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "24060",
+            "name": "Xã Chrôh Pơnan",
             "type": "Xã"
           },
           {
