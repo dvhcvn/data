@@ -2381,6 +2381,11 @@
         "type": "Huyện",
         "level3s": [
           {
+            "level3_id": "01290",
+            "name": "Thị trấn Pác Miầu",
+            "type": "Thị trấn"
+          },
+          {
             "level3_id": "01291",
             "name": "Xã Đức Hạnh",
             "type": "Xã"
@@ -2388,6 +2393,11 @@
           {
             "level3_id": "01294",
             "name": "Xã Lý Bôn",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "01296",
+            "name": "Xã Nam Cao",
             "type": "Xã"
           },
           {
@@ -2403,6 +2413,11 @@
           {
             "level3_id": "01303",
             "name": "Xã Quảng Lâm",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "01304",
+            "name": "Xã Thạch Lâm",
             "type": "Xã"
           },
           {
@@ -2423,6 +2438,11 @@
           {
             "level3_id": "01315",
             "name": "Xã Thái Học",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "01316",
+            "name": "Xã Thái Sơn",
             "type": "Xã"
           },
           {
@@ -2572,6 +2592,11 @@
         "type": "Huyện",
         "level3s": [
           {
+            "level3_id": "01392",
+            "name": "Thị trấn Xuân Hòa",
+            "type": "Thị trấn"
+          },
+          {
             "level3_id": "01393",
             "name": "Xã Lũng Nặm",
             "type": "Xã"
@@ -2623,7 +2648,7 @@
           },
           {
             "level3_id": "01423",
-            "name": "Xã Xuân Hoà",
+            "name": "Xã Vần Dính",
             "type": "Xã"
           },
           {
@@ -2869,8 +2894,8 @@
           },
           {
             "level3_id": "01558",
-            "name": "Xã Thanh Nhật",
-            "type": "Xã"
+            "name": "Thị trấn Thanh Nhật",
+            "type": "Thị trấn"
           },
           {
             "level3_id": "01561",
@@ -8828,8 +8853,8 @@
     "level2s": [
       {
         "level2_id": "148",
-        "name": "Thị xã Hòa Bình",
-        "type": "Thị xã",
+        "name": "Thành phố Hòa Bình",
+        "type": "Thành phố",
         "level3s": [
           {
             "level3_id": "04789",
@@ -57104,6 +57129,11 @@
             "type": "Xã"
           },
           {
+            "level3_id": "31338",
+            "name": "Xã Tân Tiến",
+            "type": "Xã"
+          },
+          {
             "level3_id": "31339",
             "name": "Xã Hoả Tiến",
             "type": "Xã"
@@ -57112,7 +57142,7 @@
       },
       {
         "level2_id": "931",
-        "name": "Thị xã Tân Hiệp",
+        "name": "Thị xã Ngã Bảy",
         "type": "Thị xã",
         "level3s": [
           {

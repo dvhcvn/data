@@ -507,7 +507,11 @@
             "Xã Vĩnh Phong",
             "Xã Mông Ân",
             "Xã Thái Học",
-            "Xã Yên Thổ"
+            "Xã Yên Thổ",
+            "Thị trấn Pác Miầu",
+            "Xã Nam Cao",
+            "Xã Thạch Lâm",
+            "Xã Thái Sơn"
         ],
         "Huyện Bảo Lạc": [
             "Thị trấn Bảo Lạc",
@@ -555,7 +559,9 @@
             "Xã Mã Ba",
             "Xã Phù Ngọc",
             "Xã Đào Ngạn",
-            "Xã Hạ Thôn"
+            "Xã Hạ Thôn",
+            "Thị trấn Xuân Hòa",
+            "Xã Vần Dính"
         ],
         "Huyện Trà Lĩnh": [
             "Thị trấn Hùng Quốc",
@@ -604,7 +610,8 @@
             "Xã Việt Chu",
             "Xã Cô Ngân",
             "Xã Thái Đức",
-            "Xã Thị Hoa"
+            "Xã Thị Hoa",
+            "Thị trấn Thanh Nhật"
         ],
         "Huyện Quảng Uyên": [
             "Thị trấn Quảng Uyên",
@@ -2091,6 +2098,22 @@
             "Xã Yên Bồng",
             "Xã An Lạc",
             "Xã An Bình"
+        ],
+        "Thành phố Hòa Bình": [
+            "Phường Thái Bình",
+            "Phường Tân Hòa",
+            "Phường Thịnh Lang",
+            "Phường Hữu Nghị",
+            "Phường Tân Thịnh",
+            "Phường Đồng Tiến",
+            "Phường Phương Lâm",
+            "Phường Chăm Mát",
+            "Xã Yên Mông",
+            "Xã Sủ Ngòi",
+            "Xã Dân Chủ",
+            "Xã Thái Thịnh",
+            "Xã Hòa Bình",
+            "Xã Thống Nhất"
         ]
     },
     "Tỉnh Thái Nguyên": {
@@ -12016,7 +12039,8 @@
             "Phường VII",
             "Xã Vị Tân",
             "Xã Hoả Lựu",
-            "Xã Hoả Tiến"
+            "Xã Hoả Tiến",
+            "Xã Tân Tiến"
         ],
         "Huyện Châu Thành A": [
             "Thị trấn Một Ngàn",
@@ -12071,6 +12095,14 @@
         ],
         "Huyện Long Mỹ": [],
         "Thị xã Tân Hiệp": [
+            "Phường Ngã Bảy",
+            "Phường Lái Hiếu",
+            "Phường Hiệp Thành",
+            "Xã Hiệp Lợi",
+            "Xã Đại Thành",
+            "Xã Tân Thành"
+        ],
+        "Thị xã Ngã Bảy": [
             "Phường Ngã Bảy",
             "Phường Lái Hiếu",
             "Phường Hiệp Thành",
