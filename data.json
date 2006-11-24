@@ -14535,6 +14535,31 @@
             "level3_id": "07936",
             "name": "Xã Sông Lô",
             "type": "Xã"
+          },
+          {
+            "level3_id": "08281",
+            "name": "Xã Kim Đức",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "08287",
+            "name": "Xã Hùng Lô",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "08503",
+            "name": "Xã Hy Cương",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "08506",
+            "name": "Xã Chu Hóa",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "08515",
+            "name": "Xã Thanh Đình",
+            "type": "Xã"
           }
         ]
       },
@@ -15142,18 +15167,8 @@
             "type": "Xã"
           },
           {
-            "level3_id": "08281",
-            "name": "Xã Kim Đức",
-            "type": "Xã"
-          },
-          {
             "level3_id": "08284",
             "name": "Xã Vĩnh Phú",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "08287",
-            "name": "Xã Hùng Lô",
             "type": "Xã"
           }
         ]
@@ -15545,16 +15560,6 @@
             "type": "Xã"
           },
           {
-            "level3_id": "08503",
-            "name": "Xã Hy Cương",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "08506",
-            "name": "Xã Chu Hóa",
-            "type": "Xã"
-          },
-          {
             "level3_id": "08509",
             "name": "Xã Xuân Huy",
             "type": "Xã"
@@ -15562,11 +15567,6 @@
           {
             "level3_id": "08512",
             "name": "Xã Thạch Sơn",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "08515",
-            "name": "Xã Thanh Đình",
             "type": "Xã"
           },
           {
