@@ -1251,7 +1251,12 @@
             "Xã Pa Ham",
             "Xã Huổi Lèng",
             "Xã Si Pa Phìn",
-            "Xã Mường Mươn"
+            "Xã Mường Mươn",
+            "Xã Nậm Khăn",
+            "Xã Sa Lông",
+            "Xã Phìn Hồ",
+            "Xã Ma Thì Hồ",
+            "Xã Na Sang"
         ],
         "Huyện Tủa Chùa": [
             "Thị trấn Tủa Chùa",
@@ -1326,6 +1331,18 @@
             "Xã Nong U",
             "Xã Pú Hồng",
             "Xã Tìa Dình"
+        ],
+        "Huyện Mường Ảng": [
+            "Thị trấn Mường Ảng",
+            "Xã Mường Đăng",
+            "Xã Ngối Cáy",
+            "Xã Ẳng Tở",
+            "Xã Búng Lao",
+            "Xã Xuân Lao",
+            "Xã Ẳng Nưa",
+            "Xã Ẳng Cang",
+            "Xã Nặm Lịch",
+            "Xã Mường Lạn"
         ]
     },
     "Tỉnh Lai Châu": {
