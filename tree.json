@@ -9454,7 +9454,8 @@
             "Xã Đắk Sắk",
             "Xã Thuận An",
             "Xã Đức Minh",
-            "Xã Đắk N'Drót"
+            "Xã Đắk N'Drót",
+            "Xã Long Sơn"
         ],
         "Huyện Krông Nô": [
             "Thị trấn Đắk Mâm",
@@ -9477,7 +9478,8 @@
             "Xã Đắk Rung",
             "Xã Trường Xuân",
             "Xã Đắk N'Dung",
-            "Xã Nâm N'Jang"
+            "Xã Nâm N'Jang",
+            "Xã Đắk Hòa"
         ],
         "Huyện Đắk R'Lấp": [
             "Thị trấn Kiến Đức",
@@ -9492,7 +9494,8 @@
             "Xã Đắk Sin",
             "Xã Đắk Ru",
             "Xã Nhân Đạo",
-            "Xã Đắk Wer"
+            "Xã Đắk Wer",
+            "Xã Nghĩa Thắng"
         ],
         "Thị xã Gia Nghĩa": [
             "Phường Nghĩa Đức",
@@ -9511,6 +9514,14 @@
             "Xã Quảng Khê",
             "Xã Đắk Plao",
             "Xã Đắk Som"
+        ],
+        "Huyện Tuy Đức": [
+            "Xã Quảng Trực",
+            "Xã Đắk Búk So",
+            "Xã Quảng Tâm",
+            "Xã Đắk R'Tíh",
+            "Xã Đắk Ngo",
+            "Xã Quảng Tân"
         ]
     },
     "Tỉnh Lâm Đồng": {

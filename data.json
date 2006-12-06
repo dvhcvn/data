@@ -44903,6 +44903,11 @@
             "type": "Xã"
           },
           {
+            "level3_id": "24678",
+            "name": "Xã Long Sơn",
+            "type": "Xã"
+          },
+          {
             "level3_id": "24679",
             "name": "Xã Đắk Sắk",
             "type": "Xã"
@@ -44992,6 +44997,11 @@
             "type": "Xã"
           },
           {
+            "level3_id": "24719",
+            "name": "Xã Đắk Hòa",
+            "type": "Xã"
+          },
+          {
             "level3_id": "24721",
             "name": "Xã Đắk Song",
             "type": "Xã"
@@ -45029,28 +45039,8 @@
             "type": "Thị trấn"
           },
           {
-            "level3_id": "24736",
-            "name": "Xã Quảng Trực",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "24739",
-            "name": "Xã Đắk Búk So",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "24742",
-            "name": "Xã Đắk R'Tíh",
-            "type": "Xã"
-          },
-          {
             "level3_id": "24745",
             "name": "Xã Quảng Tín",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "24748",
-            "name": "Xã Quảng Tân",
             "type": "Xã"
           },
           {
@@ -45066,6 +45056,11 @@
           {
             "level3_id": "24754",
             "name": "Xã Kiến Thành",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "24756",
+            "name": "Xã Nghĩa Thắng",
             "type": "Xã"
           },
           {
@@ -45086,6 +45081,43 @@
           {
             "level3_id": "24766",
             "name": "Xã Nhân Đạo",
+            "type": "Xã"
+          }
+        ]
+      },
+      {
+        "level2_id": "667",
+        "name": "Huyện Tuy Đức",
+        "type": "Huyện",
+        "level3s": [
+          {
+            "level3_id": "24736",
+            "name": "Xã Quảng Trực",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "24739",
+            "name": "Xã Đắk Búk So",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "24740",
+            "name": "Xã Quảng Tâm",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "24742",
+            "name": "Xã Đắk R'Tíh",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "24746",
+            "name": "Xã Đắk Ngo",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "24748",
+            "name": "Xã Quảng Tân",
             "type": "Xã"
           }
         ]
