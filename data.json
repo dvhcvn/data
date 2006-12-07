@@ -48958,6 +48958,11 @@
             "type": "Phường"
           },
           {
+            "level3_id": "26787",
+            "name": "Phường Tân Hưng Thuận",
+            "type": "Phường"
+          },
+          {
             "level3_id": "26788",
             "name": "Phường Đông Hưng Thuận",
             "type": "Phường"
@@ -49129,6 +49134,11 @@
             "type": "Phường"
           },
           {
+            "level3_id": "26876",
+            "name": "Phường 6",
+            "type": "Phường"
+          },
+          {
             "level3_id": "26878",
             "name": "Phường 16",
             "type": "Phường"
@@ -49136,6 +49146,11 @@
           {
             "level3_id": "26881",
             "name": "Phường 12",
+            "type": "Phường"
+          },
+          {
+            "level3_id": "26882",
+            "name": "Phường 14",
             "type": "Phường"
           },
           {
@@ -49161,6 +49176,16 @@
           {
             "level3_id": "26896",
             "name": "Phường 01",
+            "type": "Phường"
+          },
+          {
+            "level3_id": "26897",
+            "name": "Phường 9",
+            "type": "Phường"
+          },
+          {
+            "level3_id": "26898",
+            "name": "Phường 8",
             "type": "Phường"
           },
           {
