@@ -6383,11 +6383,6 @@
             "type": "Thị trấn"
           },
           {
-            "level3_id": "03391",
-            "name": "Xã Lả Nhì Thàng",
-            "type": "Xã"
-          },
-          {
             "level3_id": "03394",
             "name": "Xã Thèn Sin",
             "type": "Xã"
@@ -6410,6 +6405,11 @@
           {
             "level3_id": "03412",
             "name": "Xã Bình Lư",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "03413",
+            "name": "Xã Sơn Bình",
             "type": "Xã"
           },
           {
@@ -6552,11 +6552,6 @@
             "type": "Xã"
           },
           {
-            "level3_id": "03490",
-            "name": "Xã Huổi Luông",
-            "type": "Xã"
-          },
-          {
             "level3_id": "03493",
             "name": "Xã Pa Tần",
             "type": "Xã"
@@ -6658,6 +6653,16 @@
         "name": "Huyện Phong Thổ",
         "type": "Huyện",
         "level3s": [
+          {
+            "level3_id": "03391",
+            "name": "Xã Lả Nhì Thàng",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "03490",
+            "name": "Xã Huổi Luông",
+            "type": "Xã"
+          },
           {
             "level3_id": "03549",
             "name": "Thị trấn Phong Thổ",
@@ -6761,6 +6766,11 @@
             "type": "Xã"
           },
           {
+            "level3_id": "03602",
+            "name": "Xã Phúc Khoa",
+            "type": "Xã"
+          },
+          {
             "level3_id": "03604",
             "name": "Xã Thân Thuộc",
             "type": "Xã"
@@ -6783,6 +6793,11 @@
           {
             "level3_id": "03616",
             "name": "Xã Pắc Ta",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "03618",
+            "name": "Xã Phúc Than",
             "type": "Xã"
           },
           {
@@ -6818,6 +6833,11 @@
           {
             "level3_id": "03637",
             "name": "Xã Mường Kim",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "03638",
+            "name": "Xã Tà Mung",
             "type": "Xã"
           },
           {
@@ -17469,8 +17489,8 @@
     "level2s": [
       {
         "level2_id": "268",
-        "name": "Thị xã Hà Đông",
-        "type": "Thị xã",
+        "name": "Thành phố Hà Đông",
+        "type": "Thành phố",
         "level3s": [
           {
             "level3_id": "09538",

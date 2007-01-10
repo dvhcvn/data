@@ -1369,7 +1369,8 @@
             "Xã Bản Bo",
             "Xã Nà Tăm",
             "Xã Khun Há",
-            "Thị trấn Tam Đường"
+            "Thị trấn Tam Đường",
+            "Xã Sơn Bình"
         ],
         "Huyện Mường Tè": [
             "Thị trấn Mường Tè",
@@ -1430,7 +1431,9 @@
             "Xã Nậm Xe",
             "Xã Mường So",
             "Xã Sin Suối Hồ",
-            "Thị trấn Phong Thổ"
+            "Thị trấn Phong Thổ",
+            "Xã Lả Nhì Thàng",
+            "Xã Huổi Luông"
         ],
         "Huyện Than Uyên": [
             "Thị trấn Than Uyên",
@@ -1449,7 +1452,10 @@
             "Xã Tà Hừa",
             "Xã Mường Kim",
             "Xã Tà Gia",
-            "Xã Khoen On"
+            "Xã Khoen On",
+            "Xã Phúc Khoa",
+            "Xã Phúc Than",
+            "Xã Tà Mung"
         ]
     },
     "Tỉnh Sơn La": {
@@ -4061,6 +4067,23 @@
             "Xã Hợp Tiến",
             "Xã Hợp Thanh",
             "Xã An Phú"
+        ],
+        "Thành phố Hà Đông": [
+            "Phường Nguyễn Trãi",
+            "Phường Văn Mỗ",
+            "Phường Vạn Phúc",
+            "Phường Yết Kiêu",
+            "Phường Quang Trung",
+            "Phường Phúc La",
+            "Phường Hà Cầu",
+            "Xã Văn Khê",
+            "Xã Yên Nghĩa",
+            "Xã Kiến Hưng",
+            "Xã Phú Lãm",
+            "Xã Phú Lương",
+            "Xã Dương Nội",
+            "Xã Đồng Mai",
+            "Xã Biên Giang"
         ]
     },
     "Tỉnh Hải Dương": {
