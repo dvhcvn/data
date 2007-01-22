@@ -7157,8 +7157,8 @@
         "level3s": [
           {
             "level3_id": "03808",
-            "name": "Xã ít Ong",
-            "type": "Xã"
+            "name": "Thị trấn Ít Ong",
+            "type": "Thị trấn"
           },
           {
             "level3_id": "03811",
@@ -7592,8 +7592,18 @@
             "type": "Xã"
           },
           {
+            "level3_id": "04056",
+            "name": "Xã Chiềng Xuân",
+            "type": "Xã"
+          },
+          {
             "level3_id": "04057",
             "name": "Xã Xuân Nha",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "04058",
+            "name": "Xã Tân Xuân",
             "type": "Xã"
           }
         ]
