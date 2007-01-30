@@ -11659,6 +11659,23 @@
             "Xã An Khánh",
             "Xã Tân Phú",
             "Xã Hòa Tân"
+        ],
+        "Thành phố Cao Lãnh": [
+            "Phường 11",
+            "Phường 1",
+            "Phường 2",
+            "Phường 4",
+            "Phường 3",
+            "Phường 6",
+            "Xã Mỹ Ngãi",
+            "Xã Mỹ Tân",
+            "Xã Mỹ Trà",
+            "Phường Mỹ Phú",
+            "Xã Tân Thuận Tây",
+            "Phường Hoà Thuận",
+            "Xã Hòa An",
+            "Xã Tân Thuận Đông",
+            "Xã Tịnh Thới"
         ]
     },
     "Tỉnh An Giang": {
@@ -12035,14 +12052,16 @@
             "Phường An Phú",
             "Phường Xuân Khánh",
             "Phường Hưng Lợi",
-            "Phường An Bình"
+            "Phường An Bình",
+            "Phường An Khánh"
         ],
         "Quận Ô Môn": [
             "Phường Châu Văn Liêm",
             "Phường Thới Long",
             "Phường Thới An",
             "Phường Phước Thới",
-            "Phường Trường Lạc"
+            "Phường Trường Lạc",
+            "Phường Thới Hòa"
         ],
         "Quận Bình Thuỷ": [
             "Phường Bình Thủy",
@@ -12080,7 +12099,8 @@
             "Xã Thạnh Qưới",
             "Xã Thạnh Phú",
             "Xã Thạnh Lộc",
-            "Xã Trung Hưng"
+            "Xã Trung Hưng",
+            "Thị trấn Vĩnh Thạnh"
         ],
         "Huyện Cờ Đỏ": [
             "Thị trấn Thới Lai",
@@ -12104,7 +12124,8 @@
             "Xã Tân Thới",
             "Xã Trường Long",
             "Xã Mỹ Khánh",
-            "Xã Nhơn Nghĩa"
+            "Xã Nhơn Nghĩa",
+            "Thị trấn Phong Điền"
         ]
     },
     "Tỉnh Hậu Giang": {

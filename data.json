@@ -54385,8 +54385,8 @@
     "level2s": [
       {
         "level2_id": "866",
-        "name": "Thị xã Cao Lãnh",
-        "type": "Thị xã",
+        "name": "Thành phố Cao Lãnh",
+        "type": "Thành phố",
         "level3s": [
           {
             "level3_id": "29863",
@@ -56885,6 +56885,11 @@
             "type": "Phường"
           },
           {
+            "level3_id": "31149",
+            "name": "Phường An Khánh",
+            "type": "Phường"
+          },
+          {
             "level3_id": "31150",
             "name": "Phường An Bình",
             "type": "Phường"
@@ -56899,6 +56904,11 @@
           {
             "level3_id": "31153",
             "name": "Phường Châu Văn Liêm",
+            "type": "Phường"
+          },
+          {
+            "level3_id": "31154",
+            "name": "Phường Thới Hòa",
             "type": "Phường"
           },
           {
@@ -57060,6 +57070,11 @@
             "type": "Thị trấn"
           },
           {
+            "level3_id": "31232",
+            "name": "Thị trấn Vĩnh Thạnh",
+            "type": "Thị trấn"
+          },
+          {
             "level3_id": "31234",
             "name": "Xã Thạnh Mỹ",
             "type": "Xã"
@@ -57183,6 +57198,11 @@
         "name": "Huyện Phong Điền",
         "type": "Huyện",
         "level3s": [
+          {
+            "level3_id": "31299",
+            "name": "Thị trấn Phong Điền",
+            "type": "Thị trấn"
+          },
           {
             "level3_id": "31300",
             "name": "Xã Nhơn Ái",
