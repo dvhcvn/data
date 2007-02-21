@@ -5660,6 +5660,22 @@
             "Xã Yên Đồng",
             "Xã Yên Thái",
             "Xã Yên Lâm"
+        ],
+        "Thành phố Ninh Bình": [
+            "Phường Đông Thành",
+            "Phường Tân Thành",
+            "Phường Thanh Bình",
+            "Phường Vân Giang",
+            "Phường Bích Đào",
+            "Phường Phúc Thành",
+            "Phường Nam Bình",
+            "Phường Nam Thành",
+            "Phường Ninh Khánh",
+            "Xã Ninh Nhất",
+            "Xã Ninh Tiến",
+            "Xã Ninh Phúc",
+            "Xã Ninh Sơn",
+            "Phường Ninh Phong"
         ]
     },
     "Tỉnh Thanh Hóa": {
@@ -6885,7 +6901,11 @@
             "Xã Thạch Môn",
             "Xã Thạch Đồng",
             "Xã Thạch Hưng",
-            "Xã Thạch Bình"
+            "Xã Thạch Bình",
+            "Phường Nguyễn Du",
+            "Phường Thạch Quý",
+            "Phường Thạch Linh",
+            "Phường Văn Yên"
         ],
         "Thị xã Hồng Lĩnh": [
             "Phường Bắc Hồng",
@@ -7118,7 +7138,22 @@
             "Xã Cẩm Lạc",
             "Xã Cẩm Minh"
         ],
-        "Huyện Kỳ Anh": []
+        "Huyện Kỳ Anh": [],
+        "Huyện Lộc Hà": [
+            "Xã Tân Lộc",
+            "Xã Hồng Lộc",
+            "Xã Thịnh Lộc",
+            "Xã An Lộc",
+            "Xã Bình Lộc",
+            "Xã Ích Hậu",
+            "Xã Phù Lưu",
+            "Xã Thạch Bằng",
+            "Xã Thạch Mỹ",
+            "Xã Thạch Kim",
+            "Xã Thạch Châu",
+            "Xã Hộ Độ",
+            "Xã Mai Phụ"
+        ]
     },
     "Tỉnh Quảng Bình": {
         "Thành Phố Đồng Hới": [
