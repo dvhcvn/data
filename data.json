@@ -36924,6 +36924,11 @@
             "type": "Xã"
           },
           {
+            "level3_id": "20547",
+            "name": "Xã Đại An",
+            "type": "Xã"
+          },
+          {
             "level3_id": "20548",
             "name": "Xã Đại Hòa",
             "type": "Xã"
@@ -37556,7 +37561,12 @@
           },
           {
             "level3_id": "20821",
-            "name": "Xã Bình Định",
+            "name": "Xã Bình Định Bắc",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "20822",
+            "name": "Xã Bình Định Nam",
             "type": "Xã"
           },
           {
@@ -37702,6 +37712,11 @@
             "level3_id": "20899",
             "name": "Thị trấn Trà My",
             "type": "Thị trấn"
+          },
+          {
+            "level3_id": "20900",
+            "name": "Xã Trà Sơn",
+            "type": "Xã"
           },
           {
             "level3_id": "20902",
@@ -57379,9 +57394,19 @@
             "type": "Xã"
           },
           {
+            "level3_id": "31359",
+            "name": "Thị trấn Rạch Gòi",
+            "type": "Thị trấn"
+          },
+          {
             "level3_id": "31360",
             "name": "Xã Thạnh Xuân",
             "type": "Xã"
+          },
+          {
+            "level3_id": "31362",
+            "name": "Thị trấn Cái Tắc",
+            "type": "Thị trấn"
           },
           {
             "level3_id": "31363",
