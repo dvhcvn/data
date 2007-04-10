@@ -35519,9 +35519,14 @@
             "type": "Phường"
           },
           {
+            "level3_id": "19803",
+            "name": "Phường An Hòa",
+            "type": "Phường"
+          },
+          {
             "level3_id": "19804",
-            "name": "Xã Hương Sơ",
-            "type": "Xã"
+            "name": "Phường Hương Sơ",
+            "type": "Phường"
           },
           {
             "level3_id": "19807",
@@ -35539,9 +35544,14 @@
             "type": "Xã"
           },
           {
+            "level3_id": "19815",
+            "name": "Phường An Đông",
+            "type": "Phường"
+          },
+          {
             "level3_id": "19816",
-            "name": "Xã Thủy An",
-            "type": "Xã"
+            "name": "Phường An Tây",
+            "type": "Phường"
           }
         ]
       },
