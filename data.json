@@ -46038,6 +46038,11 @@
             "type": "Phường"
           },
           {
+            "level3_id": "25205",
+            "name": "Phường Tân Thiện",
+            "type": "Phường"
+          },
+          {
             "level3_id": "25207",
             "name": "Xã Tân Thành",
             "type": "Xã"
@@ -46085,6 +46090,11 @@
             "type": "Xã"
           },
           {
+            "level3_id": "25229",
+            "name": "Xã Phú Văn",
+            "type": "Xã"
+          },
+          {
             "level3_id": "25231",
             "name": "Xã Đa Kia",
             "type": "Xã"
@@ -46106,12 +46116,12 @@
           },
           {
             "level3_id": "25243",
-            "name": "Xã Bình Phước",
+            "name": "Xã Bình Tân",
             "type": "Xã"
           },
           {
-            "level3_id": "25243",
-            "name": "Xã Bình Phước",
+            "level3_id": "25244",
+            "name": "Xã Bình Sơn",
             "type": "Xã"
           },
           {
@@ -46331,6 +46341,11 @@
             "type": "Xã"
           },
           {
+            "level3_id": "25349",
+            "name": "Xã Minh Tâm",
+            "type": "Xã"
+          },
+          {
             "level3_id": "25351",
             "name": "Xã Phước An",
             "type": "Xã"
@@ -46477,6 +46492,11 @@
           {
             "level3_id": "25423",
             "name": "Xã Nghĩa Trung",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "25424",
+            "name": "Xã Nghĩa Bình",
             "type": "Xã"
           },
           {
