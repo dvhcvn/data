@@ -42848,6 +42848,53 @@
         ]
       },
       {
+        "level2_id": "624",
+        "name": "Thị xã Ayun Pa",
+        "type": "Thị xã",
+        "level3s": [
+          {
+            "level3_id": "24041",
+            "name": "Phường Cheo Reo",
+            "type": "Phường"
+          },
+          {
+            "level3_id": "24042",
+            "name": "Phường Hòa Bình",
+            "type": "Phường"
+          },
+          {
+            "level3_id": "24044",
+            "name": "Phường Đoàn Kết",
+            "type": "Phường"
+          },
+          {
+            "level3_id": "24045",
+            "name": "Phường Sông Bờ",
+            "type": "Phường"
+          },
+          {
+            "level3_id": "24064",
+            "name": "Xã Ia RBol",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "24065",
+            "name": "Xã Chư Băh",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "24070",
+            "name": "Xã Ia RTô",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "24073",
+            "name": "Xã Ia Sao",
+            "type": "Xã"
+          }
+        ]
+      },
+      {
         "level2_id": "625",
         "name": "Huyện KBang",
         "type": "Huyện",
@@ -43670,83 +43717,6 @@
         ]
       },
       {
-        "level2_id": "636",
-        "name": "Huyện Ayun Pa",
-        "type": "Huyện",
-        "level3s": [
-          {
-            "level3_id": "24040",
-            "name": "Thị trấn Ayun Pa",
-            "type": "Thị trấn"
-          },
-          {
-            "level3_id": "24043",
-            "name": "Thị trấn Phú Thiện",
-            "type": "Thị trấn"
-          },
-          {
-            "level3_id": "24046",
-            "name": "Xã Chư A Thai",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "24048",
-            "name": "Xã Ayun Hạ",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "24049",
-            "name": "Xã Ia Ake",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "24052",
-            "name": "Xã Ia Sol",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "24055",
-            "name": "Xã Ia Piar",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "24058",
-            "name": "Xã Ia Peng",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "24060",
-            "name": "Xã Chrôh Pơnan",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "24061",
-            "name": "Xã Ia Hiao",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "24064",
-            "name": "Xã Ia RBol",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "24067",
-            "name": "Xã Ia Yeng",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "24070",
-            "name": "Xã Ia RTô",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "24073",
-            "name": "Xã Ia Sao",
-            "type": "Xã"
-          }
-        ]
-      },
-      {
         "level2_id": "637",
         "name": "Huyện Krông Pa",
         "type": "Huyện",
@@ -43819,6 +43789,63 @@
           {
             "level3_id": "24115",
             "name": "Xã Krông Năng",
+            "type": "Xã"
+          }
+        ]
+      },
+      {
+        "level2_id": "638",
+        "name": "Huyện Phú Thiện",
+        "type": "Huyện",
+        "level3s": [
+          {
+            "level3_id": "24043",
+            "name": "Thị trấn Phú Thiện",
+            "type": "Thị trấn"
+          },
+          {
+            "level3_id": "24046",
+            "name": "Xã Chư A Thai",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "24048",
+            "name": "Xã Ayun Hạ",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "24049",
+            "name": "Xã Ia Ake",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "24052",
+            "name": "Xã Ia Sol",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "24055",
+            "name": "Xã Ia Piar",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "24058",
+            "name": "Xã Ia Peng",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "24060",
+            "name": "Xã Chrôh Pơnan",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "24061",
+            "name": "Xã Ia Hiao",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "24067",
+            "name": "Xã Ia Yeng",
             "type": "Xã"
           }
         ]
