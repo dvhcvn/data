@@ -16410,13 +16410,13 @@
             "type": "Thị trấn"
           },
           {
-            "level3_id": "08938",
-            "name": "Xã Trung Mỹ",
-            "type": "Xã"
+            "level3_id": "08936",
+            "name": "Thị trấn Gia Khánh",
+            "type": "Thị trấn"
           },
           {
-            "level3_id": "08941",
-            "name": "Xã Gia Khánh",
+            "level3_id": "08938",
+            "name": "Xã Trung Mỹ",
             "type": "Xã"
           },
           {
@@ -16461,8 +16461,8 @@
           },
           {
             "level3_id": "08968",
-            "name": "Xã Thanh Lãng",
-            "type": "Xã"
+            "name": "Thị trấn Thanh Lãng",
+            "type": "Thị trấn"
           },
           {
             "level3_id": "08971",
@@ -16717,8 +16717,8 @@
           },
           {
             "level3_id": "09112",
-            "name": "Xã Thổ Tang",
-            "type": "Xã"
+            "name": "Thị Trấn Thổ Tang",
+            "type": "Thị trấn"
           },
           {
             "level3_id": "09115",
@@ -30683,6 +30683,11 @@
             "type": "Xã"
           },
           {
+            "level3_id": "16904",
+            "name": "Xã Xiêng My",
+            "type": "Xã"
+          },
+          {
             "level3_id": "16906",
             "name": "Xã Lưỡng Minh",
             "type": "Xã"
@@ -31779,6 +31784,11 @@
             "type": "Xã"
           },
           {
+            "level3_id": "17525",
+            "name": "Xã Hùng Thành",
+            "type": "Xã"
+          },
+          {
             "level3_id": "17527",
             "name": "Xã Đô Thành",
             "type": "Xã"
@@ -31941,8 +31951,13 @@
             "type": "Thị trấn"
           },
           {
+            "level3_id": "17619",
+            "name": "Xã Giang Sơn Đông",
+            "type": "Xã"
+          },
+          {
             "level3_id": "17620",
-            "name": "Xã Giang Sơn",
+            "name": "Xã Giang Sơn Tây",
             "type": "Xã"
           },
           {
