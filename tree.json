@@ -4424,7 +4424,8 @@
             "Phường Niệm Nghĩa",
             "Phường Nghĩa Xá",
             "Phường Dư Hàng Kênh",
-            "Phường Vĩnh Niệm"
+            "Phường Vĩnh Niệm",
+            "Phường Kênh Dương"
         ],
         "Quận Hải An": [
             "Phường Đông Hải",
@@ -4432,7 +4433,10 @@
             "Phường Đằng Hải",
             "Phường Nam Hải",
             "Phường Cát Bi",
-            "Phường Tràng Cát"
+            "Phường Tràng Cát",
+            "Phường Đông Hải 1",
+            "Phường Đông Hải 2",
+            "Phường Thành Tô"
         ],
         "Quận Kiến An": [
             "Phường Quán Trữ",
@@ -4443,7 +4447,8 @@
             "Phường Trần Thành Ngọ",
             "Phường Văn Đẩu",
             "Phường Phù Liễn",
-            "Phường Tràng Minh"
+            "Phường Tràng Minh",
+            "Phường Lãm Hà"
         ],
         "Thị xã Đồ Sơn": [
             "Phường Ngọc Xuyên",
@@ -4526,7 +4531,8 @@
             "Xã Mỹ Đức",
             "Xã Chiến Thắng",
             "Xã An Thọ",
-            "Xã An Thái"
+            "Xã An Thái",
+            "Thị trấn Trường Sơn"
         ],
         "Huyện Kiến Thuỵ": [
             "Thị trấn Núi Đối",

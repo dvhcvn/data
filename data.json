@@ -20843,6 +20843,11 @@
             "type": "Phường"
           },
           {
+            "level3_id": "11405",
+            "name": "Phường Kênh Dương",
+            "type": "Phường"
+          },
+          {
             "level3_id": "11407",
             "name": "Phường Vĩnh Niệm",
             "type": "Phường"
@@ -20856,12 +20861,22 @@
         "level3s": [
           {
             "level3_id": "11410",
-            "name": "Phường Đông Hải",
+            "name": "Phường Đông Hải 1",
+            "type": "Phường"
+          },
+          {
+            "level3_id": "11411",
+            "name": "Phường Đông Hải 2",
             "type": "Phường"
           },
           {
             "level3_id": "11413",
             "name": "Phường Đằng Lâm",
+            "type": "Phường"
+          },
+          {
+            "level3_id": "11414",
+            "name": "Phường Thành Tô",
             "type": "Phường"
           },
           {
@@ -20894,6 +20909,11 @@
           {
             "level3_id": "11428",
             "name": "Phường Quán Trữ",
+            "type": "Phường"
+          },
+          {
+            "level3_id": "11429",
+            "name": "Phường Lãm Hà",
             "type": "Phường"
           },
           {
@@ -21301,8 +21321,8 @@
           },
           {
             "level3_id": "11656",
-            "name": "Xã Trường Sơn",
-            "type": "Xã"
+            "name": "Thị trấn Trường Sơn",
+            "type": "Thị trấn"
           },
           {
             "level3_id": "11659",
