@@ -12425,8 +12425,8 @@
           },
           {
             "level3_id": "06736",
-            "name": "Xã Hải Yên",
-            "type": "Xã"
+            "name": "Phường Hải Yên",
+            "type": "Phường"
           },
           {
             "level3_id": "06739",
@@ -12435,8 +12435,8 @@
           },
           {
             "level3_id": "06742",
-            "name": "Xã Hải Hoà",
-            "type": "Xã"
+            "name": "Phường Hải Hoà",
+            "type": "Phường"
           },
           {
             "level3_id": "06745",
@@ -56315,6 +56315,11 @@
             "type": "Xã"
           },
           {
+            "level3_id": "30809",
+            "name": "Xã Bình Trị",
+            "type": "Xã"
+          },
+          {
             "level3_id": "30811",
             "name": "Xã Sơn Hải",
             "type": "Xã"
@@ -56369,6 +56374,11 @@
           {
             "level3_id": "30835",
             "name": "Xã Sơn Kiên",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "30836",
+            "name": "Xã Sơn Bình",
             "type": "Xã"
           },
           {
@@ -56720,16 +56730,6 @@
             "level3_id": "31009",
             "name": "Xã Đông Yên",
             "type": "Xã"
-          },
-          {
-            "level3_id": "31012",
-            "name": "Xã Thạnh Yên",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "31015",
-            "name": "Xã Thạnh Yên A",
-            "type": "Xã"
           }
         ]
       },
@@ -56751,11 +56751,6 @@
           {
             "level3_id": "31024",
             "name": "Xã Đông Hòa",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "31027",
-            "name": "Xã An Minh Bắc",
             "type": "Xã"
           },
           {
@@ -56811,16 +56806,6 @@
             "type": "Thị trấn"
           },
           {
-            "level3_id": "31054",
-            "name": "Xã Vĩnh Hòa",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "31057",
-            "name": "Xã Hoà Chánh",
-            "type": "Xã"
-          },
-          {
             "level3_id": "31060",
             "name": "Xã Vĩnh Bình Bắc",
             "type": "Xã"
@@ -56831,11 +56816,6 @@
             "type": "Xã"
           },
           {
-            "level3_id": "31066",
-            "name": "Xã Minh Thuận",
-            "type": "Xã"
-          },
-          {
             "level3_id": "31069",
             "name": "Xã Vĩnh Thuận",
             "type": "Xã"
@@ -56843,6 +56823,11 @@
           {
             "level3_id": "31072",
             "name": "Xã Tân Thuận",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "31074",
+            "name": "Xã Phong Đông",
             "type": "Xã"
           },
           {
@@ -56932,6 +56917,43 @@
           {
             "level3_id": "31115",
             "name": "Xã Nam Du",
+            "type": "Xã"
+          }
+        ]
+      },
+      {
+        "level2_id": "913",
+        "name": "Huyện U Minh Thượng",
+        "type": "Huyện",
+        "level3s": [
+          {
+            "level3_id": "31012",
+            "name": "Xã Thạnh Yên",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "31015",
+            "name": "Xã Thạnh Yên A",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "31027",
+            "name": "Xã An Minh Bắc",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "31054",
+            "name": "Xã Vĩnh Hòa",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "31057",
+            "name": "Xã Hoà Chánh",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "31066",
+            "name": "Xã Minh Thuận",
             "type": "Xã"
           }
         ]
@@ -58464,8 +58486,8 @@
           },
           {
             "level3_id": "31900",
-            "name": "Xã Châu Hưng",
-            "type": "Xã"
+            "name": "Thị trấn Châu Hưng",
+            "type": "Thị trấn"
           },
           {
             "level3_id": "31903",

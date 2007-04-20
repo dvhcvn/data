@@ -2632,7 +2632,9 @@
             "Xã Vạn Ninh",
             "Xã Bình Ngọc",
             "Xã Vĩnh Trung",
-            "Xã Vĩnh Thực"
+            "Xã Vĩnh Thực",
+            "Phường Hải Yên",
+            "Phường Hải Hoà"
         ],
         "Thị xã Cẩm Phả": [
             "Phường Mông Dương",
@@ -11995,7 +11997,8 @@
             "Xã Sơn Hải",
             "Xã Hòn Nghệ",
             "Xã Vĩnh Phú",
-            "Xã Phú Lợi"
+            "Xã Phú Lợi",
+            "Xã Bình Trị"
         ],
         "Huyện Hòn Đất": [
             "Thị trấn Hòn Đất",
@@ -12010,7 +12013,8 @@
             "Xã Mỹ Lâm",
             "Xã Mỹ Phước",
             "Xã Mỹ Thái",
-            "Xã Lình Huỳnh"
+            "Xã Lình Huỳnh",
+            "Xã Sơn Bình"
         ],
         "Huyện Tân Hiệp": [
             "Thị trấn Tân Hiệp",
@@ -12105,7 +12109,8 @@
             "Xã Minh Thuận",
             "Xã Vĩnh Thuận",
             "Xã Tân Thuận",
-            "Xã Vĩnh Phong"
+            "Xã Vĩnh Phong",
+            "Xã Phong Đông"
         ],
         "Huyện Phú Quốc": [
             "Thị trấn Dương Đông",
@@ -12138,6 +12143,14 @@
             "Phường Vĩnh Lợi",
             "Phường Vĩnh Thông",
             "Xã Phi Thông"
+        ],
+        "Huyện U Minh Thượng": [
+            "Xã Thạnh Yên",
+            "Xã Thạnh Yên A",
+            "Xã An Minh Bắc",
+            "Xã Vĩnh Hòa",
+            "Xã Hoà Chánh",
+            "Xã Minh Thuận"
         ]
     },
     "Thành phố Cần Thơ": {
@@ -12498,7 +12511,8 @@
             "Xã Vĩnh Hậu",
             "Xã Vĩnh Hậu A",
             "Xã Vĩnh Mỹ A",
-            "Xã Vĩnh Thịnh"
+            "Xã Vĩnh Thịnh",
+            "Thị trấn Châu Hưng"
         ],
         "Huyện Giá Rai": [
             "Thị trấn Giá Rai",
