@@ -3378,6 +3378,25 @@
             "Xã Phượng Mao",
             "Xã Yến Mao",
             "Xã Tu Vũ"
+        ],
+        "Huyện Tân Sơn": [
+            "Xã Thu Cúc",
+            "Xã Thạch Kiệt",
+            "Xã Thu Ngạc",
+            "Xã Kiệt Sơn",
+            "Xã Đồng Sơn",
+            "Xã Lai Đồng",
+            "Xã Tân Phú",
+            "Xã Mỹ Thuận",
+            "Xã Tân Sơn",
+            "Xã Xuân Đài",
+            "Xã Minh Đài",
+            "Xã Văn Luông",
+            "Xã Xuân Sơn",
+            "Xã Long Cốc",
+            "Xã Kim Thượng",
+            "Xã Tam Thanh",
+            "Xã Vinh Tiền"
         ]
     },
     "Tỉnh Vĩnh Phúc": {
@@ -3718,7 +3737,17 @@
             "Phường Đại Phúc",
             "Phường Ninh Xá",
             "Phường Suối Hoa",
-            "Xã Võ Cường"
+            "Xã Võ Cường",
+            "Phường Võ Cường",
+            "Xã Hòa Long",
+            "Xã Vạn An",
+            "Xã Khúc Xuyên",
+            "Xã Phong Khê",
+            "Xã Kim Chân",
+            "Xã Vân Dương",
+            "Xã Nam Sơn",
+            "Xã Khắc Niệm",
+            "Xã Hạp Lĩnh"
         ]
     },
     "Tỉnh Hà Tây": {
@@ -5534,7 +5563,9 @@
             "Xã Yên Sơn",
             "Xã Yên Bình",
             "Xã Quang Sơn",
-            "Xã Đông Sơn"
+            "Xã Đông Sơn",
+            "Phường Tây Sơn",
+            "Phường Tân Bình"
         ],
         "Huyện Nho Quan": [
             "Thị trấn Nho Quan",
