@@ -8310,7 +8310,8 @@
             "Xã An Tân",
             "Xã An Hòa",
             "Xã An Quang",
-            "Xã An Nghĩa"
+            "Xã An Nghĩa",
+            "Thị trấn An Lão"
         ],
         "Huyện Hoài Nhơn": [
             "Thị trấn  Tam Quan",
@@ -8345,7 +8346,9 @@
             "Xã Bok Tới",
             "Xã Ân Tường Tây",
             "Xã Ân Tường Đông",
-            "Xã Ân Nghĩa"
+            "Xã Ân Nghĩa",
+            "Xã Ân Hảo Tây",
+            "Xã Ân Hảo Đông"
         ],
         "Huyện Phù Mỹ": [
             "Thị trấn Phù Mỹ",
@@ -8746,7 +8749,44 @@
             "Xã Ba Cụm Bắc",
             "Xã Ba Cụm Nam"
         ],
-        "Huyện Trường Sa": []
+        "Huyện Trường Sa": [
+            "Thị trấn Trường Sa",
+            "Xã Song Tử Tây",
+            "Xã Sinh Tồn"
+        ],
+        "Thị xã Cam Ranh": [
+            "Phường Cam Nghĩa",
+            "Phường Cam Phúc Bắc",
+            "Phường Cam Phúc Nam",
+            "Phường Cam Lộc",
+            "Phường Cam Phú",
+            "Phường Ba Ngòi",
+            "Phường Cam Thuận",
+            "Phường Cam Lợi",
+            "Phường Cam Linh",
+            "Xã Cam Thành Nam",
+            "Xã Cam Phước Đông",
+            "Xã Cam Thịnh Tây",
+            "Xã Cam Thịnh Đông",
+            "Xã Cam Lập",
+            "Xã Cam Bình"
+        ],
+        "Huyện Cam Lâm": [
+            "Xã Cam Tân",
+            "Xã Cam Hòa",
+            "Xã Cam Hải Đông",
+            "Xã Cam Hải Tây",
+            "Xã Sơn Tân",
+            "Xã Cam Hiệp Bắc",
+            "Thị trấn Cam Đức",
+            "Xã Cam Hiệp Nam",
+            "Xã Cam Phước Tây",
+            "Xã Cam Thành Bắc",
+            "Xã Cam An Bắc",
+            "Xã Cam An Nam",
+            "Xã Suối Cát",
+            "Xã Suối Tân"
+        ]
     },
     "Tỉnh Ninh Thuận": {
         "Thị xã Phan Rang-Tháp Chàm": [

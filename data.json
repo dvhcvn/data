@@ -39173,6 +39173,11 @@
         "type": "Huyện",
         "level3s": [
           {
+            "level3_id": "21609",
+            "name": "Thị trấn An Lão",
+            "type": "Thị trấn"
+          },
+          {
             "level3_id": "21610",
             "name": "Xã An Hưng",
             "type": "Xã"
@@ -39322,8 +39327,13 @@
             "type": "Thị trấn"
           },
           {
+            "level3_id": "21690",
+            "name": "Xã Ân Hảo Tây",
+            "type": "Xã"
+          },
+          {
             "level3_id": "21691",
-            "name": "Xã Ân Hảo",
+            "name": "Xã Ân Hảo Đông",
             "type": "Xã"
           },
           {
@@ -40667,6 +40677,165 @@
         ]
       },
       {
+        "level2_id": "569",
+        "name": "Thị xã Cam Ranh",
+        "type": "Thị xã",
+        "level3s": [
+          {
+            "level3_id": "22408",
+            "name": "Phường Cam Nghĩa",
+            "type": "Phường"
+          },
+          {
+            "level3_id": "22411",
+            "name": "Phường Cam Phúc Bắc",
+            "type": "Phường"
+          },
+          {
+            "level3_id": "22414",
+            "name": "Phường Cam Phúc Nam",
+            "type": "Phường"
+          },
+          {
+            "level3_id": "22417",
+            "name": "Phường Cam Lộc",
+            "type": "Phường"
+          },
+          {
+            "level3_id": "22420",
+            "name": "Phường Cam Phú",
+            "type": "Phường"
+          },
+          {
+            "level3_id": "22423",
+            "name": "Phường Ba Ngòi",
+            "type": "Phường"
+          },
+          {
+            "level3_id": "22426",
+            "name": "Phường Cam Thuận",
+            "type": "Phường"
+          },
+          {
+            "level3_id": "22429",
+            "name": "Phường Cam Lợi",
+            "type": "Phường"
+          },
+          {
+            "level3_id": "22432",
+            "name": "Phường Cam Linh",
+            "type": "Phường"
+          },
+          {
+            "level3_id": "22468",
+            "name": "Xã Cam Thành Nam",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "22474",
+            "name": "Xã Cam Phước Đông",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "22477",
+            "name": "Xã Cam Thịnh Tây",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "22480",
+            "name": "Xã Cam Thịnh Đông",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "22483",
+            "name": "Xã Cam Lập",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "22486",
+            "name": "Xã Cam Bình",
+            "type": "Xã"
+          }
+        ]
+      },
+      {
+        "level2_id": "570",
+        "name": "Huyện Cam Lâm",
+        "type": "Huyện",
+        "level3s": [
+          {
+            "level3_id": "22435",
+            "name": "Xã Cam Tân",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "22438",
+            "name": "Xã Cam Hòa",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "22441",
+            "name": "Xã Cam Hải Đông",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "22444",
+            "name": "Xã Cam Hải Tây",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "22447",
+            "name": "Xã Sơn Tân",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "22450",
+            "name": "Xã Cam Hiệp Bắc",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "22453",
+            "name": "Thị trấn Cam Đức",
+            "type": "Thị trấn"
+          },
+          {
+            "level3_id": "22456",
+            "name": "Xã Cam Hiệp Nam",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "22459",
+            "name": "Xã Cam Phước Tây",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "22462",
+            "name": "Xã Cam Thành Bắc",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "22465",
+            "name": "Xã Cam An Bắc",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "22471",
+            "name": "Xã Cam An Nam",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "22708",
+            "name": "Xã Suối Cát",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "22711",
+            "name": "Xã Suối Tân",
+            "type": "Xã"
+          }
+        ]
+      },
+      {
         "level2_id": "571",
         "name": "Huyện Vạn Ninh",
         "type": "Huyện",
@@ -41056,16 +41225,6 @@
             "level3_id": "22705",
             "name": "Xã Suối Tiên",
             "type": "Xã"
-          },
-          {
-            "level3_id": "22708",
-            "name": "Xã Suối Cát",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "22711",
-            "name": "Xã Suối Tân",
-            "type": "Xã"
           }
         ]
       },
@@ -41120,7 +41279,23 @@
         "level2_id": "576",
         "name": "Huyện Trường Sa",
         "type": "Huyện",
-        "level3s": []
+        "level3s": [
+          {
+            "level3_id": "22736",
+            "name": "Thị trấn Trường Sa",
+            "type": "Thị trấn"
+          },
+          {
+            "level3_id": "22737",
+            "name": "Xã Song Tử Tây",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "22739",
+            "name": "Xã Sinh Tồn",
+            "type": "Xã"
+          }
+        ]
       }
     ]
   },
