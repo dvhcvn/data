@@ -13613,11 +13613,6 @@
             "type": "Thị trấn"
           },
           {
-            "level3_id": "07372",
-            "name": "Thị trấn NT Bố Hạ",
-            "type": "Thị trấn"
-          },
-          {
             "level3_id": "07375",
             "name": "Thị trấn Vôi",
             "type": "Thị trấn"
@@ -14158,6 +14153,11 @@
           {
             "level3_id": "07681",
             "name": "Thị trấn Neo",
+            "type": "Thị trấn"
+          },
+          {
+            "level3_id": "07682",
+            "name": "Thị trấn Tân Dân",
             "type": "Thị trấn"
           },
           {
