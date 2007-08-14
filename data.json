@@ -6341,38 +6341,6 @@
         ]
       },
       {
-        "level2_id": "105",
-        "name": "Thị xã Lai Châu",
-        "type": "Thị xã",
-        "level3s": [
-          {
-            "level3_id": "03386",
-            "name": "Phường Quyết Thắng",
-            "type": "Phường"
-          },
-          {
-            "level3_id": "03387",
-            "name": "Phường Tân Phong",
-            "type": "Phường"
-          },
-          {
-            "level3_id": "03389",
-            "name": "Phường Đoàn Kết",
-            "type": "Phường"
-          },
-          {
-            "level3_id": "03403",
-            "name": "Xã Nậm Loỏng",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "03409",
-            "name": "Xã San Thàng",
-            "type": "Xã"
-          }
-        ]
-      },
-      {
         "level2_id": "106",
         "name": "Huyện Tam Đường",
         "type": "Huyện",
@@ -54611,6 +54579,43 @@
         ]
       },
       {
+        "level2_id": "861",
+        "name": "Huyện Bình Minh",
+        "type": "Huyện",
+        "level3s": [
+          {
+            "level3_id": "29770",
+            "name": "Thị trấn Cái Vồn",
+            "type": "Thị trấn"
+          },
+          {
+            "level3_id": "29806",
+            "name": "Xã Thuận An",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "29809",
+            "name": "Xã Đông Thạnh",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "29812",
+            "name": "Xã Đông Bình",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "29815",
+            "name": "Xã Mỹ Hòa",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "29818",
+            "name": "Xã Đông Thành",
+            "type": "Xã"
+          }
+        ]
+      },
+      {
         "level2_id": "862",
         "name": "Huyện Trà Ôn",
         "type": "Huyện",
@@ -54683,6 +54688,68 @@
           {
             "level3_id": "29860",
             "name": "Xã Tích Thiện",
+            "type": "Xã"
+          }
+        ]
+      },
+      {
+        "level2_id": "863",
+        "name": "Huyện Bình Tân",
+        "type": "Huyện",
+        "level3s": [
+          {
+            "level3_id": "29773",
+            "name": "Xã Tân Hưng",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "29776",
+            "name": "Xã Tân Thành",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "29779",
+            "name": "Xã Thành Trung",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "29782",
+            "name": "Xã Tân An Thạnh",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "29785",
+            "name": "Xã Tân Lược",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "29788",
+            "name": "Xã Nguyễn Văn Thảnh",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "29791",
+            "name": "Xã Thành Đông",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "29794",
+            "name": "Xã Mỹ Thuận",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "29797",
+            "name": "Xã Tân Bình",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "29800",
+            "name": "Xã Thành Lợi",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "29803",
+            "name": "Xã Tân Quới",
             "type": "Xã"
           }
         ]
