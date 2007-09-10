@@ -44220,6 +44220,11 @@
             "type": "Xã"
           },
           {
+            "level3_id": "24207",
+            "name": "Xã Ea Tir",
+            "type": "Xã"
+          },
+          {
             "level3_id": "24208",
             "name": "Xã Ea Nam",
             "type": "Xã"
@@ -44443,6 +44448,11 @@
             "type": "Xã"
           },
           {
+            "level3_id": "24314",
+            "name": "Xã Ea Sin",
+            "type": "Xã"
+          },
+          {
             "level3_id": "24316",
             "name": "Xã Pơng Drang",
             "type": "Xã"
@@ -44582,6 +44592,11 @@
             "type": "Xã"
           },
           {
+            "level3_id": "24380",
+            "name": "Xã Ea Sar",
+            "type": "Xã"
+          },
+          {
             "level3_id": "24382",
             "name": "Xã Xuân Phú",
             "type": "Xã"
@@ -44701,6 +44716,11 @@
           {
             "level3_id": "24442",
             "name": "Xã Krông Á",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "24444",
+            "name": "Xã Cư San",
             "type": "Xã"
           },
           {
@@ -44885,31 +44905,6 @@
             "type": "Thị trấn"
           },
           {
-            "level3_id": "24541",
-            "name": "Xã Cư Ê Wi",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "24544",
-            "name": "Xã Ea Ktur",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "24547",
-            "name": "Xã Ea Tiêu",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "24550",
-            "name": "Xã Ea BHốk",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "24553",
-            "name": "Xã Ea Hu",
-            "type": "Xã"
-          },
-          {
             "level3_id": "24556",
             "name": "Xã Dray Sáp",
             "type": "Xã"
@@ -44917,16 +44912,6 @@
           {
             "level3_id": "24559",
             "name": "Xã Ea Na",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "24561",
-            "name": "Xã Dray Bhăng",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "24562",
-            "name": "Xã Hòa Hiệp",
             "type": "Xã"
           },
           {
@@ -45014,6 +44999,53 @@
           {
             "level3_id": "24610",
             "name": "Xã Ea R'Bin",
+            "type": "Xã"
+          }
+        ]
+      },
+      {
+        "level2_id": "657",
+        "name": "Huyện Cư Kuin",
+        "type": "Huyện",
+        "level3s": [
+          {
+            "level3_id": "24540",
+            "name": "Xã Ea Ning",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "24541",
+            "name": "Xã Cư Ê Wi",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "24544",
+            "name": "Xã Ea Ktur",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "24547",
+            "name": "Xã Ea Tiêu",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "24550",
+            "name": "Xã Ea BHốk",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "24553",
+            "name": "Xã Ea Hu",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "24561",
+            "name": "Xã Dray Bhăng",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "24562",
+            "name": "Xã Hòa Hiệp",
             "type": "Xã"
           }
         ]

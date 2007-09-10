@@ -9495,7 +9495,8 @@
             "Xã Ea Khal",
             "Xã Dliê Yang",
             "Xã Ea Nam",
-            "Xã Cư A Mung"
+            "Xã Cư A Mung",
+            "Xã Ea Tir"
         ],
         "Huyện Ea Súp": [
             "Thị trấn Ea Súp",
@@ -9551,7 +9552,8 @@
             "Xã Ea Siên",
             "Xã Bình Thuận",
             "Xã Cư Bao",
-            "Xã Ea Đê"
+            "Xã Ea Đê",
+            "Xã Ea Sin"
         ],
         "Huyện Krông Năng": [
             "Thị trấn Krông Năng",
@@ -9583,7 +9585,8 @@
             "Xã Cư Jang",
             "Xã Ea Păl",
             "Xã Cư Prông",
-            "Xã Cư ELang"
+            "Xã Cư ELang",
+            "Xã Ea Sar"
         ],
         "Huyện M'Đrắk": [
             "Thị trấn M'Đrắk",
@@ -9597,7 +9600,8 @@
             "Xã Cư M'ta",
             "Xã Cư K Róa",
             "Xã Krông Á",
-            "Xã Ea Trang"
+            "Xã Ea Trang",
+            "Xã Cư San"
         ],
         "Huyện Krông Bông": [
             "Thị trấn Krông Kmar",
@@ -9662,6 +9666,16 @@
             "Xã Krông Nô",
             "Xã Nam Ka",
             "Xã Ea R'Bin"
+        ],
+        "Huyện Cư Kuin": [
+            "Xã Ea Ning",
+            "Xã Cư Ê Wi",
+            "Xã Ea Ktur",
+            "Xã Ea Tiêu",
+            "Xã Ea BHốk",
+            "Xã Ea Hu",
+            "Xã Dray Bhăng",
+            "Xã Hòa Hiệp"
         ]
     },
     "Tỉnh Đắk Nông": {
