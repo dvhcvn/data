@@ -20935,8 +20935,8 @@
       },
       {
         "level2_id": "308",
-        "name": "Thị xã Đồ Sơn",
-        "type": "Thị xã",
+        "name": "Quận Đồ Sơn",
+        "type": "Quận",
         "level3s": [
           {
             "level3_id": "11455",
@@ -20959,9 +20959,56 @@
             "type": "Phường"
           },
           {
+            "level3_id": "11465",
+            "name": "Phường Minh Đức",
+            "type": "Phường"
+          },
+          {
             "level3_id": "11467",
-            "name": "Xã Bàng La",
-            "type": "Xã"
+            "name": "Phường Bàng La",
+            "type": "Phường"
+          },
+          {
+            "level3_id": "11737",
+            "name": "Phường Hợp Đức",
+            "type": "Phường"
+          }
+        ]
+      },
+      {
+        "level2_id": "309",
+        "name": "Quận Dương Kinh",
+        "type": "Quận",
+        "level3s": [
+          {
+            "level3_id": "11683",
+            "name": "Phường Đa Phúc",
+            "type": "Phường"
+          },
+          {
+            "level3_id": "11686",
+            "name": "Phường Hưng Đạo",
+            "type": "Phường"
+          },
+          {
+            "level3_id": "11689",
+            "name": "Phường Anh Dũng",
+            "type": "Phường"
+          },
+          {
+            "level3_id": "11692",
+            "name": "Phường Hải Thành",
+            "type": "Phường"
+          },
+          {
+            "level3_id": "11707",
+            "name": "Phường Hoà Nghĩa",
+            "type": "Phường"
+          },
+          {
+            "level3_id": "11740",
+            "name": "Phường Tân Thành",
+            "type": "Phường"
           }
         ]
       },
@@ -21347,26 +21394,6 @@
             "type": "Thị trấn"
           },
           {
-            "level3_id": "11683",
-            "name": "Xã Đa Phúc",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "11686",
-            "name": "Xã Hưng Đạo",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "11689",
-            "name": "Xã Anh Dũng",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "11692",
-            "name": "Xã Hải Thành",
-            "type": "Xã"
-          },
-          {
             "level3_id": "11695",
             "name": "Xã Đông Phương",
             "type": "Xã"
@@ -21384,11 +21411,6 @@
           {
             "level3_id": "11704",
             "name": "Xã Đại Đồng",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "11707",
-            "name": "Xã Hoà Nghĩa",
             "type": "Xã"
           },
           {
@@ -21434,16 +21456,6 @@
           {
             "level3_id": "11734",
             "name": "Xã Tân Phong",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "11737",
-            "name": "Xã Hợp Đức",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "11740",
-            "name": "Xã Tân Thành",
             "type": "Xã"
           },
           {

@@ -4681,7 +4681,24 @@
             "Xã Việt Hải",
             "Xã Xuân Đám"
         ],
-        "Huyện Bạch Long Vĩ": []
+        "Huyện Bạch Long Vĩ": [],
+        "Quận Đồ Sơn": [
+            "Phường Ngọc Xuyên",
+            "Phường Ngọc Hải",
+            "Phường Vạn Hương",
+            "Phường Vạn Sơn",
+            "Phường Minh Đức",
+            "Phường Bàng La",
+            "Phường Hợp Đức"
+        ],
+        "Quận Dương Kinh": [
+            "Phường Đa Phúc",
+            "Phường Hưng Đạo",
+            "Phường Anh Dũng",
+            "Phường Hải Thành",
+            "Phường Hoà Nghĩa",
+            "Phường Tân Thành"
+        ]
     },
     "Tỉnh Hưng Yên": {
         "Thị xã Hưng Yên": [
