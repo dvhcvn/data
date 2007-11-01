@@ -45127,6 +45127,11 @@
             "type": "Xã"
           },
           {
+            "level3_id": "24620",
+            "name": "Xã Quảng Hoà",
+            "type": "Xã"
+          },
+          {
             "level3_id": "24622",
             "name": "Xã Đắk Ha",
             "type": "Xã"
@@ -45273,6 +45278,11 @@
             "type": "Xã"
           },
           {
+            "level3_id": "24692",
+            "name": "Xã Nam Xuân",
+            "type": "Xã"
+          },
+          {
             "level3_id": "24694",
             "name": "Xã Buôn Choah",
             "type": "Xã"
@@ -45325,6 +45335,11 @@
         "type": "Huyện",
         "level3s": [
           {
+            "level3_id": "24717",
+            "name": "Thị trấn Đức An",
+            "type": "Thị trấn"
+          },
+          {
             "level3_id": "24718",
             "name": "Xã Đắk Môl",
             "type": "Xã"
@@ -45336,7 +45351,12 @@
           },
           {
             "level3_id": "24721",
-            "name": "Xã Đắk Song",
+            "name": "Xã Nam Bình",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "24722",
+            "name": "Xã Thuận Hà",
             "type": "Xã"
           },
           {
@@ -45404,6 +45424,11 @@
           {
             "level3_id": "24760",
             "name": "Xã Đắk Sin",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "24761",
+            "name": "Xã Hưng Bình",
             "type": "Xã"
           },
           {
