@@ -57386,6 +57386,11 @@
             "type": "Phường"
           },
           {
+            "level3_id": "31157",
+            "name": "Phường Long Hưng",
+            "type": "Phường"
+          },
+          {
             "level3_id": "31159",
             "name": "Phường Thới An",
             "type": "Phường"
@@ -57413,6 +57418,11 @@
             "type": "Phường"
           },
           {
+            "level3_id": "31169",
+            "name": "Phường Trà An",
+            "type": "Phường"
+          },
+          {
             "level3_id": "31171",
             "name": "Phường Trà Nóc",
             "type": "Phường"
@@ -57425,6 +57435,11 @@
           {
             "level3_id": "31177",
             "name": "Phường An Thới",
+            "type": "Phường"
+          },
+          {
+            "level3_id": "31178",
+            "name": "Phường Bùi Hữu Nghĩa",
             "type": "Phường"
           },
           {
@@ -57522,6 +57537,11 @@
             "type": "Xã"
           },
           {
+            "level3_id": "31227",
+            "name": "Xã Tân Hưng",
+            "type": "Xã"
+          },
+          {
             "level3_id": "31228",
             "name": "Xã Thuận Hưng",
             "type": "Xã"
@@ -57556,6 +57576,11 @@
           {
             "level3_id": "31240",
             "name": "Xã Thạnh An",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "31241",
+            "name": "Xã Thạnh Tiến",
             "type": "Xã"
           },
           {
