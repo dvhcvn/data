@@ -30389,6 +30389,63 @@
         ]
       },
       {
+        "level2_id": "414",
+        "name": "Thị xã Thái Hoà",
+        "type": "Thị xã",
+        "level3s": [
+          {
+            "level3_id": "16939",
+            "name": "Phường Hoà Hiếu",
+            "type": "Phường"
+          },
+          {
+            "level3_id": "16993",
+            "name": "Phường Quang Phong",
+            "type": "Phường"
+          },
+          {
+            "level3_id": "16994",
+            "name": "Phường Quang Tiến",
+            "type": "Phường"
+          },
+          {
+            "level3_id": "17002",
+            "name": "Xã Nghĩa Hòa",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "17003",
+            "name": "Phường Long Sơn",
+            "type": "Phường"
+          },
+          {
+            "level3_id": "17005",
+            "name": "Xã Nghĩa Tiến",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "17008",
+            "name": "Xã Nghĩa Mỹ",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "17011",
+            "name": "Xã Tây Hiếu",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "17014",
+            "name": "Xã Nghĩa Thuận",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "17017",
+            "name": "Xã Đông Hiếu",
+            "type": "Xã"
+          }
+        ]
+      },
+      {
         "level2_id": "415",
         "name": "Huyện Quế Phong",
         "type": "Huyện",
@@ -30767,11 +30824,6 @@
         "type": "Huyện",
         "level3s": [
           {
-            "level3_id": "16939",
-            "name": "Thị trấn Thái Hòa",
-            "type": "Thị trấn"
-          },
-          {
             "level3_id": "16942",
             "name": "Xã Nghĩa Mai",
             "type": "Xã"
@@ -30857,11 +30909,6 @@
             "type": "Xã"
           },
           {
-            "level3_id": "16993",
-            "name": "Xã Nghĩa Quang",
-            "type": "Xã"
-          },
-          {
             "level3_id": "16996",
             "name": "Xã Nghĩa Hiếu",
             "type": "Xã"
@@ -30869,36 +30916,6 @@
           {
             "level3_id": "16999",
             "name": "Xã Nghĩa Liên",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "17002",
-            "name": "Xã Nghĩa Hòa",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "17005",
-            "name": "Xã Nghĩa Tiến",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "17008",
-            "name": "Xã Nghĩa Mỹ",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "17011",
-            "name": "Xã Tây Hiếu",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "17014",
-            "name": "Xã Nghĩa Thuận",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "17017",
-            "name": "Xã Đông Hiếu",
             "type": "Xã"
           },
           {
