@@ -26127,8 +26127,8 @@
           },
           {
             "level3_id": "14356",
-            "name": "Xã Ninh Sơn",
-            "type": "Xã"
+            "name": "Phường Ninh Sơn",
+            "type": "Phường"
           },
           {
             "level3_id": "14359",
@@ -39982,6 +39982,16 @@
             "type": "Phường"
           },
           {
+            "level3_id": "22040",
+            "name": "Phường Phú Thạnh",
+            "type": "Phường"
+          },
+          {
+            "level3_id": "22041",
+            "name": "Phường Phú Đông",
+            "type": "Phường"
+          },
+          {
             "level3_id": "22042",
             "name": "Xã Hòa Kiến",
             "type": "Xã"
@@ -40454,6 +40464,11 @@
             "level3_id": "22318",
             "name": "Xã Hòa Định Đông",
             "type": "Xã"
+          },
+          {
+            "level3_id": "22319",
+            "name": "Thị Trấn Phú Hoà",
+            "type": "Thị trấn"
           },
           {
             "level3_id": "22321",
@@ -41928,8 +41943,8 @@
           },
           {
             "level3_id": "23032",
-            "name": "Xã Lương Sơn",
-            "type": "Xã"
+            "name": "Thị trấn Lương Sơn",
+            "type": "Thị trấn"
           },
           {
             "level3_id": "23035",
@@ -42298,8 +42313,8 @@
           },
           {
             "level3_id": "23236",
-            "name": "Xã Tân Nghĩa",
-            "type": "Xã"
+            "name": "Thị trấn Tân Nghĩa",
+            "type": "Thị trấn"
           },
           {
             "level3_id": "23239",
@@ -42319,6 +42334,11 @@
           {
             "level3_id": "23254",
             "name": "Xã Tân Thắng",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "23255",
+            "name": "Xã Thắng Hải",
             "type": "Xã"
           },
           {

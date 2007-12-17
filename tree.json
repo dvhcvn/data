@@ -5753,7 +5753,8 @@
             "Xã Ninh Tiến",
             "Xã Ninh Phúc",
             "Xã Ninh Sơn",
-            "Phường Ninh Phong"
+            "Phường Ninh Phong",
+            "Phường Ninh Sơn"
         ]
     },
     "Tỉnh Thanh Hóa": {
@@ -8648,7 +8649,8 @@
             "Xã Hòa An",
             "Xã Hòa Định Đông",
             "Xã Hòa Định Tây",
-            "Xã Hòa Thắng"
+            "Xã Hòa Thắng",
+            "Thị Trấn Phú Hoà"
         ],
         "Thành phố Tuy Hoà": [
             "Phường 1",
@@ -8664,7 +8666,9 @@
             "Xã Bình Kiến",
             "Xã Bình Ngọc",
             "Xã An Phú",
-            "Phường Phú Lâm"
+            "Phường Phú Lâm",
+            "Phường Phú Thạnh",
+            "Phường Phú Đông"
         ],
         "Huyện Tây Hoà": [
             "Xã Sơn Thành Tây",
@@ -9004,7 +9008,8 @@
             "Xã Bình Tân",
             "Xã Phan Rí Thành",
             "Xã Hòa Thắng",
-            "Xã Hồng Phong"
+            "Xã Hồng Phong",
+            "Thị trấn Lương Sơn"
         ],
         "Huyện Hàm Thuận Bắc": [
             "Thị trấn Ma Lâm",
@@ -9085,7 +9090,9 @@
             "Xã Tân Xuân",
             "Xã Tân An",
             "Xã Sơn Mỹ",
-            "Xã Tân Thiện"
+            "Xã Tân Thiện",
+            "Thị trấn Tân Nghĩa",
+            "Xã Thắng Hải"
         ],
         "Huyện Phú Quí": [
             "Xã Ngũ Phụng",
