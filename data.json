@@ -2498,6 +2498,11 @@
             "type": "Xã"
           },
           {
+            "level3_id": "01343",
+            "name": "Xã Kim Cúc",
+            "type": "Xã"
+          },
+          {
             "level3_id": "01345",
             "name": "Xã Phan Thanh",
             "type": "Xã"
@@ -2513,6 +2518,11 @@
             "type": "Xã"
           },
           {
+            "level3_id": "01352",
+            "name": "Xã Hưng Thịnh",
+            "type": "Xã"
+          },
+          {
             "level3_id": "01354",
             "name": "Xã Huy Giáp",
             "type": "Xã"
@@ -2520,6 +2530,11 @@
           {
             "level3_id": "01357",
             "name": "Xã Đình Phùng",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "01359",
+            "name": "Xã Sơn Lập",
             "type": "Xã"
           },
           {
@@ -2542,6 +2557,11 @@
           {
             "level3_id": "01366",
             "name": "Xã Cần Yên",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "01367",
+            "name": "Xã Cần Nông",
             "type": "Xã"
           },
           {
@@ -2758,6 +2778,11 @@
           {
             "level3_id": "01480",
             "name": "Xã Ngọc Khê",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "01481",
+            "name": "Xã Ngọc Côn",
             "type": "Xã"
           },
           {
@@ -3058,8 +3083,8 @@
           },
           {
             "level3_id": "01648",
-            "name": "Xã Hoà Thuận",
-            "type": "Xã"
+            "name": "Thị trấn Hoà Thuận",
+            "type": "Thị trấn"
           },
           {
             "level3_id": "01651",
@@ -22762,6 +22787,11 @@
             "type": "Phường"
           },
           {
+            "level3_id": "12452",
+            "name": "Phường Trần Hưng Đạo",
+            "type": "Phường"
+          },
+          {
             "level3_id": "12454",
             "name": "Phường Trần Lãm",
             "type": "Phường"
@@ -22773,8 +22803,8 @@
           },
           {
             "level3_id": "12460",
-            "name": "Xã Hoàng Diệu",
-            "type": "Xã"
+            "name": "Phường Hoàng Diệu",
+            "type": "Phường"
           },
           {
             "level3_id": "12463",
@@ -22789,6 +22819,31 @@
           {
             "level3_id": "12469",
             "name": "Xã Vũ Chính",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "12817",
+            "name": "Xã Đông Mỹ",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "12820",
+            "name": "Xã Đông Thọ",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "13084",
+            "name": "Xã Vũ Đông",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "13108",
+            "name": "Xã Vũ Lạc",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "13225",
+            "name": "Xã Tân Bình",
             "type": "Xã"
           }
         ]
@@ -23393,16 +23448,6 @@
             "type": "Xã"
           },
           {
-            "level3_id": "12817",
-            "name": "Xã Đông Mỹ",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "12820",
-            "name": "Xã Đông Thọ",
-            "type": "Xã"
-          },
-          {
             "level3_id": "12823",
             "name": "Xã Đồng Phú",
             "type": "Xã"
@@ -23859,11 +23904,6 @@
             "type": "Xã"
           },
           {
-            "level3_id": "13084",
-            "name": "Xã Vũ Đông",
-            "type": "Xã"
-          },
-          {
             "level3_id": "13087",
             "name": "Xã An Bình",
             "type": "Xã"
@@ -23896,11 +23936,6 @@
           {
             "level3_id": "13105",
             "name": "Xã Quyết Tiến",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "13108",
-            "name": "Xã Vũ Lạc",
             "type": "Xã"
           },
           {
@@ -24098,11 +24133,6 @@
           {
             "level3_id": "13222",
             "name": "Xã Minh Lãng",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "13225",
-            "name": "Xã Tân Bình",
             "type": "Xã"
           },
           {

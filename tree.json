@@ -527,7 +527,10 @@
             "Xã Hưng Đạo",
             "Xã Huy Giáp",
             "Xã Đình Phùng",
-            "Xã Sơn Lộ"
+            "Xã Sơn Lộ",
+            "Xã Kim Cúc",
+            "Xã Hưng Thịnh",
+            "Xã Sơn Lập"
         ],
         "Huyện Thông Nông": [
             "Thị trấn Thông Nông",
@@ -539,7 +542,8 @@
             "Xã Yên Sơn",
             "Xã Lương Can",
             "Xã Thanh Long",
-            "Xã Bình Lãng"
+            "Xã Bình Lãng",
+            "Xã Cần Nông"
         ],
         "Huyện Hà Quảng": [
             "Xã Lũng Nặm",
@@ -594,7 +598,8 @@
             "Xã Đức Hồng",
             "Xã Thông Hoè",
             "Xã Thân Giáp",
-            "Xã Đoài Côn"
+            "Xã Đoài Côn",
+            "Xã Ngọc Côn"
         ],
         "Huyện Hạ Lang": [
             "Xã Minh Long",
@@ -641,7 +646,8 @@
             "Xã Lương Thiện",
             "Xã Tiên Thành",
             "Xã Hoà Thuận",
-            "Xã Mỹ Hưng"
+            "Xã Mỹ Hưng",
+            "Thị trấn Hoà Thuận"
         ],
         "Huyện Hoà An": [
             "Thị trấn Nước Hai",
@@ -4897,7 +4903,14 @@
             "Xã Hoàng Diệu",
             "Xã Phú Xuân",
             "Xã Vũ Phúc",
-            "Xã Vũ Chính"
+            "Xã Vũ Chính",
+            "Phường Trần Hưng Đạo",
+            "Phường Hoàng Diệu",
+            "Xã Đông Mỹ",
+            "Xã Đông Thọ",
+            "Xã Vũ Đông",
+            "Xã Vũ Lạc",
+            "Xã Tân Bình"
         ],
         "Huyện Quỳnh Phụ": [
             "Thị trấn Quỳnh Côi",
