@@ -8965,7 +8965,10 @@
             "Phường Mỹ Đông",
             "Xã Thành Hải",
             "Xã Văn Hải",
-            "Xã Mỹ Hải"
+            "Xã Mỹ Hải",
+            "Phường Văn Hải",
+            "Phường Mỹ Bình",
+            "Phường Mỹ Hải"
         ]
     },
     "Tỉnh Bình Thuận": {
@@ -11250,7 +11253,10 @@
             "Xã Long Hưng",
             "Xã Long Thuận",
             "Xã Long Chánh",
-            "Xã Long Hòa"
+            "Xã Long Hòa",
+            "Xã Bình Đông",
+            "Xã Bình Xuân",
+            "Xã Tân Trung"
         ],
         "Thị xã Cai Lậy": [],
         "Huyện Tân Phước": [
@@ -11379,6 +11385,14 @@
             "Xã Bình Nghị",
             "Xã Phước Trung",
             "Xã Tân Thành",
+            "Xã Phú Đông",
+            "Xã Phú Tân"
+        ],
+        "Huyện Tân Phú Đông": [
+            "Xã Tân Thới",
+            "Xã Tân Phú",
+            "Xã Phú Thạnh",
+            "Xã Tân Thạnh",
             "Xã Phú Đông",
             "Xã Phú Tân"
         ]
