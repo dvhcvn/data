@@ -4127,7 +4127,11 @@
             "Xã Phú Lương",
             "Xã Dương Nội",
             "Xã Đồng Mai",
-            "Xã Biên Giang"
+            "Xã Biên Giang",
+            "Phường Mộ Lao",
+            "Phường Văn Quán",
+            "Phường La Khê",
+            "Phường Phú La"
         ],
         "Thành phố Sơn Tây": [
             "Phường Lê Lợi",
@@ -4144,7 +4148,10 @@
             "Xã Trung Sơn Trầm",
             "Xã Kim Sơn",
             "Xã Sơn Đông",
-            "Xã Cổ Đông"
+            "Xã Cổ Đông",
+            "Phường Viên Sơn",
+            "Phường Trung Hưng",
+            "Phường Trung Sơn Trầm"
         ]
     },
     "Tỉnh Hải Dương": {
@@ -10063,7 +10070,8 @@
             "Xã Phú Nghĩa",
             "Xã Phú Văn",
             "Xã Bình Tân",
-            "Xã Bình Sơn"
+            "Xã Bình Sơn",
+            "Xã Phước Minh"
         ],
         "Huyện Lộc Ninh": [
             "Thị trấn Lộc Ninh",
@@ -10080,7 +10088,8 @@
             "Xã Lộc Hưng",
             "Xã Lộc Khánh",
             "Xã Lộc Thạnh",
-            "Xã Lộc Thịnh"
+            "Xã Lộc Thịnh",
+            "Xã Lộc Phú"
         ],
         "Huyện Bù Đốp": [
             "Xã Hưng Phước",
@@ -10135,7 +10144,8 @@
             "Xã Đăng Hà",
             "Xã Phước Sơn",
             "Xã Phú Sơn",
-            "Xã Nghĩa Bình"
+            "Xã Nghĩa Bình",
+            "Xã Bình Minh"
         ],
         "Huyện Chơn Thành": [
             "Thị trấn Chơn Thành",
