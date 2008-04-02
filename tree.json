@@ -4168,7 +4168,15 @@
             "Phường Lê Thanh Nghị",
             "Phường Hải Tân",
             "Xã Tứ Minh",
-            "Xã Việt Hòa"
+            "Xã Việt Hòa",
+            "Phường Tứ Minh",
+            "Phường Việt Hoà",
+            "Xã ái Quốc",
+            "Xã An Châu",
+            "Xã Thượng Đạt",
+            "Xã Nam Đồng",
+            "Xã Thạch Khôi",
+            "Xã Tân Hưng"
         ],
         "Huyện Chí Linh": [
             "Thị trấn Phả Lại",
@@ -7442,7 +7450,10 @@
         ],
         "Thị xã Quảng Trị": [
             "Phường 1",
-            "Phường 2"
+            "Phường 2",
+            "Phường An Đôn",
+            "Phường 3",
+            "Xã Hải Lệ"
         ],
         "Huyện Vĩnh Linh": [
             "Thị trấn Hồ Xá",
