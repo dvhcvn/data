@@ -16067,6 +16067,11 @@
             "type": "Phường"
           },
           {
+            "level3_id": "08747",
+            "name": "Phường Đồng Xuân",
+            "type": "Phường"
+          },
+          {
             "level3_id": "08749",
             "name": "Xã Ngọc Thanh",
             "type": "Xã"
@@ -16144,6 +16149,11 @@
             "type": "Xã"
           },
           {
+            "level3_id": "08789",
+            "name": "Thị trấn Hoa Sơn",
+            "type": "Thị trấn"
+          },
+          {
             "level3_id": "08791",
             "name": "Xã Liễn Sơn",
             "type": "Xã"
@@ -16200,8 +16210,8 @@
           },
           {
             "level3_id": "08824",
-            "name": "Xã Tam Sơn",
-            "type": "Xã"
+            "name": "Thị trấn Tam Sơn",
+            "type": "Thị trấn"
           },
           {
             "level3_id": "08827",
@@ -16477,6 +16487,11 @@
         "type": "Huyện",
         "level3s": [
           {
+            "level3_id": "08973",
+            "name": "Thị trấn Chi Đông",
+            "type": "Thị trấn"
+          },
+          {
             "level3_id": "08974",
             "name": "Xã Đại Thịnh",
             "type": "Xã"
@@ -16500,6 +16515,11 @@
             "level3_id": "08986",
             "name": "Xã Tự Lập",
             "type": "Xã"
+          },
+          {
+            "level3_id": "08989",
+            "name": "Thị trấn Quang Minh",
+            "type": "Thị trấn"
           },
           {
             "level3_id": "08992",
