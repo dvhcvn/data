@@ -1376,7 +1376,8 @@
             "Xã Nà Tăm",
             "Xã Khun Há",
             "Thị trấn Tam Đường",
-            "Xã Sơn Bình"
+            "Xã Sơn Bình",
+            "Xã Giang Ma"
         ],
         "Huyện Mường Tè": [
             "Thị trấn Mường Tè",
@@ -1393,7 +1394,8 @@
             "Xã Bum Nưa",
             "Xã Kan Hồ",
             "Xã Mường Mô",
-            "Xã Nậm Hàng"
+            "Xã Nậm Hàng",
+            "Xã Nậm Manh"
         ],
         "Huyện Sìn Hồ": [
             "Thị trấn Sìn Hồ",
@@ -1461,7 +1463,11 @@
             "Xã Khoen On",
             "Xã Phúc Khoa",
             "Xã Phúc Than",
-            "Xã Tà Mung"
+            "Xã Tà Mung",
+            "Thị trấn Tân Uyên",
+            "Xã Trung Đồng",
+            "Xã Mường Cang",
+            "Xã Hua Nà"
         ]
     },
     "Tỉnh Sơn La": {
@@ -8000,7 +8006,8 @@
             "Xã Quế Phong",
             "Xã Quế An",
             "Xã Quế Minh",
-            "Xã Quế Lâm"
+            "Xã Quế Lâm",
+            "Xã Hương An"
         ],
         "Huyện Nam Giang": [
             "Thị trấn Thạnh Mỹ",
@@ -8024,7 +8031,8 @@
             "Xã Phước Công",
             "Xã Phước Kim",
             "Xã Phước Lộc",
-            "Xã Phước Thành"
+            "Xã Phước Thành",
+            "Xã Phước Hoà"
         ],
         "Huyện Hiệp Đức": [
             "Thị trấn Tân An",
@@ -8171,6 +8179,15 @@
             "Phường Cẩm Nam",
             "Xã Cẩm Thanh",
             "Xã Tân Hiệp"
+        ],
+        "Huyện Nông Sơn": [
+            "Xã Quế Trung",
+            "Xã Quế Ninh",
+            "Xã Phước Ninh",
+            "Xã Quế Lộc",
+            "Xã Sơn Viên",
+            "Xã Quế Phước",
+            "Xã Quế Lâm"
         ]
     },
     "Tỉnh Quảng Ngãi": {
