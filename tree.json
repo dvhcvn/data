@@ -1566,7 +1566,9 @@
             "Xã Hồng Ngài",
             "Xã Tạ Khoa",
             "Xã Phiêng Côn",
-            "Xã Chiềng Sại"
+            "Xã Chiềng Sại",
+            "Xã Háng Đồng",
+            "Xã Hua Nhàn"
         ],
         "Huyện Phù Yên": [
             "Thị trấn Phù Yên",
@@ -1666,7 +1668,8 @@
             "Xã Chiềng Lương",
             "Xã Phiêng Pằn",
             "Xã Nà Ơt",
-            "Xã Tà Hộc"
+            "Xã Tà Hộc",
+            "Xã Nà Pó"
         ],
         "Huyện Sông Mã": [
             "Thị trấn Sông Mã",
@@ -6510,7 +6513,13 @@
             "Xã Hưng Hòa",
             "Xã Vinh Tân",
             "Phường Quán Bàu",
-            "Phường Hưng Phúc"
+            "Phường Hưng Phúc",
+            "Phường Vinh Tân",
+            "Xã Nghi Liên",
+            "Xã Nghi Ân",
+            "Xã Nghi Kim",
+            "Xã Nghi Đức",
+            "Xã Hưng Chính"
         ],
         "Thị xã Cửa Lò": [
             "Phường Nghi Thuỷ",
@@ -9329,7 +9338,10 @@
             "Xã Diên Phú",
             "Xã Ia Kênh",
             "Xã Gào",
-            "Phường Thắng Lợi"
+            "Phường Thắng Lợi",
+            "Phường Phù Đổng",
+            "Phường Đống Đa",
+            "Phường Chi Lăng"
         ],
         "Thị xã An Khê": [
             "Phường An Bình",
@@ -9467,7 +9479,9 @@
             "Xã Ia Ga",
             "Xã Ia Lâu",
             "Xã Ia Piơr",
-            "Xã Ia Mơ"
+            "Xã Ia Mơ",
+            "Xã Ia Kly",
+            "Xã Ia Bang"
         ],
         "Huyện Chư Sê": [
             "Thị trấn Chư Sê",
@@ -9489,7 +9503,9 @@
             "Xã Chư Pơng",
             "Xã Bar Măih",
             "Xã Ia Hla",
-            "Xã Ia BLứ"
+            "Xã Ia BLứ",
+            "Thị trấn Nhơn Hoà",
+            "Xã Chư Don"
         ],
         "Huyện Đăk Pơ": [
             "Xã Hà Tam",
