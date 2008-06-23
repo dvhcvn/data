@@ -5359,6 +5359,20 @@
             "Xã Xuân Khê",
             "Xã Tiến Thắng",
             "Xã Hòa Hậu"
+        ],
+        "Thành phố Phủ Lý": [
+            "Phường Quang Trung",
+            "Phường Lương Khánh Thiện",
+            "Phường Lê Hồng Phong",
+            "Phường Minh Khai",
+            "Phường Hai Bà Trưng",
+            "Phường Trần Hưng Đạo",
+            "Xã Lam Hạ",
+            "Xã Phù Vân",
+            "Xã Liêm Chính",
+            "Xã Liêm Chung",
+            "Xã Thanh Châu",
+            "Xã Châu Sơn"
         ]
     },
     "Tỉnh Nam Định": {
@@ -9212,7 +9226,8 @@
             "Xã Đoàn Kết",
             "Xã Chư Hreng",
             "Xã Đắk Rơ Wa",
-            "Xã Hòa Bình"
+            "Xã Hòa Bình",
+            "Xã Đăk Năng"
         ],
         "Huyện Đắk Glei": [
             "Thị trấn Đắk Glei",
@@ -10336,7 +10351,10 @@
             "Xã Tân An",
             "Xã Hiệp An",
             "Xã Tương Bình Hiệp",
-            "Xã Chánh Mỹ"
+            "Xã Chánh Mỹ",
+            "Phường Định Hoà",
+            "Phường Phú Mỹ",
+            "Phường Hiệp An"
         ],
         "Huyện Dầu Tiếng": [
             "Thị trấn Dầu Tiếng",

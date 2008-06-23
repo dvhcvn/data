@@ -24331,8 +24331,8 @@
     "level2s": [
       {
         "level2_id": "347",
-        "name": "Thị xã Phủ Lý",
-        "type": "Thị xã",
+        "name": "Thành phố Phủ Lý",
+        "type": "Thành phố",
         "level3s": [
           {
             "level3_id": "13285",
@@ -42513,6 +42513,11 @@
             "type": "Xã"
           },
           {
+            "level3_id": "23327",
+            "name": "Xã Đăk Năng",
+            "type": "Xã"
+          },
+          {
             "level3_id": "23329",
             "name": "Xã Đoàn Kết",
             "type": "Xã"
@@ -47565,13 +47570,13 @@
           },
           {
             "level3_id": "25759",
-            "name": "Xã Định Hòa",
-            "type": "Xã"
+            "name": "Phường Định Hoà",
+            "type": "Phường"
           },
           {
             "level3_id": "25762",
-            "name": "Xã Phú Mỹ",
-            "type": "Xã"
+            "name": "Phường Phú Mỹ",
+            "type": "Phường"
           },
           {
             "level3_id": "25765",
@@ -47580,8 +47585,8 @@
           },
           {
             "level3_id": "25768",
-            "name": "Xã Hiệp An",
-            "type": "Xã"
+            "name": "Phường Hiệp An",
+            "type": "Phường"
           },
           {
             "level3_id": "25771",
