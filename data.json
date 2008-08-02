@@ -1544,11 +1544,6 @@
             "type": "Thị trấn"
           },
           {
-            "level3_id": "09622",
-            "name": "Xã Tân Đức",
-            "type": "Xã"
-          },
-          {
             "level3_id": "09625",
             "name": "Xã Phú Cường",
             "type": "Xã"
@@ -16479,6 +16474,11 @@
           {
             "level3_id": "08515",
             "name": "Xã Thanh Đình",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "09622",
+            "name": "Xã Tân Đức",
             "type": "Xã"
           }
         ]
