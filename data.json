@@ -12054,6 +12054,16 @@
             "level3_id": "05506",
             "name": "Xã Lương Sơn",
             "type": "Xã"
+          },
+          {
+            "level3_id": "05695",
+            "name": "Xã Cao Ngạn",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "05710",
+            "name": "Xã Đồng Bẩm",
+            "type": "Xã"
           }
         ]
       },
@@ -12394,11 +12404,6 @@
             "type": "Xã"
           },
           {
-            "level3_id": "05695",
-            "name": "Xã Cao Ngạn",
-            "type": "Xã"
-          },
-          {
             "level3_id": "05698",
             "name": "Xã Hợp Tiến",
             "type": "Xã"
@@ -12416,11 +12421,6 @@
           {
             "level3_id": "05707",
             "name": "Xã Nam Hòa",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "05710",
-            "name": "Xã Đồng Bẩm",
             "type": "Xã"
           },
           {
