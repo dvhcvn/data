@@ -54220,6 +54220,11 @@
             "type": "Thị trấn"
           },
           {
+            "level3_id": "29462",
+            "name": "Thị trấn Định An",
+            "type": "Thị trấn"
+          },
+          {
             "level3_id": "29464",
             "name": "Xã Phước Hưng",
             "type": "Xã"
@@ -54262,6 +54267,11 @@
           {
             "level3_id": "29488",
             "name": "Xã Hàm Giang",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "29489",
+            "name": "Xã Hàm Tân",
             "type": "Xã"
           },
           {
@@ -58851,6 +58861,11 @@
             "type": "Xã"
           },
           {
+            "level3_id": "31863",
+            "name": "Xã Ninh Thạnh Lợi A",
+            "type": "Xã"
+          },
+          {
             "level3_id": "31864",
             "name": "Xã Ninh Thạnh Lợi",
             "type": "Xã"
@@ -59039,8 +59054,18 @@
             "type": "Xã"
           },
           {
+            "level3_id": "31985",
+            "name": "Xã Điền Hải",
+            "type": "Xã"
+          },
+          {
             "level3_id": "31987",
             "name": "Xã An Trạch",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "31988",
+            "name": "Xã An Trạch A",
             "type": "Xã"
           },
           {
