@@ -9875,6 +9875,36 @@
             "level3_id": "04279",
             "name": "Xã Tân Thịnh",
             "type": "Xã"
+          },
+          {
+            "level3_id": "04540",
+            "name": "Xã Âu Lâu",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "04543",
+            "name": "Xã Giới Phiên",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "04546",
+            "name": "Xã Hợp Minh",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "04549",
+            "name": "Xã Văn Tiến",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "04552",
+            "name": "Xã Phúc Lộc",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "04558",
+            "name": "Xã Văn Phú",
+            "type": "Xã"
           }
         ]
       },
@@ -10342,41 +10372,6 @@
             "type": "Xã"
           },
           {
-            "level3_id": "04540",
-            "name": "Xã Âu Lâu",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "04543",
-            "name": "Xã Giới Phiên",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "04546",
-            "name": "Xã Hợp Minh",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "04549",
-            "name": "Xã Văn Tiến",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "04552",
-            "name": "Xã Phúc Lộc",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "04555",
-            "name": "Xã Văn Lãng",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "04558",
-            "name": "Xã Văn Phú",
-            "type": "Xã"
-          },
-          {
             "level3_id": "04561",
             "name": "Xã Bảo Hưng",
             "type": "Xã"
@@ -10652,6 +10647,11 @@
         "name": "Huyện Yên Bình",
         "type": "Huyện",
         "level3s": [
+          {
+            "level3_id": "04555",
+            "name": "Xã Văn Lãng",
+            "type": "Xã"
+          },
           {
             "level3_id": "04714",
             "name": "Thị trấn Yên Bình",
