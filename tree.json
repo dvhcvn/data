@@ -1240,7 +1240,16 @@
             "Xã Tràng Đà",
             "Xã Nông Tiến",
             "Xã Ỷ La",
-            "Xã Hưng Thành"
+            "Xã Hưng Thành",
+            "Phường Nông Tiến",
+            "Phường Ỷ La",
+            "Phường Tân Hà",
+            "Phường Hưng Thành",
+            "Xã An Khang",
+            "Xã An Tường",
+            "Xã Lưỡng Vượng",
+            "Xã Thái Long",
+            "Xã Đội Cấn"
         ],
         "Huyện Nà Hang": [
             "Thị trấn Na Hang",
@@ -2077,6 +2086,20 @@
             "Xã Mường Lèo",
             "Xã Mường Và",
             "Xã Mường Lạn"
+        ],
+        "Thành phố Sơn La": [
+            "Phường Chiềng Lề",
+            "Phường Tô Hiệu",
+            "Phường Quyết Thắng",
+            "Phường Quyết Tâm",
+            "Xã Chiềng Cọ",
+            "Xã Chiềng Đen",
+            "Xã Chiềng Xôm",
+            "Phường Chiềng An",
+            "Xã Chiềng Cơi",
+            "Xã Chiềng Ngần",
+            "Xã Hua La",
+            "Phường Chiềng Sinh"
         ]
     },
     "Tỉnh Yên Bái": {

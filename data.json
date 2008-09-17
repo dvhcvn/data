@@ -5951,17 +5951,47 @@
           },
           {
             "level3_id": "02212",
-            "name": "Xã Nông Tiến",
-            "type": "Xã"
+            "name": "Phường Nông Tiến",
+            "type": "Phường"
           },
           {
             "level3_id": "02215",
-            "name": "Xã Ỷ La",
-            "type": "Xã"
+            "name": "Phường Ỷ La",
+            "type": "Phường"
+          },
+          {
+            "level3_id": "02216",
+            "name": "Phường Tân Hà",
+            "type": "Phường"
           },
           {
             "level3_id": "02218",
-            "name": "Xã Hưng Thành",
+            "name": "Phường Hưng Thành",
+            "type": "Phường"
+          },
+          {
+            "level3_id": "02503",
+            "name": "Xã An Khang",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "02512",
+            "name": "Xã An Tường",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "02515",
+            "name": "Xã Lưỡng Vượng",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "02521",
+            "name": "Xã Thái Long",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "02524",
+            "name": "Xã Đội Cấn",
             "type": "Xã"
           }
         ]
@@ -6438,11 +6468,6 @@
             "type": "Xã"
           },
           {
-            "level3_id": "02503",
-            "name": "Xã An Khang",
-            "type": "Xã"
-          },
-          {
             "level3_id": "02506",
             "name": "Xã Mỹ Bằng",
             "type": "Xã"
@@ -6453,28 +6478,8 @@
             "type": "Xã"
           },
           {
-            "level3_id": "02512",
-            "name": "Xã An Tường",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "02515",
-            "name": "Xã Lưỡng Vượng",
-            "type": "Xã"
-          },
-          {
             "level3_id": "02518",
             "name": "Xã Hoàng Khai",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "02521",
-            "name": "Xã Thái Long",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "02524",
-            "name": "Xã Đội Cấn",
             "type": "Xã"
           },
           {
@@ -8704,8 +8709,8 @@
     "level2s": [
       {
         "level2_id": "116",
-        "name": "Thị xã Sơn La",
-        "type": "Thị xã",
+        "name": "Thành phố Sơn La",
+        "type": "Thành phố",
         "level3s": [
           {
             "level3_id": "03646",
