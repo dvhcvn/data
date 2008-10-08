@@ -3232,6 +3232,25 @@
             "Thị trấn Cô Tô",
             "Xã Đồng Tiến",
             "Xã Thanh Lân"
+        ],
+        "Thành phố Móng Cái": [
+            "Phường Ka Long",
+            "Phường Trần Phú",
+            "Phường Ninh Dương",
+            "Phường Hoà Lạc",
+            "Phường Trà Cổ",
+            "Xã Hải Sơn",
+            "Xã Bắc Sơn",
+            "Xã Hải Đông",
+            "Xã Hải Tiến",
+            "Phường Hải Yên",
+            "Xã Quảng Nghĩa",
+            "Phường Hải Hoà",
+            "Xã Hải Xuân",
+            "Xã Vạn Ninh",
+            "Xã Bình Ngọc",
+            "Xã Vĩnh Trung",
+            "Xã Vĩnh Thực"
         ]
     },
     "Tỉnh Bắc Giang": {
@@ -4178,6 +4197,20 @@
             "Xã Nam Sơn",
             "Xã Khắc Niệm",
             "Xã Hạp Lĩnh"
+        ],
+        "Thị xã Từ Sơn": [
+            "Phường Đông Ngàn",
+            "Xã Tam Sơn",
+            "Xã Hương Mạc",
+            "Xã Tương Giang",
+            "Xã Phù Khê",
+            "Phường Đồng Kỵ",
+            "Phường Trang Hạ",
+            "Phường Đồng Nguyên",
+            "Phường Châu Khê",
+            "Phường Tân Hồng",
+            "Phường Đình Bảng",
+            "Xã Phù Chẩn"
         ]
     },
     "Tỉnh Hà Tây": {
@@ -13180,6 +13213,16 @@
             "Phường 3",
             "Phường 9",
             "Phường 10"
+        ],
+        "Huyện Châu Thành": [
+            "Thị trấn Châu Thành",
+            "Xã Hồ Đắc Kiện",
+            "Xã Phú Tâm",
+            "Xã Thuận Hòa",
+            "Xã Phú Tân",
+            "Xã Thiện Mỹ",
+            "Xã An Hiệp",
+            "Xã An Ninh"
         ]
     },
     "Tỉnh Bạc Liêu": {

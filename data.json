@@ -14218,8 +14218,8 @@
       },
       {
         "level2_id": "194",
-        "name": "Thị xã Móng Cái",
-        "type": "Thị xã",
+        "name": "Thành phố Móng Cái",
+        "type": "Thành phố",
         "level3s": [
           {
             "level3_id": "06709",
@@ -18957,13 +18957,13 @@
       },
       {
         "level2_id": "261",
-        "name": "Huyện Từ Sơn",
-        "type": "Huyện",
+        "name": "Thị xã Từ Sơn",
+        "type": "Thị xã",
         "level3s": [
           {
             "level3_id": "09367",
-            "name": "Thị trấn Từ Sơn",
-            "type": "Thị trấn"
+            "name": "Phường Đông Ngàn",
+            "type": "Phường"
           },
           {
             "level3_id": "09370",
@@ -18987,28 +18987,33 @@
           },
           {
             "level3_id": "09382",
-            "name": "Xã Đồng Quang",
-            "type": "Xã"
+            "name": "Phường Đồng Kỵ",
+            "type": "Phường"
+          },
+          {
+            "level3_id": "09383",
+            "name": "Phường Trang Hạ",
+            "type": "Phường"
           },
           {
             "level3_id": "09385",
-            "name": "Xã Đồng Nguyên",
-            "type": "Xã"
+            "name": "Phường Đồng Nguyên",
+            "type": "Phường"
           },
           {
             "level3_id": "09388",
-            "name": "Xã Châu Khê",
-            "type": "Xã"
+            "name": "Phường Châu Khê",
+            "type": "Phường"
           },
           {
             "level3_id": "09391",
-            "name": "Xã Tân Hồng",
-            "type": "Xã"
+            "name": "Phường Tân Hồng",
+            "type": "Phường"
           },
           {
             "level3_id": "09394",
-            "name": "Xã Đình Bảng",
-            "type": "Xã"
+            "name": "Phường Đình Bảng",
+            "type": "Phường"
           },
           {
             "level3_id": "09397",
@@ -58231,6 +58236,53 @@
         ]
       },
       {
+        "level2_id": "942",
+        "name": "Huyện Châu Thành",
+        "type": "Huyện",
+        "level3s": [
+          {
+            "level3_id": "31569",
+            "name": "Thị trấn Châu Thành",
+            "type": "Thị trấn"
+          },
+          {
+            "level3_id": "31570",
+            "name": "Xã Hồ Đắc Kiện",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "31573",
+            "name": "Xã Phú Tâm",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "31576",
+            "name": "Xã Thuận Hòa",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "31582",
+            "name": "Xã Phú Tân",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "31585",
+            "name": "Xã Thiện Mỹ",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "31594",
+            "name": "Xã An Hiệp",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "31600",
+            "name": "Xã An Ninh",
+            "type": "Xã"
+          }
+        ]
+      },
+      {
         "level2_id": "943",
         "name": "Huyện Kế Sách",
         "type": "Huyện",
@@ -58313,33 +58365,8 @@
             "type": "Thị trấn"
           },
           {
-            "level3_id": "31570",
-            "name": "Xã Hồ Đắc Kiện",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "31573",
-            "name": "Xã Phú Tâm",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "31576",
-            "name": "Xã Thuận Hòa",
-            "type": "Xã"
-          },
-          {
             "level3_id": "31579",
             "name": "Xã Long Hưng",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "31582",
-            "name": "Xã Phú Tân",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "31585",
-            "name": "Xã Thiện Mỹ",
             "type": "Xã"
           },
           {
@@ -58353,18 +58380,8 @@
             "type": "Xã"
           },
           {
-            "level3_id": "31594",
-            "name": "Xã An Hiệp",
-            "type": "Xã"
-          },
-          {
             "level3_id": "31597",
             "name": "Xã Mỹ Tú",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "31600",
-            "name": "Xã An Ninh",
             "type": "Xã"
           },
           {
