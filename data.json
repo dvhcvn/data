@@ -8594,51 +8594,6 @@
             "type": "Thị trấn"
           },
           {
-            "level3_id": "03598",
-            "name": "Thị trấn Tân Uyên",
-            "type": "Thị trấn"
-          },
-          {
-            "level3_id": "03601",
-            "name": "Xã Mường Khoa",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "03602",
-            "name": "Xã Phúc Khoa",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "03604",
-            "name": "Xã Thân Thuộc",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "03605",
-            "name": "Xã Trung Đồng",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "03607",
-            "name": "Xã Hố Mít",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "03610",
-            "name": "Xã Nậm Cần",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "03613",
-            "name": "Xã Nậm Sỏ",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "03616",
-            "name": "Xã Pắc Ta",
-            "type": "Xã"
-          },
-          {
             "level3_id": "03618",
             "name": "Xã Phúc Than",
             "type": "Xã"
@@ -8646,11 +8601,6 @@
           {
             "level3_id": "03619",
             "name": "Xã Mường Than",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "03622",
-            "name": "Xã Tà Mít",
             "type": "Xã"
           },
           {
@@ -8696,6 +8646,63 @@
           {
             "level3_id": "03643",
             "name": "Xã Khoen On",
+            "type": "Xã"
+          }
+        ]
+      },
+      {
+        "level2_id": "111",
+        "name": "Huyện Tân Uyên",
+        "type": "Huyện",
+        "level3s": [
+          {
+            "level3_id": "03598",
+            "name": "Thị trấn Tân Uyên",
+            "type": "Thị trấn"
+          },
+          {
+            "level3_id": "03601",
+            "name": "Xã Mường Khoa",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "03602",
+            "name": "Xã Phúc Khoa",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "03604",
+            "name": "Xã Thân Thuộc",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "03605",
+            "name": "Xã Trung Đồng",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "03607",
+            "name": "Xã Hố Mít",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "03610",
+            "name": "Xã Nậm Cần",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "03613",
+            "name": "Xã Nậm Sỏ",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "03616",
+            "name": "Xã Pắc Ta",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "03622",
+            "name": "Xã Tà Mít",
             "type": "Xã"
           }
         ]
