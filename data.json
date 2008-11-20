@@ -15229,11 +15229,6 @@
             "type": "Thị trấn"
           },
           {
-            "level3_id": "07240",
-            "name": "Thị trấn NT Yên Thế",
-            "type": "Thị trấn"
-          },
-          {
             "level3_id": "07243",
             "name": "Xã Đồng Tiến",
             "type": "Xã"
@@ -15261,6 +15256,11 @@
           {
             "level3_id": "07258",
             "name": "Xã Đồng Hưu",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "07260",
+            "name": "Xã Đồng Tâm",
             "type": "Xã"
           },
           {
@@ -15889,6 +15889,11 @@
             "type": "Thị trấn"
           },
           {
+            "level3_id": "07616",
+            "name": "Thị trấn Thanh Sơn",
+            "type": "Thị trấn"
+          },
+          {
             "level3_id": "07618",
             "name": "Xã Thạch Sơn",
             "type": "Xã"
@@ -15985,7 +15990,7 @@
           },
           {
             "level3_id": "07675",
-            "name": "Xã Thanh Sơn",
+            "name": "Xã Tuấn Mậu",
             "type": "Xã"
           },
           {
