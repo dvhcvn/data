@@ -16892,6 +16892,11 @@
             "type": "Xã"
           },
           {
+            "level3_id": "08156",
+            "name": "Xã Vân Lĩnh",
+            "type": "Xã"
+          },
+          {
             "level3_id": "08158",
             "name": "Xã Đông Lĩnh",
             "type": "Xã"
@@ -17026,6 +17031,11 @@
           {
             "level3_id": "08233",
             "name": "Xã Phú Mỹ",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "08234",
+            "name": "Xã Lệ Mỹ",
             "type": "Xã"
           },
           {
@@ -32977,18 +32987,18 @@
           },
           {
             "level3_id": "18121",
-            "name": "Xã Trung Lương",
-            "type": "Xã"
+            "name": "Phường Trung Lương",
+            "type": "Phường"
           },
           {
             "level3_id": "18124",
-            "name": "Xã Đức Thuận",
-            "type": "Xã"
+            "name": "Phường Đức Thuận",
+            "type": "Phường"
           },
           {
             "level3_id": "18127",
-            "name": "Xã Đậu Liêu",
-            "type": "Xã"
+            "name": "Phường Đậu Liêu",
+            "type": "Phường"
           },
           {
             "level3_id": "18130",
@@ -43147,14 +43157,29 @@
             "type": "Xã"
           },
           {
+            "level3_id": "23627",
+            "name": "Xã Xuân An",
+            "type": "Xã"
+          },
+          {
             "level3_id": "23629",
             "name": "Xã Cửu An",
             "type": "Xã"
           },
           {
+            "level3_id": "23630",
+            "name": "Phường An Phước",
+            "type": "Phường"
+          },
+          {
             "level3_id": "23632",
             "name": "Xã Song An",
             "type": "Xã"
+          },
+          {
+            "level3_id": "23633",
+            "name": "Phường Ngô Mây",
+            "type": "Phường"
           },
           {
             "level3_id": "23635",
@@ -43412,6 +43437,11 @@
           {
             "level3_id": "23737",
             "name": "Xã Ia Mơ Nông",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "23738",
+            "name": "Xã Ia Kreng",
             "type": "Xã"
           },
           {

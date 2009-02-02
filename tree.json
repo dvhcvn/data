@@ -3662,7 +3662,8 @@
             "Xã Thanh Hà",
             "Xã Đỗ Sơn",
             "Xã Đỗ Xuyên",
-            "Xã Lương Lỗ"
+            "Xã Lương Lỗ",
+            "Xã Vân Lĩnh"
         ],
         "Huyện Phù Ninh": [
             "Thị trấn Phong Châu",
@@ -3684,7 +3685,8 @@
             "Xã Phù Ninh",
             "Xã Kim Đức",
             "Xã Vĩnh Phú",
-            "Xã Hùng Lô"
+            "Xã Hùng Lô",
+            "Xã Lệ Mỹ"
         ],
         "Huyện Yên Lập": [
             "Thị trấn Yên Lập",
@@ -7567,7 +7569,10 @@
             "Xã Trung Lương",
             "Xã Đức Thuận",
             "Xã Đậu Liêu",
-            "Xã Thuận Lộc"
+            "Xã Thuận Lộc",
+            "Phường Trung Lương",
+            "Phường Đức Thuận",
+            "Phường Đậu Liêu"
         ],
         "Huyện Hương Sơn": [
             "Thị trấn Phố Châu",
@@ -9867,7 +9872,10 @@
             "Xã Tú An",
             "Xã Cửu An",
             "Xã Song An",
-            "Xã Thành An"
+            "Xã Thành An",
+            "Xã Xuân An",
+            "Phường An Phước",
+            "Phường Ngô Mây"
         ],
         "Huyện KBang": [
             "Thị trấn KBang",
@@ -9918,7 +9926,8 @@
             "Xã Ia Nhin",
             "Xã Nghĩa Hòa",
             "Xã Chư Jôr",
-            "Xã Nghĩa Hưng"
+            "Xã Nghĩa Hưng",
+            "Xã Ia Kreng"
         ],
         "Huyện Ia Grai": [
             "Thị trấn Ia Kha",
