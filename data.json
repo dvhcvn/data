@@ -53061,6 +53061,11 @@
             "type": "Phường"
           },
           {
+            "level3_id": "28757",
+            "name": "Phường Phú Tân",
+            "type": "Phường"
+          },
+          {
             "level3_id": "28759",
             "name": "Phường 8",
             "type": "Phường"
@@ -53311,14 +53316,14 @@
           },
           {
             "level3_id": "28900",
-            "name": "Xã Hưng Khánh Trung",
+            "name": "Xã Hưng Khánh Trung B",
             "type": "Xã"
           }
         ]
       },
       {
         "level2_id": "833",
-        "name": "Huyện Mỏ Cày",
+        "name": "Huyện Mỏ Cày Nam",
         "type": "Huyện",
         "level3s": [
           {
@@ -53327,63 +53332,18 @@
             "type": "Thị trấn"
           },
           {
-            "level3_id": "28906",
-            "name": "Xã Thanh Tân",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "28909",
-            "name": "Xã Thạnh Ngãi",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "28912",
-            "name": "Xã Tân Phú Tây",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "28915",
-            "name": "Xã Phước Mỹ Trung",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "28918",
-            "name": "Xã Tân Thành Bình",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "28921",
-            "name": "Xã Thành An",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "28924",
-            "name": "Xã Hòa Lộc",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "28927",
-            "name": "Xã Tân Thanh Tây",
-            "type": "Xã"
-          },
-          {
             "level3_id": "28930",
             "name": "Xã Định Thủy",
             "type": "Xã"
           },
           {
-            "level3_id": "28933",
-            "name": "Xã Tân Bình",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "28936",
-            "name": "Xã Nhuận Phú Tân",
-            "type": "Xã"
-          },
-          {
             "level3_id": "28939",
             "name": "Xã Đa Phước Hội",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "28940",
+            "name": "Xã Tân Hội",
             "type": "Xã"
           },
           {
@@ -53394,11 +53354,6 @@
           {
             "level3_id": "28945",
             "name": "Xã Bình Khánh Đông",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "28948",
-            "name": "Xã Khánh Thạnh Tân",
             "type": "Xã"
           },
           {
@@ -53902,6 +53857,78 @@
           {
             "level3_id": "29233",
             "name": "Xã Mỹ An",
+            "type": "Xã"
+          }
+        ]
+      },
+      {
+        "level2_id": "838",
+        "name": "Huyện Mỏ Cày Bắc",
+        "type": "Huyện",
+        "level3s": [
+          {
+            "level3_id": "28889",
+            "name": "Xã Phú Mỹ",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "28901",
+            "name": "Xã Hưng Khánh Trung A",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "28906",
+            "name": "Xã Thanh Tân",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "28909",
+            "name": "Xã Thạnh Ngãi",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "28912",
+            "name": "Xã Tân Phú Tây",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "28915",
+            "name": "Xã Phước Mỹ Trung",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "28918",
+            "name": "Xã Tân Thành Bình",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "28921",
+            "name": "Xã Thành An",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "28924",
+            "name": "Xã Hòa Lộc",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "28927",
+            "name": "Xã Tân Thanh Tây",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "28933",
+            "name": "Xã Tân Bình",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "28936",
+            "name": "Xã Nhuận Phú Tân",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "28948",
+            "name": "Xã Khánh Thạnh Tân",
             "type": "Xã"
           }
         ]
@@ -55276,11 +55303,6 @@
         "name": "Huyện Hồng Ngự",
         "type": "Huyện",
         "level3s": [
-          {
-            "level3_id": "29953",
-            "name": "Thị trấn Hồng Ngự",
-            "type": "Thị trấn"
-          },
           {
             "level3_id": "29956",
             "name": "Xã Thường Phước 1",

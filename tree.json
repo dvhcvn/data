@@ -12030,7 +12030,8 @@
             "Xã Bình Phú",
             "Xã Mỹ Thạnh An",
             "Xã Nhơn Thạnh",
-            "Xã Phú Nhuận"
+            "Xã Phú Nhuận",
+            "Phường Phú Tân"
         ],
         "Huyện Châu Thành": [
             "Thị trấn Châu Thành",
@@ -12068,7 +12069,8 @@
             "Xã Tân Thiềng",
             "Xã Vĩnh Thành",
             "Xã Vĩnh Hòa",
-            "Xã Hưng Khánh Trung"
+            "Xã Hưng Khánh Trung",
+            "Xã Hưng Khánh Trung B"
         ],
         "Huyện Mỏ Cày": [
             "Thị trấn Mỏ Cày",
@@ -12190,6 +12192,40 @@
             "Xã Giao Thạnh",
             "Xã Thạnh Phong",
             "Xã Mỹ An"
+        ],
+        "Huyện Mỏ Cày Nam": [
+            "Thị trấn Mỏ Cày",
+            "Xã Định Thủy",
+            "Xã Đa Phước Hội",
+            "Xã Tân Hội",
+            "Xã Phước Hiệp",
+            "Xã Bình Khánh Đông",
+            "Xã An Thạnh",
+            "Xã Bình Khánh Tây",
+            "Xã An Định",
+            "Xã Thành Thới B",
+            "Xã Tân Trung",
+            "Xã An Thới",
+            "Xã Thành Thới A",
+            "Xã Minh Đức",
+            "Xã Ngãi Đăng",
+            "Xã Cẩm Sơn",
+            "Xã Hương Mỹ"
+        ],
+        "Huyện Mỏ Cày Bắc": [
+            "Xã Phú Mỹ",
+            "Xã Hưng Khánh Trung A",
+            "Xã Thanh Tân",
+            "Xã Thạnh Ngãi",
+            "Xã Tân Phú Tây",
+            "Xã Phước Mỹ Trung",
+            "Xã Tân Thành Bình",
+            "Xã Thành An",
+            "Xã Hòa Lộc",
+            "Xã Tân Thanh Tây",
+            "Xã Tân Bình",
+            "Xã Nhuận Phú Tân",
+            "Xã Khánh Thạnh Tân"
         ]
     },
     "Tỉnh Trà Vinh": {
