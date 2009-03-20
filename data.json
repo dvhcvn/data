@@ -45744,6 +45744,11 @@
             "type": "Xã"
           },
           {
+            "level3_id": "24810",
+            "name": "Xã Trạm Hành",
+            "type": "Xã"
+          },
+          {
             "level3_id": "24811",
             "name": "Xã Xuân Trường",
             "type": "Xã"
@@ -46101,6 +46106,11 @@
             "type": "Xã"
           },
           {
+            "level3_id": "24989",
+            "name": "Xã Đa Quyn",
+            "type": "Xã"
+          },
+          {
             "level3_id": "24991",
             "name": "Xã Tà Hine",
             "type": "Xã"
@@ -46135,6 +46145,11 @@
           {
             "level3_id": "25006",
             "name": "Xã Tân Thượng",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "25007",
+            "name": "Xã Tân Lâm",
             "type": "Xã"
           },
           {
