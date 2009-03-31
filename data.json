@@ -3168,8 +3168,8 @@
           },
           {
             "level3_id": "00721",
-            "name": "Xã Đồng Văn",
-            "type": "Xã"
+            "name": "Thị trấn Đồng Văn",
+            "type": "Thị trấn"
           },
           {
             "level3_id": "00724",
@@ -3663,8 +3663,8 @@
           },
           {
             "level3_id": "00991",
-            "name": "Xã Yên Phú",
-            "type": "Xã"
+            "name": "Thị trấn Yên Phú",
+            "type": "Thị trấn"
           },
           {
             "level3_id": "00994",
@@ -3852,8 +3852,8 @@
         "level3s": [
           {
             "level3_id": "01096",
-            "name": "Xã Cốc Pài",
-            "type": "Xã"
+            "name": "Thị trấn Cốc Pài",
+            "type": "Thị trấn"
           },
           {
             "level3_id": "01099",
