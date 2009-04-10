@@ -9839,6 +9839,29 @@
             "Xã Đắk Hà",
             "Xã Tê Xăng",
             "Xã Văn Xuôi"
+        ],
+        "Thành phố Kon Tum": [
+            "Phường Quang Trung",
+            "Phường Duy Tân",
+            "Phường Quyết Thắng",
+            "Phường Trường Chinh",
+            "Phường Thắng Lợi",
+            "Phường Ngô Mây",
+            "Phường Thống Nhất",
+            "Phường Lê Lợi",
+            "Phường Nguyễn Trãi",
+            "Phường Trần Hưng Đạo",
+            "Xã Đắk Cấm",
+            "Xã Kroong",
+            "Xã Ngọk Bay",
+            "Xã Vinh Quang",
+            "Xã Đắk Blà",
+            "Xã Ia Chim",
+            "Xã Đăk Năng",
+            "Xã Đoàn Kết",
+            "Xã Chư Hreng",
+            "Xã Đắk Rơ Wa",
+            "Xã Hòa Bình"
         ]
     },
     "Tỉnh Gia Lai": {
@@ -10740,7 +10763,8 @@
             "Xã Phước Sơn",
             "Xã Phú Sơn",
             "Xã Nghĩa Bình",
-            "Xã Bình Minh"
+            "Xã Bình Minh",
+            "Xã Đường 10"
         ],
         "Huyện Chơn Thành": [
             "Thị trấn Chơn Thành",
@@ -10751,7 +10775,8 @@
             "Xã Minh Thành",
             "Xã Nha Bích",
             "Xã Minh Thắng",
-            "Xã Thành Tâm"
+            "Xã Thành Tâm",
+            "Xã Quang Minh"
         ]
     },
     "Tỉnh Tây Ninh": {
@@ -12468,6 +12493,19 @@
             "Xã Tân Bình",
             "Xã Thành Lợi",
             "Xã Tân Quới"
+        ],
+        "Thành phố Vĩnh Long": [
+            "Phường 9",
+            "Phường 5",
+            "Phường 1",
+            "Phường 2",
+            "Phường 4",
+            "Phường 3",
+            "Phường 8",
+            "Xã Tân Ngãi",
+            "Xã Tân Hòa",
+            "Xã Tân Hội",
+            "Xã Trường An"
         ]
     },
     "Tỉnh Đồng Tháp": {

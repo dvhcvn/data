@@ -42451,8 +42451,8 @@
     "level2s": [
       {
         "level2_id": "608",
-        "name": "Thị xã Kon Tum",
-        "type": "Thị xã",
+        "name": "Thành phố Kon Tum",
+        "type": "Thành phố",
         "level3s": [
           {
             "level3_id": "23281",
@@ -46942,6 +46942,11 @@
             "type": "Thị trấn"
           },
           {
+            "level3_id": "25398",
+            "name": "Xã Đường 10",
+            "type": "Xã"
+          },
+          {
             "level3_id": "25399",
             "name": "Xã Đak Nhau",
             "type": "Xã"
@@ -47036,6 +47041,11 @@
           {
             "level3_id": "25438",
             "name": "Xã Tân Quan",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "25439",
+            "name": "Xã Quang Minh",
             "type": "Xã"
           },
           {
@@ -54489,8 +54499,8 @@
     "level2s": [
       {
         "level2_id": "855",
-        "name": "Thị xã Vĩnh Long",
-        "type": "Thị xã",
+        "name": "Thành phố Vĩnh Long",
+        "type": "Thành phố",
         "level3s": [
           {
             "level3_id": "29542",
