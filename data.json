@@ -7609,6 +7609,11 @@
             "type": "Phường"
           },
           {
+            "level3_id": "03144",
+            "name": "Xã Tà Lèng",
+            "type": "Xã"
+          },
+          {
             "level3_id": "03145",
             "name": "Xã Thanh Minh",
             "type": "Xã"
@@ -7648,13 +7653,33 @@
             "type": "Xã"
           },
           {
+            "level3_id": "03155",
+            "name": "Xã Sen Thượng",
+            "type": "Xã"
+          },
+          {
             "level3_id": "03157",
             "name": "Xã Chung Chải",
             "type": "Xã"
           },
           {
+            "level3_id": "03158",
+            "name": "Xã Leng Su Sìn",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "03159",
+            "name": "Xã Pá Mỳ",
+            "type": "Xã"
+          },
+          {
             "level3_id": "03160",
             "name": "Xã Mường Nhé",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "03161",
+            "name": "Xã Nậm Vì",
             "type": "Xã"
           },
           {
@@ -7680,6 +7705,11 @@
           {
             "level3_id": "03166",
             "name": "Xã Chà Cang",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "03167",
+            "name": "Xã Na Cô Sa",
             "type": "Xã"
           },
           {
