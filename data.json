@@ -1361,8 +1361,8 @@
       },
       {
         "level2_id": "268",
-        "name": "Thành phố Hà Đông",
-        "type": "Thành phố",
+        "name": "Quận Hà Đông",
+        "type": "Quận",
         "level3s": [
           {
             "level3_id": "09538",
@@ -1416,45 +1416,45 @@
           },
           {
             "level3_id": "09562",
-            "name": "Xã Yên Nghĩa",
-            "type": "Xã"
+            "name": "Phường Yên Nghĩa",
+            "type": "Phường"
           },
           {
             "level3_id": "09565",
-            "name": "Xã Kiến Hưng",
-            "type": "Xã"
+            "name": "Phường Kiến Hưng",
+            "type": "Phường"
           },
           {
             "level3_id": "09568",
-            "name": "Xã Phú Lãm",
-            "type": "Xã"
+            "name": "Phường Phú Lãm",
+            "type": "Phường"
           },
           {
             "level3_id": "09571",
-            "name": "Xã Phú Lương",
-            "type": "Xã"
+            "name": "Phường Phú Lương",
+            "type": "Phường"
           },
           {
             "level3_id": "09886",
-            "name": "Xã Dương Nội",
-            "type": "Xã"
+            "name": "Phường Dương Nội",
+            "type": "Phường"
           },
           {
             "level3_id": "10117",
-            "name": "Xã Đồng Mai",
-            "type": "Xã"
+            "name": "Phường Đồng Mai",
+            "type": "Phường"
           },
           {
             "level3_id": "10123",
-            "name": "Xã Biên Giang",
-            "type": "Xã"
+            "name": "Phường Biên Giang",
+            "type": "Phường"
           }
         ]
       },
       {
         "level2_id": "269",
-        "name": "Thành phố Sơn Tây",
-        "type": "Thành phố",
+        "name": "Thị xã Sơn Tây",
+        "type": "Thị xã",
         "level3s": [
           {
             "level3_id": "09574",

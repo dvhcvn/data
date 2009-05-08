@@ -636,6 +636,42 @@
             "Xã Hợp Tiến",
             "Xã Hợp Thanh",
             "Xã An Phú"
+        ],
+        "Quận Hà Đông": [
+            "Phường Nguyễn Trãi",
+            "Phường Mộ Lao",
+            "Phường Văn Quán",
+            "Phường Vạn Phúc",
+            "Phường Yết Kiêu",
+            "Phường Quang Trung",
+            "Phường La Khê",
+            "Phường Phú La",
+            "Phường Phúc La",
+            "Phường Hà Cầu",
+            "Phường Yên Nghĩa",
+            "Phường Kiến Hưng",
+            "Phường Phú Lãm",
+            "Phường Phú Lương",
+            "Phường Dương Nội",
+            "Phường Đồng Mai",
+            "Phường Biên Giang"
+        ],
+        "Thị xã Sơn Tây": [
+            "Phường Lê Lợi",
+            "Phường Phú Thịnh",
+            "Phường Ngô Quyền",
+            "Phường Quang Trung",
+            "Phường Sơn Lộc",
+            "Phường Xuân Khanh",
+            "Xã Đường Lâm",
+            "Phường Viên Sơn",
+            "Xã Xuân Sơn",
+            "Phường Trung Hưng",
+            "Xã Thanh Mỹ",
+            "Phường Trung Sơn Trầm",
+            "Xã Kim Sơn",
+            "Xã Sơn Đông",
+            "Xã Cổ Đông"
         ]
     },
     "Tỉnh Hà Giang": {
