@@ -59464,9 +59464,19 @@
             "type": "Phường"
           },
           {
+            "level3_id": "32022",
+            "name": "Phường Tân Xuyên",
+            "type": "Phường"
+          },
+          {
             "level3_id": "32023",
             "name": "Xã An Xuyên",
             "type": "Xã"
+          },
+          {
+            "level3_id": "32025",
+            "name": "Phường Tân Thành",
+            "type": "Phường"
           },
           {
             "level3_id": "32026",
@@ -59513,6 +59523,11 @@
           {
             "level3_id": "32047",
             "name": "Xã Khánh Hòa",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "32048",
+            "name": "Xã Khánh Thuận",
             "type": "Xã"
           },
           {
@@ -59953,6 +59968,11 @@
             "level3_id": "32242",
             "name": "Xã Viên An",
             "type": "Xã"
+          },
+          {
+            "level3_id": "32244",
+            "name": "Thị trấn Rạch Gốc",
+            "type": "Thị trấn"
           },
           {
             "level3_id": "32245",

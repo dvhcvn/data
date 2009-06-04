@@ -13578,7 +13578,9 @@
             "Xã Lý Văn Lâm",
             "Xã Định Bình",
             "Xã Hòa Thành",
-            "Xã Hòa Tân"
+            "Xã Hòa Tân",
+            "Phường Tân Xuyên",
+            "Phường Tân Thành"
         ],
         "Huyện U Minh": [
             "Thị trấn U Minh",
@@ -13587,7 +13589,8 @@
             "Xã Nguyễn Phích",
             "Xã Khánh Lâm",
             "Xã Khánh An",
-            "Xã Khánh Hội"
+            "Xã Khánh Hội",
+            "Xã Khánh Thuận"
         ],
         "Huyện Thới Bình": [
             "Thị trấn Thới Bình",
@@ -13676,7 +13679,8 @@
             "Xã Viên An Đông",
             "Xã Viên An",
             "Xã Tân Ân",
-            "Xã Đất Mũi"
+            "Xã Đất Mũi",
+            "Thị trấn Rạch Gốc"
         ]
     }
 }
