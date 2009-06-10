@@ -41667,11 +41667,6 @@
             "type": "Xã"
           },
           {
-            "level3_id": "22885",
-            "name": "Xã Phước Hà",
-            "type": "Xã"
-          },
-          {
             "level3_id": "22888",
             "name": "Xã An Hải",
             "type": "Xã"
@@ -41684,31 +41679,6 @@
           {
             "level3_id": "22894",
             "name": "Xã Phước Hải",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "22897",
-            "name": "Xã Phước Nam",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "22900",
-            "name": "Xã Nhị Hà",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "22903",
-            "name": "Xã Phước Dinh",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "22906",
-            "name": "Xã Phước Minh",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "22909",
-            "name": "Xã Phước Diêm",
             "type": "Xã"
           },
           {
@@ -41751,6 +41721,53 @@
           {
             "level3_id": "22856",
             "name": "Xã Bắc Phong",
+            "type": "Xã"
+          }
+        ]
+      },
+      {
+        "level2_id": "589",
+        "name": "Huyện Thuận Nam",
+        "type": "Huyện",
+        "level3s": [
+          {
+            "level3_id": "22885",
+            "name": "Xã Phước Hà",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "22897",
+            "name": "Xã Phước Nam",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "22898",
+            "name": "Xã Phước Ninh",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "22900",
+            "name": "Xã Nhị Hà",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "22903",
+            "name": "Xã Phước Dinh",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "22906",
+            "name": "Xã Phước Minh",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "22909",
+            "name": "Xã Phước Diêm",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "22910",
+            "name": "Xã Cà Ná",
             "type": "Xã"
           }
         ]
