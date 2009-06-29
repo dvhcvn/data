@@ -11942,7 +11942,9 @@
             "Xã Đạo Thạnh",
             "Xã Trung An",
             "Xã Mỹ Phong",
-            "Xã Tân Mỹ Chánh"
+            "Xã Tân Mỹ Chánh",
+            "Xã Phước Thạnh",
+            "Xã Thới Sơn"
         ],
         "Thị xã Gò Công": [
             "Phường 3",
@@ -12998,7 +13000,8 @@
             "Xã Tân Hiệp A",
             "Xã Tân An",
             "Xã Thạnh Đông A",
-            "Xã Thạnh Trị"
+            "Xã Thạnh Trị",
+            "Xã Tân Hoà"
         ],
         "Huyện Châu Thành": [
             "Thị trấn Minh Lương",
@@ -13030,7 +13033,8 @@
             "Xã Vĩnh Thạnh",
             "Xã  Hòa Thuận",
             "Xã Vĩnh Phú",
-            "Xã Ngọc Hoà"
+            "Xã Ngọc Hoà",
+            "Xã Thạnh Bình"
         ],
         "Huyện Gò Quao": [
             "Thị trấn Gò Quao",
@@ -13082,7 +13086,8 @@
             "Xã Vĩnh Thuận",
             "Xã Tân Thuận",
             "Xã Vĩnh Phong",
-            "Xã Phong Đông"
+            "Xã Phong Đông",
+            "Xã Bình Minh"
         ],
         "Huyện Phú Quốc": [
             "Thị trấn Dương Đông",
@@ -13123,6 +13128,13 @@
             "Xã Vĩnh Hòa",
             "Xã Hoà Chánh",
             "Xã Minh Thuận"
+        ],
+        "Huyện Giang Thành": [
+            "Xã Vĩnh Phú",
+            "Xã Vĩnh Điều",
+            "Xã Tân Khánh Hòa",
+            "Xã Phú Lợi",
+            "Xã Phú Mỹ"
         ]
     },
     "Thành phố Cần Thơ": {

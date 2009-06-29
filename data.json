@@ -52415,6 +52415,16 @@
             "level3_id": "28291",
             "name": "Xã Tân Mỹ Chánh",
             "type": "Xã"
+          },
+          {
+            "level3_id": "28567",
+            "name": "Xã Phước Thạnh",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "28591",
+            "name": "Xã Thới Sơn",
+            "type": "Xã"
           }
         ]
       },
@@ -52781,11 +52791,6 @@
             "type": "Xã"
           },
           {
-            "level3_id": "28567",
-            "name": "Xã Phước Thạnh",
-            "type": "Xã"
-          },
-          {
             "level3_id": "28570",
             "name": "Xã Thạnh Phú",
             "type": "Xã"
@@ -52818,11 +52823,6 @@
           {
             "level3_id": "28588",
             "name": "Xã Phú Phong",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "28591",
-            "name": "Xã Thới Sơn",
             "type": "Xã"
           }
         ]
@@ -56927,31 +56927,6 @@
             "type": "Xã"
           },
           {
-            "level3_id": "30791",
-            "name": "Xã Vĩnh Phú",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "30793",
-            "name": "Xã Vĩnh Điều",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "30796",
-            "name": "Xã Tân Khánh Hòa",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "30797",
-            "name": "Xã Phú Lợi",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "30799",
-            "name": "Xã Phú Mỹ",
-            "type": "Xã"
-          },
-          {
             "level3_id": "30802",
             "name": "Xã Hòa Điền",
             "type": "Xã"
@@ -57086,6 +57061,11 @@
             "type": "Xã"
           },
           {
+            "level3_id": "30860",
+            "name": "Xã Tân Hoà",
+            "type": "Xã"
+          },
+          {
             "level3_id": "30862",
             "name": "Xã Thạnh Đông B",
             "type": "Xã"
@@ -57202,6 +57182,11 @@
           {
             "level3_id": "30916",
             "name": "Xã Thạnh Hòa",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "30917",
+            "name": "Xã Thạnh Bình",
             "type": "Xã"
           },
           {
@@ -57468,6 +57453,11 @@
             "type": "Xã"
           },
           {
+            "level3_id": "31064",
+            "name": "Xã Bình Minh",
+            "type": "Xã"
+          },
+          {
             "level3_id": "31069",
             "name": "Xã Vĩnh Thuận",
             "type": "Xã"
@@ -57606,6 +57596,38 @@
           {
             "level3_id": "31066",
             "name": "Xã Minh Thuận",
+            "type": "Xã"
+          }
+        ]
+      },
+      {
+        "level2_id": "914",
+        "name": "Huyện Giang Thành",
+        "type": "Huyện",
+        "level3s": [
+          {
+            "level3_id": "30791",
+            "name": "Xã Vĩnh Phú",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "30793",
+            "name": "Xã Vĩnh Điều",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "30796",
+            "name": "Xã Tân Khánh Hòa",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "30797",
+            "name": "Xã Phú Lợi",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "30799",
+            "name": "Xã Phú Mỹ",
             "type": "Xã"
           }
         ]
