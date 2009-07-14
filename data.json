@@ -10902,6 +10902,11 @@
             "level3_id": "04828",
             "name": "Xã Thống Nhất",
             "type": "Xã"
+          },
+          {
+            "level3_id": "04918",
+            "name": "Xã Trung Minh",
+            "type": "Xã"
           }
         ]
       },
@@ -10996,11 +11001,6 @@
             "type": "Xã"
           },
           {
-            "level3_id": "04882",
-            "name": "Xã Tân Dân",
-            "type": "Xã"
-          },
-          {
             "level3_id": "04885",
             "name": "Xã Hiền Lương",
             "type": "Xã"
@@ -11063,13 +11063,13 @@
             "type": "Xã"
           },
           {
-            "level3_id": "04918",
-            "name": "Xã Trung Minh",
+            "level3_id": "04921",
+            "name": "Xã Độc Lập",
             "type": "Xã"
           },
           {
-            "level3_id": "04921",
-            "name": "Xã Độc Lập",
+            "level3_id": "04933",
+            "name": "Xã Yên Quang",
             "type": "Xã"
           }
         ]
@@ -11083,11 +11083,6 @@
             "level3_id": "04924",
             "name": "Thị trấn Lương Sơn",
             "type": "Thị trấn"
-          },
-          {
-            "level3_id": "04933",
-            "name": "Xã Yên Quang",
-            "type": "Xã"
           },
           {
             "level3_id": "04942",
@@ -11148,6 +11143,41 @@
             "level3_id": "04975",
             "name": "Xã Trung Sơn",
             "type": "Xã"
+          },
+          {
+            "level3_id": "04996",
+            "name": "Xã Tân Thành",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "05008",
+            "name": "Xã Cao Dương",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "05023",
+            "name": "Xã Hợp Châu",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "05041",
+            "name": "Xã Long Sơn",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "05047",
+            "name": "Xã Cao Thắng",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "05059",
+            "name": "Xã Thanh Lương",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "05062",
+            "name": "Xã Hợp Thanh",
+            "type": "Xã"
           }
         ]
       },
@@ -11159,11 +11189,6 @@
           {
             "level3_id": "04978",
             "name": "Thị trấn Bo",
-            "type": "Thị trấn"
-          },
-          {
-            "level3_id": "04981",
-            "name": "Thị trấn Thanh Hà",
             "type": "Thị trấn"
           },
           {
@@ -11187,11 +11212,6 @@
             "type": "Xã"
           },
           {
-            "level3_id": "04996",
-            "name": "Xã Tân Thành",
-            "type": "Xã"
-          },
-          {
             "level3_id": "04999",
             "name": "Xã Tú Sơn",
             "type": "Xã"
@@ -11204,11 +11224,6 @@
           {
             "level3_id": "05005",
             "name": "Xã Vĩnh Tiến",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "05008",
-            "name": "Xã Cao Dương",
             "type": "Xã"
           },
           {
@@ -11229,11 +11244,6 @@
           {
             "level3_id": "05020",
             "name": "Xã Lập Chiệng",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "05023",
-            "name": "Xã Hợp Châu",
             "type": "Xã"
           },
           {
@@ -11262,18 +11272,8 @@
             "type": "Xã"
           },
           {
-            "level3_id": "05041",
-            "name": "Xã Long Sơn",
-            "type": "Xã"
-          },
-          {
             "level3_id": "05044",
             "name": "Xã Thượng Tiến",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "05047",
-            "name": "Xã Cao Thắng",
             "type": "Xã"
           },
           {
@@ -11292,16 +11292,6 @@
             "type": "Xã"
           },
           {
-            "level3_id": "05059",
-            "name": "Xã Thanh Lương",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "05062",
-            "name": "Xã Hợp Thanh",
-            "type": "Xã"
-          },
-          {
             "level3_id": "05065",
             "name": "Xã Kim Bôi",
             "type": "Xã"
@@ -11314,11 +11304,6 @@
           {
             "level3_id": "05071",
             "name": "Xã Kim Truy",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "05074",
-            "name": "Xã Thanh Nông",
             "type": "Xã"
           },
           {
@@ -11547,6 +11532,11 @@
         "name": "Huyện Mai Châu",
         "type": "Huyện",
         "level3s": [
+          {
+            "level3_id": "04882",
+            "name": "Xã Tân Dân",
+            "type": "Xã"
+          },
           {
             "level3_id": "05200",
             "name": "Thị trấn Mai Châu",
@@ -11888,6 +11878,16 @@
         "name": "Huyện Lạc Thủy",
         "type": "Huyện",
         "level3s": [
+          {
+            "level3_id": "04981",
+            "name": "Thị trấn Thanh Hà",
+            "type": "Thị trấn"
+          },
+          {
+            "level3_id": "05074",
+            "name": "Xã Thanh Nông",
+            "type": "Xã"
+          },
           {
             "level3_id": "05392",
             "name": "Thị trấn Chi Nê",

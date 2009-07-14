@@ -2416,7 +2416,8 @@
             "Xã Mông Hóa",
             "Xã Dân Hạ",
             "Xã Trung Minh",
-            "Xã Độc Lập"
+            "Xã Độc Lập",
+            "Xã Yên Quang"
         ],
         "Huyện Lương Sơn": [
             "Thị trấn Lương Sơn",
@@ -2436,7 +2437,14 @@
             "Xã Liên Sơn",
             "Xã Thành Lập",
             "Xã Tiến Sơn",
-            "Xã Trung Sơn"
+            "Xã Trung Sơn",
+            "Xã Tân Thành",
+            "Xã Cao Dương",
+            "Xã Hợp Châu",
+            "Xã Long Sơn",
+            "Xã Cao Thắng",
+            "Xã Thanh Lương",
+            "Xã Hợp Thanh"
         ],
         "Huyện Kim Bôi": [
             "Thị trấn Bo",
@@ -2540,7 +2548,8 @@
             "Xã Nong Luông",
             "Xã Mai Hịch",
             "Xã Pù Pin",
-            "Xã Vạn Mai"
+            "Xã Vạn Mai",
+            "Xã Tân Dân"
         ],
         "Huyện Lạc Sơn": [
             "Thị trấn Vụ Bản",
@@ -2601,7 +2610,9 @@
             "Xã Đồng Tâm",
             "Xã Yên Bồng",
             "Xã An Lạc",
-            "Xã An Bình"
+            "Xã An Bình",
+            "Thị trấn Thanh Hà",
+            "Xã Thanh Nông"
         ],
         "Thành phố Hòa Bình": [
             "Phường Thái Bình",
@@ -2617,7 +2628,8 @@
             "Xã Dân Chủ",
             "Xã Thái Thịnh",
             "Xã Hòa Bình",
-            "Xã Thống Nhất"
+            "Xã Thống Nhất",
+            "Xã Trung Minh"
         ]
     },
     "Tỉnh Thái Nguyên": {
