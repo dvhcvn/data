@@ -34825,8 +34825,8 @@
     "level2s": [
       {
         "level2_id": "461",
-        "name": "Thị xã Đông Hà",
-        "type": "Thị xã",
+        "name": "Thành phố Đông Hà",
+        "type": "Thành phố",
         "level3s": [
           {
             "level3_id": "19330",
@@ -46542,6 +46542,48 @@
     "type": "Tỉnh",
     "level2s": [
       {
+        "level2_id": "688",
+        "name": "Thị xã Phước Long",
+        "type": "Thị xã",
+        "level3s": [
+          {
+            "level3_id": "25216",
+            "name": "Phường Thác Mơ",
+            "type": "Phường"
+          },
+          {
+            "level3_id": "25217",
+            "name": "Phường Long Thủy",
+            "type": "Phường"
+          },
+          {
+            "level3_id": "25219",
+            "name": "Phường Phước Bình",
+            "type": "Phường"
+          },
+          {
+            "level3_id": "25220",
+            "name": "Phường Long Phước",
+            "type": "Phường"
+          },
+          {
+            "level3_id": "25237",
+            "name": "Phường Sơn Giang",
+            "type": "Phường"
+          },
+          {
+            "level3_id": "25245",
+            "name": "Xã Long Giang",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "25249",
+            "name": "Xã Phước Tín",
+            "type": "Xã"
+          }
+        ]
+      },
+      {
         "level2_id": "689",
         "name": "Thị xã Đồng Xoài",
         "type": "Thị xã",
@@ -46589,20 +46631,47 @@
         ]
       },
       {
-        "level2_id": "691",
-        "name": "Huyện Phước Long",
-        "type": "Huyện",
+        "level2_id": "690",
+        "name": "Thị xã Bình Long",
+        "type": "Thị xã",
         "level3s": [
           {
-            "level3_id": "25216",
-            "name": "Thị trấn Thác Mơ",
-            "type": "Thị trấn"
+            "level3_id": "25320",
+            "name": "Phường Hưng Chiến",
+            "type": "Phường"
           },
           {
-            "level3_id": "25219",
-            "name": "Thị trấn Phước Bình",
-            "type": "Thị trấn"
+            "level3_id": "25324",
+            "name": "Phường An Lộc",
+            "type": "Phường"
           },
+          {
+            "level3_id": "25325",
+            "name": "Phường Phú Thịnh",
+            "type": "Phường"
+          },
+          {
+            "level3_id": "25326",
+            "name": "Phường Phú Đức",
+            "type": "Phường"
+          },
+          {
+            "level3_id": "25333",
+            "name": "Xã Thanh Lương",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "25336",
+            "name": "Xã Thanh Phú",
+            "type": "Xã"
+          }
+        ]
+      },
+      {
+        "level2_id": "691",
+        "name": "Huyện Bù Gia Mập",
+        "type": "Huyện",
+        "level3s": [
           {
             "level3_id": "25222",
             "name": "Xã Bù Gia Mập",
@@ -46639,11 +46708,6 @@
             "type": "Xã"
           },
           {
-            "level3_id": "25237",
-            "name": "Xã Sơn Giang",
-            "type": "Xã"
-          },
-          {
             "level3_id": "25240",
             "name": "Xã Long Bình",
             "type": "Xã"
@@ -46664,8 +46728,8 @@
             "type": "Xã"
           },
           {
-            "level3_id": "25249",
-            "name": "Xã Phước Tín",
+            "level3_id": "25250",
+            "name": "Xã Phước Tân",
             "type": "Xã"
           },
           {
@@ -46831,14 +46895,9 @@
       },
       {
         "level2_id": "694",
-        "name": "Huyện Bình Long",
+        "name": "Huyện Hớn Quản",
         "type": "Huyện",
         "level3s": [
-          {
-            "level3_id": "25324",
-            "name": "Thị trấn An Lộc",
-            "type": "Thị trấn"
-          },
           {
             "level3_id": "25327",
             "name": "Xã Thanh An",
@@ -46847,16 +46906,6 @@
           {
             "level3_id": "25330",
             "name": "Xã An Khương",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "25333",
-            "name": "Xã Thanh Lương",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "25336",
-            "name": "Xã Thanh Phú",
             "type": "Xã"
           },
           {
@@ -46907,6 +46956,11 @@
           {
             "level3_id": "25361",
             "name": "Xã Tân Hiệp",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "25438",
+            "name": "Xã Tân Quan",
             "type": "Xã"
           }
         ]
@@ -47078,11 +47132,6 @@
           {
             "level3_id": "25435",
             "name": "Xã Minh Lập",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "25438",
-            "name": "Xã Tân Quan",
             "type": "Xã"
           },
           {
@@ -47710,8 +47759,18 @@
             "type": "Phường"
           },
           {
+            "level3_id": "25760",
+            "name": "Phường Hoà Phú",
+            "type": "Phường"
+          },
+          {
             "level3_id": "25762",
             "name": "Phường Phú Mỹ",
+            "type": "Phường"
+          },
+          {
+            "level3_id": "25763",
+            "name": "Phường Phú Tân",
             "type": "Phường"
           },
           {
@@ -47974,8 +48033,8 @@
           },
           {
             "level3_id": "25939",
-            "name": "Xã Thái Hòa",
-            "type": "Xã"
+            "name": "Thị trấn Thái Hoà",
+            "type": "Thị trấn"
           }
         ]
       },
@@ -53119,8 +53178,8 @@
     "level2s": [
       {
         "level2_id": "829",
-        "name": "Thị xã Bến Tre",
-        "type": "Thị xã",
+        "name": "Thành phố Bến Tre",
+        "type": "Thành phố",
         "level3s": [
           {
             "level3_id": "28756",

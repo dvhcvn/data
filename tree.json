@@ -8190,7 +8190,18 @@
             "Xã Hải Chánh",
             "Xã Hải Khê"
         ],
-        "Huyện Cồn Cỏ": []
+        "Huyện Cồn Cỏ": [],
+        "Thành phố Đông Hà": [
+            "Phường Đông Giang",
+            "Phường 1",
+            "Phường Đông Lễ",
+            "Phường Đông Thanh",
+            "Phường 2",
+            "Phường 4",
+            "Phường 5",
+            "Phường Đông Lương",
+            "Phường 3"
+        ]
     },
     "Tỉnh Thừa Thiên Huế": {
         "Thành phố Huế": [
@@ -10841,6 +10852,58 @@
             "Xã Minh Thắng",
             "Xã Thành Tâm",
             "Xã Quang Minh"
+        ],
+        "Thị xã Phước Long": [
+            "Phường Thác Mơ",
+            "Phường Long Thủy",
+            "Phường Phước Bình",
+            "Phường Long Phước",
+            "Phường Sơn Giang",
+            "Xã Long Giang",
+            "Xã Phước Tín"
+        ],
+        "Thị xã Bình Long": [
+            "Phường Hưng Chiến",
+            "Phường An Lộc",
+            "Phường Phú Thịnh",
+            "Phường Phú Đức",
+            "Xã Thanh Lương",
+            "Xã Thanh Phú"
+        ],
+        "Huyện Bù Gia Mập": [
+            "Xã Bù Gia Mập",
+            "Xã Đak Ơ",
+            "Xã Đức Hạnh",
+            "Xã Phú Văn",
+            "Xã Đa Kia",
+            "Xã Phước Minh",
+            "Xã Bình Thắng",
+            "Xã Long Bình",
+            "Xã Bình Tân",
+            "Xã Bình Sơn",
+            "Xã Long Hưng",
+            "Xã Phước Tân",
+            "Xã Bù Nho",
+            "Xã Long Hà",
+            "Xã Long Tân",
+            "Xã Phú Trung",
+            "Xã Phú Riềng",
+            "Xã Phú Nghĩa"
+        ],
+        "Huyện Hớn Quản": [
+            "Xã Thanh An",
+            "Xã An Khương",
+            "Xã An Phú",
+            "Xã Tân Lợi",
+            "Xã Tân Hưng",
+            "Xã Minh Đức",
+            "Xã Minh Tâm",
+            "Xã Phước An",
+            "Xã Thanh Bình",
+            "Xã Tân Khai",
+            "Xã Đồng Nơ",
+            "Xã Tân Hiệp",
+            "Xã Tân Quan"
         ]
     },
     "Tỉnh Tây Ninh": {
@@ -10974,7 +11037,9 @@
             "Xã Chánh Mỹ",
             "Phường Định Hoà",
             "Phường Phú Mỹ",
-            "Phường Hiệp An"
+            "Phường Hiệp An",
+            "Phường Hoà Phú",
+            "Phường Phú Tân"
         ],
         "Huyện Dầu Tiếng": [
             "Thị trấn Dầu Tiếng",
@@ -11025,7 +11090,8 @@
             "Xã Thạnh Phước",
             "Xã Thái Hòa",
             "Xã Tân Hiệp",
-            "Xã Thạnh Hội"
+            "Xã Thạnh Hội",
+            "Thị trấn Thái Hoà"
         ],
         "Huyện Dĩ An": [
             "Thị trấn Dĩ An",
@@ -12323,6 +12389,24 @@
             "Xã Tân Bình",
             "Xã Nhuận Phú Tân",
             "Xã Khánh Thạnh Tân"
+        ],
+        "Thành phố Bến Tre": [
+            "Phường Phú Khương",
+            "Phường Phú Tân",
+            "Phường 8",
+            "Phường 6",
+            "Phường 4",
+            "Phường 5",
+            "Phường 1",
+            "Phường 3",
+            "Phường 2",
+            "Phường 7",
+            "Xã Sơn Đông",
+            "Xã Phú Hưng",
+            "Xã Bình Phú",
+            "Xã Mỹ Thạnh An",
+            "Xã Nhơn Thạnh",
+            "Xã Phú Nhuận"
         ]
     },
     "Tỉnh Trà Vinh": {
