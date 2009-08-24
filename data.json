@@ -51342,8 +51342,8 @@
     "level2s": [
       {
         "level2_id": "794",
-        "name": "Thị xã Tân An",
-        "type": "Thị xã",
+        "name": "Thành phố Tân An",
+        "type": "Thành phố",
         "level3s": [
           {
             "level3_id": "27685",
@@ -56200,13 +56200,23 @@
       },
       {
         "level2_id": "887",
-        "name": "Huyện Tân Châu",
-        "type": "Huyện",
+        "name": "Thị xã Tân Châu",
+        "type": "Thị xã",
         "level3s": [
           {
             "level3_id": "30376",
-            "name": "Thị trấn Tân Châu",
-            "type": "Thị trấn"
+            "name": "Phường Long Thạnh",
+            "type": "Phường"
+          },
+          {
+            "level3_id": "30377",
+            "name": "Phường Long Hưng",
+            "type": "Phường"
+          },
+          {
+            "level3_id": "30378",
+            "name": "Phường Long Châu",
+            "type": "Phường"
           },
           {
             "level3_id": "30379",
@@ -56240,8 +56250,8 @@
           },
           {
             "level3_id": "30394",
-            "name": "Xã Long Phú",
-            "type": "Xã"
+            "name": "Phường Long Phú",
+            "type": "Phường"
           },
           {
             "level3_id": "30397",
@@ -56257,6 +56267,11 @@
             "level3_id": "30403",
             "name": "Xã Lê Chánh",
             "type": "Xã"
+          },
+          {
+            "level3_id": "30412",
+            "name": "Phường Long Sơn",
+            "type": "Phường"
           }
         ]
       },
@@ -56274,11 +56289,6 @@
             "level3_id": "30409",
             "name": "Thị trấn Chợ Vàm",
             "type": "Thị trấn"
-          },
-          {
-            "level3_id": "30412",
-            "name": "Xã Long Sơn",
-            "type": "Xã"
           },
           {
             "level3_id": "30415",
@@ -58294,8 +58304,13 @@
           },
           {
             "level3_id": "31345",
-            "name": "Xã Tân Thuận",
+            "name": "Xã Tân Hoà",
             "type": "Xã"
+          },
+          {
+            "level3_id": "31346",
+            "name": "Thị trấn Bảy Ngàn",
+            "type": "Thị trấn"
           },
           {
             "level3_id": "31348",
@@ -58305,11 +58320,6 @@
           {
             "level3_id": "31351",
             "name": "Xã Trường Long A",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "31354",
-            "name": "Xã Tân Hòa",
             "type": "Xã"
           },
           {
@@ -58367,6 +58377,11 @@
           {
             "level3_id": "31378",
             "name": "Xã Phú Hữu",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "31379",
+            "name": "Xã Phú Tân",
             "type": "Xã"
           },
           {

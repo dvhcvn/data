@@ -12003,6 +12003,22 @@
             "Xã An Lục Long",
             "Xã Long Trì",
             "Xã Thanh Vĩnh Đông"
+        ],
+        "Thành phố Tân An": [
+            "Phường 5",
+            "Phường 2",
+            "Phường 4",
+            "Phường Tân Khánh",
+            "Phường 1",
+            "Phường 3",
+            "Phường 7",
+            "Phường 6",
+            "Xã Hướng Thọ Phú",
+            "Xã Nhơn Thạnh Trung",
+            "Xã Lợi Bình Nhơn",
+            "Xã Bình Tâm",
+            "Phường Khánh Hậu",
+            "Xã An Vĩnh Ngãi"
         ]
     },
     "Tỉnh Tiền Giang": {
@@ -13030,6 +13046,22 @@
             "Xã Bình Thành",
             "Xã Vọng Thê",
             "Xã An Bình"
+        ],
+        "Thị xã Tân Châu": [
+            "Phường Long Thạnh",
+            "Phường Long Hưng",
+            "Phường Long Châu",
+            "Xã Phú Lộc",
+            "Xã Vĩnh Xương",
+            "Xã Vĩnh Hòa",
+            "Xã Tân Thạnh",
+            "Xã Tân An",
+            "Xã Long An",
+            "Phường Long Phú",
+            "Xã Châu Phong",
+            "Xã Phú Vĩnh",
+            "Xã Lê Chánh",
+            "Phường Long Sơn"
         ]
     },
     "Tỉnh Kiên Giang": {
@@ -13384,7 +13416,9 @@
             "Xã Thạnh Xuân",
             "Xã Tân Phú Thạnh",
             "Thị trấn Rạch Gòi",
-            "Thị trấn Cái Tắc"
+            "Thị trấn Cái Tắc",
+            "Xã Tân Hoà",
+            "Thị trấn Bảy Ngàn"
         ],
         "Huyện Châu Thành": [
             "Thị Trấn Ngã Sáu",
@@ -13394,7 +13428,8 @@
             "Xã Phú Hữu",
             "Xã Phú Hữu A",
             "Xã Đông Phước",
-            "Xã Đông Phước A"
+            "Xã Đông Phước A",
+            "Xã Phú Tân"
         ],
         "Huyện Phụng Hiệp": [
             "Thị trấn Phụng Hiệp",
