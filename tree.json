@@ -5837,7 +5837,8 @@
             "Xã Ba Sao",
             "Xã Liên Sơn",
             "Xã Thi Sơn",
-            "Xã Thanh Sơn"
+            "Xã Thanh Sơn",
+            "Thị trấn Ba Sao"
         ],
         "Huyện Thanh Liêm": [
             "Thị trấn Kiện Khê",
@@ -9360,6 +9361,22 @@
             "Xã Hòa Xuân Đông",
             "Xã Hòa Tâm",
             "Xã Hòa Xuân Nam"
+        ],
+        "Thị xã Sông Cầu": [
+            "Phường Xuân Phú",
+            "Xã Xuân Lâm",
+            "Phường Xuân Thành",
+            "Xã Xuân Hải",
+            "Xã Xuân Lộc",
+            "Xã Xuân Bình",
+            "Xã Xuân Hòa",
+            "Xã Xuân Cảnh",
+            "Xã Xuân Thịnh",
+            "Xã Xuân Phương",
+            "Phường Xuân Yên",
+            "Xã Xuân Thọ 1",
+            "Phường Xuân Đài",
+            "Xã Xuân Thọ 2"
         ]
     },
     "Tỉnh Khánh Hòa": {
@@ -10132,7 +10149,9 @@
             "Xã Ia Hla",
             "Xã Ia BLứ",
             "Thị trấn Nhơn Hoà",
-            "Xã Chư Don"
+            "Xã Chư Don",
+            "Xã Kông HTok",
+            "Xã Ia Pal"
         ],
         "Huyện Đăk Pơ": [
             "Xã Hà Tam",
@@ -10209,6 +10228,17 @@
             "Xã Chrôh Pơnan",
             "Xã Ia Hiao",
             "Xã Ia Yeng"
+        ],
+        "Huyện Chư Pưh": [
+            "Thị trấn Nhơn Hoà",
+            "Xã Ia Hrú",
+            "Xã Ia Rong",
+            "Xã Ia Dreng",
+            "Xã Ia Hla",
+            "Xã Chư Don",
+            "Xã Ia Phang",
+            "Xã Ia Le",
+            "Xã Ia BLứ"
         ]
     },
     "Tỉnh Đắk Lắk": {

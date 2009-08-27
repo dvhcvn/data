@@ -24607,8 +24607,8 @@
           },
           {
             "level3_id": "13429",
-            "name": "Xã Ba Sao",
-            "type": "Xã"
+            "name": "Thị trấn Ba Sao",
+            "type": "Thị trấn"
           },
           {
             "level3_id": "13432",
@@ -40102,18 +40102,23 @@
       },
       {
         "level2_id": "557",
-        "name": "Huyện Sông Cầu",
-        "type": "Huyện",
+        "name": "Thị xã Sông Cầu",
+        "type": "Thị xã",
         "level3s": [
           {
             "level3_id": "22051",
-            "name": "Thị trấn Sông Cầu",
-            "type": "Thị trấn"
+            "name": "Phường Xuân Phú",
+            "type": "Phường"
           },
           {
             "level3_id": "22052",
             "name": "Xã Xuân Lâm",
             "type": "Xã"
+          },
+          {
+            "level3_id": "22053",
+            "name": "Phường Xuân Thành",
+            "type": "Phường"
           },
           {
             "level3_id": "22054",
@@ -40151,9 +40156,19 @@
             "type": "Xã"
           },
           {
+            "level3_id": "22073",
+            "name": "Phường Xuân Yên",
+            "type": "Phường"
+          },
+          {
             "level3_id": "22075",
             "name": "Xã Xuân Thọ 1",
             "type": "Xã"
+          },
+          {
+            "level3_id": "22076",
+            "name": "Phường Xuân Đài",
+            "type": "Phường"
           },
           {
             "level3_id": "22078",
@@ -43919,11 +43934,6 @@
             "type": "Thị trấn"
           },
           {
-            "level3_id": "23942",
-            "name": "Thị trấn Nhơn Hoà",
-            "type": "Thị trấn"
-          },
-          {
             "level3_id": "23944",
             "name": "Xã Ia Tiêm",
             "type": "Xã"
@@ -43954,6 +43964,11 @@
             "type": "Xã"
           },
           {
+            "level3_id": "23954",
+            "name": "Xã Kông HTok",
+            "type": "Xã"
+          },
+          {
             "level3_id": "23956",
             "name": "Xã AYun",
             "type": "Xã"
@@ -43974,48 +43989,18 @@
             "type": "Xã"
           },
           {
+            "level3_id": "23966",
+            "name": "Xã Ia Pal",
+            "type": "Xã"
+          },
+          {
             "level3_id": "23968",
             "name": "Xã H Bông",
             "type": "Xã"
           },
           {
-            "level3_id": "23971",
-            "name": "Xã Ia Hrú",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "23974",
-            "name": "Xã Ia Dreng",
-            "type": "Xã"
-          },
-          {
             "level3_id": "23977",
             "name": "Xã Ia Ko",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "23978",
-            "name": "Xã Ia Hla",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "23980",
-            "name": "Xã Chư Don",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "23983",
-            "name": "Xã Ia Phang",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "23986",
-            "name": "Xã Ia Le",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "23987",
-            "name": "Xã Ia BLứ",
             "type": "Xã"
           }
         ]
@@ -44249,6 +44234,58 @@
           {
             "level3_id": "24067",
             "name": "Xã Ia Yeng",
+            "type": "Xã"
+          }
+        ]
+      },
+      {
+        "level2_id": "639",
+        "name": "Huyện Chư Pưh",
+        "type": "Huyện",
+        "level3s": [
+          {
+            "level3_id": "23942",
+            "name": "Thị trấn Nhơn Hoà",
+            "type": "Thị trấn"
+          },
+          {
+            "level3_id": "23971",
+            "name": "Xã Ia Hrú",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "23972",
+            "name": "Xã Ia Rong",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "23974",
+            "name": "Xã Ia Dreng",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "23978",
+            "name": "Xã Ia Hla",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "23980",
+            "name": "Xã Chư Don",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "23983",
+            "name": "Xã Ia Phang",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "23986",
+            "name": "Xã Ia Le",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "23987",
+            "name": "Xã Ia BLứ",
             "type": "Xã"
           }
         ]
