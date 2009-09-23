@@ -18517,8 +18517,8 @@
           },
           {
             "level3_id": "09145",
-            "name": "Xã Tứ Trưng",
-            "type": "Xã"
+            "name": "Thị trấn Tứ Trưng",
+            "type": "Thị trấn"
           },
           {
             "level3_id": "09148",
@@ -19360,6 +19360,11 @@
             "type": "Phường"
           },
           {
+            "level3_id": "10514",
+            "name": "Phường Nhị Châu",
+            "type": "Phường"
+          },
+          {
             "level3_id": "10516",
             "name": "Phường Quang Trung",
             "type": "Phường"
@@ -19387,6 +19392,11 @@
           {
             "level3_id": "10531",
             "name": "Phường Thanh Bình",
+            "type": "Phường"
+          },
+          {
+            "level3_id": "10532",
+            "name": "Phường Tân Bình",
             "type": "Phường"
           },
           {
