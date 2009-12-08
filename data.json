@@ -27128,6 +27128,11 @@
             "type": "Phường"
           },
           {
+            "level3_id": "14823",
+            "name": "Phường Phú Sơn",
+            "type": "Phường"
+          },
+          {
             "level3_id": "14824",
             "name": "Xã Quang Trung",
             "type": "Xã"
@@ -27166,8 +27171,8 @@
           },
           {
             "level3_id": "14842",
-            "name": "Xã Quảng Tiến",
-            "type": "Xã"
+            "name": "Phường Quảng Tiến",
+            "type": "Phường"
           }
         ]
       },
