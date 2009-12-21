@@ -38024,6 +38024,11 @@
         "type": "Huyện",
         "level3s": [
           {
+            "level3_id": "20364",
+            "name": "Thị trấn Phú Thịnh",
+            "type": "Thị trấn"
+          },
+          {
             "level3_id": "20365",
             "name": "Xã Tam Thành",
             "type": "Xã"
