@@ -58939,26 +58939,6 @@
             "level3_id": "31669",
             "name": "Xã Long Phú",
             "type": "Xã"
-          },
-          {
-            "level3_id": "31672",
-            "name": "Xã Đại Ân  2",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "31675",
-            "name": "Xã Liêu Tú",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "31678",
-            "name": "Xã Lịch Hội Thượng",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "31681",
-            "name": "Xã Trung Bình",
-            "type": "Xã"
           }
         ]
       },
@@ -58973,11 +58953,6 @@
             "type": "Thị trấn"
           },
           {
-            "level3_id": "31687",
-            "name": "Xã Tài Văn",
-            "type": "Xã"
-          },
-          {
             "level3_id": "31690",
             "name": "Xã Đại Tâm",
             "type": "Xã"
@@ -58985,26 +58960,6 @@
           {
             "level3_id": "31693",
             "name": "Xã Tham Đôn",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "31696",
-            "name": "Xã Viên An",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "31699",
-            "name": "Xã Thạnh Thới An",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "31702",
-            "name": "Xã Thạnh Thới Thuận",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "31705",
-            "name": "Xã Viên Bình",
             "type": "Xã"
           },
           {
@@ -59107,6 +59062,11 @@
             "type": "Thị trấn"
           },
           {
+            "level3_id": "31757",
+            "name": "Thị trấn Hưng Lợi",
+            "type": "Thị trấn"
+          },
+          {
             "level3_id": "31759",
             "name": "Xã Lâm Tân",
             "type": "Xã"
@@ -59201,6 +59161,68 @@
           {
             "level3_id": "31810",
             "name": "Xã Lai Hòa",
+            "type": "Xã"
+          }
+        ]
+      },
+      {
+        "level2_id": "951",
+        "name": "Huyện Trần Đề",
+        "type": "Huyện",
+        "level3s": [
+          {
+            "level3_id": "31672",
+            "name": "Xã Đại Ân  2",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "31673",
+            "name": "Thị trấn Trần Đề",
+            "type": "Thị trấn"
+          },
+          {
+            "level3_id": "31675",
+            "name": "Xã Liêu Tú",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "31678",
+            "name": "Xã Lịch Hội Thượng",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "31679",
+            "name": "Thị trấn Lịch Hội Thượng",
+            "type": "Thị trấn"
+          },
+          {
+            "level3_id": "31681",
+            "name": "Xã Trung Bình",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "31687",
+            "name": "Xã Tài Văn",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "31696",
+            "name": "Xã Viên An",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "31699",
+            "name": "Xã Thạnh Thới An",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "31702",
+            "name": "Xã Thạnh Thới Thuận",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "31705",
+            "name": "Xã Viên Bình",
             "type": "Xã"
           }
         ]
