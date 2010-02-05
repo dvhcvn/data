@@ -3106,7 +3106,9 @@
             "Phường Hồng Hà",
             "Phường Tuần Châu",
             "Xã Việt Hưng",
-            "Xã Đại Yên"
+            "Xã Đại Yên",
+            "Phường Việt Hưng",
+            "Phường Đại Yên"
         ],
         "Thị xã Móng Cái": [
             "Phường Ka Long",
@@ -3320,7 +3322,8 @@
             "Xã Vạn Ninh",
             "Xã Bình Ngọc",
             "Xã Vĩnh Trung",
-            "Xã Vĩnh Thực"
+            "Xã Vĩnh Thực",
+            "Phường Bình Ngọc"
         ]
     },
     "Tỉnh Bắc Giang": {
@@ -4291,7 +4294,10 @@
             "Xã Vân Dương",
             "Xã Nam Sơn",
             "Xã Khắc Niệm",
-            "Xã Hạp Lĩnh"
+            "Xã Hạp Lĩnh",
+            "Phường Vạn An",
+            "Phường Vân Dương",
+            "Phường Hạp Lĩnh"
         ],
         "Thị xã Từ Sơn": [
             "Phường Đông Ngàn",
@@ -11181,7 +11187,11 @@
             "Phường Tân Vạn",
             "Xã Tân Hạnh",
             "Xã Hiệp Hòa",
-            "Xã Hóa An"
+            "Xã Hóa An",
+            "Xã An Hoà",
+            "Xã Tam Phước",
+            "Xã Phước Tân",
+            "Xã Long Hưng"
         ],
         "Thị xã Long Khánh": [
             "Phường Xuân Trung",
