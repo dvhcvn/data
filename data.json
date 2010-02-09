@@ -36019,13 +36019,13 @@
       },
       {
         "level2_id": "479",
-        "name": "Huyện Hương Thủy",
-        "type": "Huyện",
+        "name": "Thị xã Hương Thủy",
+        "type": "Thị xã",
         "level3s": [
           {
             "level3_id": "19960",
-            "name": "Thị trấn Phú Bài",
-            "type": "Thị trấn"
+            "name": "Phường Phú Bài",
+            "type": "Phường"
           },
           {
             "level3_id": "19963",
@@ -36039,23 +36039,23 @@
           },
           {
             "level3_id": "19969",
-            "name": "Xã Thủy Dương",
-            "type": "Xã"
+            "name": "Phường Thủy Dương",
+            "type": "Phường"
           },
           {
             "level3_id": "19972",
-            "name": "Xã Thủy Phương",
-            "type": "Xã"
+            "name": "Phường Thủy Phương",
+            "type": "Phường"
           },
           {
             "level3_id": "19975",
-            "name": "Xã Thủy Châu",
-            "type": "Xã"
+            "name": "Phường Thủy Châu",
+            "type": "Phường"
           },
           {
             "level3_id": "19978",
-            "name": "Xã Thủy Lương",
-            "type": "Xã"
+            "name": "Phường Thủy Lương",
+            "type": "Phường"
           },
           {
             "level3_id": "19981",
