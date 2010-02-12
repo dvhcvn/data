@@ -19453,23 +19453,23 @@
       },
       {
         "level2_id": "290",
-        "name": "Huyện Chí Linh",
-        "type": "Huyện",
+        "name": "Thị xã Chí Linh",
+        "type": "Thị xã",
         "level3s": [
           {
             "level3_id": "10546",
-            "name": "Thị trấn Phả Lại",
-            "type": "Thị trấn"
+            "name": "Phường Phả Lại",
+            "type": "Phường"
           },
           {
             "level3_id": "10549",
-            "name": "Thị trấn Sao Đỏ",
-            "type": "Thị trấn"
+            "name": "Phường Sao Đỏ",
+            "type": "Phường"
           },
           {
             "level3_id": "10552",
-            "name": "Thị trấn Bến Tắm",
-            "type": "Thị trấn"
+            "name": "Phường Bến Tắm",
+            "type": "Phường"
           },
           {
             "level3_id": "10555",
@@ -19498,13 +19498,13 @@
           },
           {
             "level3_id": "10570",
-            "name": "Xã Cộng Hòa",
-            "type": "Xã"
+            "name": "Phường Cộng Hoà",
+            "type": "Phường"
           },
           {
             "level3_id": "10573",
-            "name": "Xã Hoàng Tân",
-            "type": "Xã"
+            "name": "Phường Hoàng Tân",
+            "type": "Phường"
           },
           {
             "level3_id": "10576",
@@ -19513,13 +19513,13 @@
           },
           {
             "level3_id": "10579",
-            "name": "Xã Văn An",
-            "type": "Xã"
+            "name": "Phường Văn An",
+            "type": "Phường"
           },
           {
             "level3_id": "10582",
-            "name": "Xã Chí Minh",
-            "type": "Xã"
+            "name": "Phường Chí Minh",
+            "type": "Phường"
           },
           {
             "level3_id": "10585",
@@ -19528,8 +19528,8 @@
           },
           {
             "level3_id": "10588",
-            "name": "Xã Thái Học",
-            "type": "Xã"
+            "name": "Phường Thái Học",
+            "type": "Phường"
           },
           {
             "level3_id": "10591",
