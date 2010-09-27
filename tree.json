@@ -899,6 +899,16 @@
             "Xã Nà Khương",
             "Xã Tiên Yên",
             "Xã Vĩ Thượng"
+        ],
+        "Thành phố Hà Giang": [
+            "Phường Quang Trung",
+            "Phường Trần Phú",
+            "Phường Ngọc Hà",
+            "Phường Nguyễn Trãi",
+            "Phường Minh Khai",
+            "Xã Ngọc Đường",
+            "Xã Phương Độ",
+            "Xã Phương Thiện"
         ]
     },
     "Tỉnh Cao Bằng": {
@@ -3606,7 +3616,12 @@
             "Xã Song Mai",
             "Xã Xương Giang",
             "Xã Đa Mai",
-            "Xã Dĩnh Kế"
+            "Xã Dĩnh Kế",
+            "Xã Dĩnh Trì",
+            "Xã Tân Mỹ",
+            "Xã Đồng Sơn",
+            "Xã Tân Tiến",
+            "Xã Song Khê"
         ]
     },
     "Tỉnh Phú Thọ": {

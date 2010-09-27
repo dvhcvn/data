@@ -3101,8 +3101,8 @@
     "level2s": [
       {
         "level2_id": "024",
-        "name": "Thị xã Hà Giang",
-        "type": "Thị xã",
+        "name": "Thành phố Hà Giang",
+        "type": "Thành phố",
         "level3s": [
           {
             "level3_id": "00688",
@@ -15240,6 +15240,31 @@
             "level3_id": "07231",
             "name": "Xã Dĩnh Kế",
             "type": "Xã"
+          },
+          {
+            "level3_id": "07441",
+            "name": "Xã Dĩnh Trì",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "07687",
+            "name": "Xã Tân Mỹ",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "07696",
+            "name": "Xã Đồng Sơn",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "07699",
+            "name": "Xã Tân Tiến",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "07705",
+            "name": "Xã Song Khê",
+            "type": "Xã"
           }
         ]
       },
@@ -15600,11 +15625,6 @@
           {
             "level3_id": "07438",
             "name": "Xã Thái Đào",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "07441",
-            "name": "Xã Dĩnh Trì",
             "type": "Xã"
           }
         ]
@@ -16051,11 +16071,6 @@
             "type": "Xã"
           },
           {
-            "level3_id": "07687",
-            "name": "Xã Tân Mỹ",
-            "type": "Xã"
-          },
-          {
             "level3_id": "07690",
             "name": "Xã Hương Gián",
             "type": "Xã"
@@ -16066,23 +16081,8 @@
             "type": "Xã"
           },
           {
-            "level3_id": "07696",
-            "name": "Xã Đồng Sơn",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "07699",
-            "name": "Xã Tân Tiến",
-            "type": "Xã"
-          },
-          {
             "level3_id": "07702",
             "name": "Xã Quỳnh Sơn",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "07705",
-            "name": "Xã Song Khê",
             "type": "Xã"
           },
           {
