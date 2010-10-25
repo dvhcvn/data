@@ -17737,8 +17737,8 @@
           },
           {
             "level3_id": "08674",
-            "name": "Xã La Phù",
-            "type": "Xã"
+            "name": "Thị trấn Thanh Thủy",
+            "type": "Thị trấn"
           },
           {
             "level3_id": "08677",
@@ -41038,13 +41038,13 @@
       },
       {
         "level2_id": "572",
-        "name": "Huyện Ninh Hòa",
-        "type": "Huyện",
+        "name": "Thị xã Ninh Hòa",
+        "type": "Thị xã",
         "level3s": [
           {
             "level3_id": "22528",
-            "name": "Thị trấn Ninh Hòa",
-            "type": "Thị trấn"
+            "name": "Phường Ninh Hiệp",
+            "type": "Phường"
           },
           {
             "level3_id": "22531",
@@ -41068,8 +41068,8 @@
           },
           {
             "level3_id": "22543",
-            "name": "Xã Ninh Hải",
-            "type": "Xã"
+            "name": "Phường Ninh Hải",
+            "type": "Phường"
           },
           {
             "level3_id": "22546",
@@ -41098,8 +41098,8 @@
           },
           {
             "level3_id": "22561",
-            "name": "Xã Ninh Diêm",
-            "type": "Xã"
+            "name": "Phường Ninh Diêm",
+            "type": "Phường"
           },
           {
             "level3_id": "22564",
@@ -41108,13 +41108,13 @@
           },
           {
             "level3_id": "22567",
-            "name": "Xã Ninh Thủy",
-            "type": "Xã"
+            "name": "Phường Ninh Thủy",
+            "type": "Phường"
           },
           {
             "level3_id": "22570",
-            "name": "Xã Ninh Đa",
-            "type": "Xã"
+            "name": "Phường Ninh Đa",
+            "type": "Phường"
           },
           {
             "level3_id": "22573",
@@ -41148,13 +41148,13 @@
           },
           {
             "level3_id": "22591",
-            "name": "Xã Ninh Giang",
-            "type": "Xã"
+            "name": "Phường Ninh Giang",
+            "type": "Phường"
           },
           {
             "level3_id": "22594",
-            "name": "Xã Ninh Hà",
-            "type": "Xã"
+            "name": "Phường Ninh Hà",
+            "type": "Phường"
           },
           {
             "level3_id": "22597",
