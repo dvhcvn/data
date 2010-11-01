@@ -4185,13 +4185,13 @@
           },
           {
             "level3_id": "01279",
-            "name": "Xã Ngọc Xuân",
-            "type": "Xã"
+            "name": "Phường Ngọc Xuân",
+            "type": "Phường"
           },
           {
             "level3_id": "01282",
-            "name": "Xã Đề Thám",
-            "type": "Xã"
+            "name": "Phường Đề Thám",
+            "type": "Phường"
           },
           {
             "level3_id": "01285",
@@ -4201,6 +4201,21 @@
           {
             "level3_id": "01288",
             "name": "Xã Duyệt Trung",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "01693",
+            "name": "Xã Vĩnh Quang",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "01705",
+            "name": "Xã Hưng Đạo",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "01720",
+            "name": "Xã Chu Trinh",
             "type": "Xã"
           }
         ]
@@ -4994,11 +5009,6 @@
             "type": "Xã"
           },
           {
-            "level3_id": "01693",
-            "name": "Xã Vĩnh Quang",
-            "type": "Xã"
-          },
-          {
             "level3_id": "01696",
             "name": "Xã Hoàng Tung",
             "type": "Xã"
@@ -5011,11 +5021,6 @@
           {
             "level3_id": "01702",
             "name": "Xã Quang Trung",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "01705",
-            "name": "Xã Hưng Đạo",
             "type": "Xã"
           },
           {
@@ -5036,11 +5041,6 @@
           {
             "level3_id": "01717",
             "name": "Xã Hà Trì",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "01720",
-            "name": "Xã Chu Trinh",
             "type": "Xã"
           },
           {
