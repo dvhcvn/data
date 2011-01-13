@@ -2694,7 +2694,8 @@
             "Xã Tân Cương",
             "Xã Lương Sơn",
             "Xã Cao Ngạn",
-            "Xã Đồng Bẩm"
+            "Xã Đồng Bẩm",
+            "Phường Tích Lương"
         ],
         "Thị xã Sông Công": [
             "Phường Lương Châu",
@@ -2705,7 +2706,8 @@
             "Xã Vinh Sơn",
             "Xã Tân Quang",
             "Xã Bình Sơn",
-            "Xã Bá Xuyên"
+            "Xã Bá Xuyên",
+            "Phường Bách Quang"
         ],
         "Huyện Định Hóa": [
             "Thị trấn Chợ Chu",
@@ -11303,6 +11305,27 @@
             "Xã Bình Nhâm",
             "Xã Bình Hòa",
             "Xã Vĩnh Phú"
+        ],
+        "Thị xã Dĩ An": [
+            "Phường Dĩ An",
+            "Phường Tân Bình",
+            "Phường Tân Đông Hiệp",
+            "Phường Bình An",
+            "Phường Bình Thắng",
+            "Phường Đông Hòa",
+            "Phường An Bình"
+        ],
+        "Thị xã Thuận An": [
+            "Phường An Thạnh",
+            "Phường Lái Thiêu",
+            "Phường Bình Chuẩn",
+            "Phường Thuận Giao",
+            "Phường An Phú",
+            "Xã Hưng Định",
+            "Xã An Sơn",
+            "Xã Bình Nhâm",
+            "Phường Bình Hòa",
+            "Phường Vĩnh Phú"
         ]
     },
     "Tỉnh Đồng Nai": {

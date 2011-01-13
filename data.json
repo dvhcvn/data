@@ -12084,8 +12084,8 @@
           },
           {
             "level3_id": "05500",
-            "name": "Xã Tích Lương",
-            "type": "Xã"
+            "name": "Phường Tích Lương",
+            "type": "Phường"
           },
           {
             "level3_id": "05503",
@@ -12148,6 +12148,11 @@
             "level3_id": "05527",
             "name": "Xã Tân Quang",
             "type": "Xã"
+          },
+          {
+            "level3_id": "05528",
+            "name": "Phường Bách Quang",
+            "type": "Phường"
           },
           {
             "level3_id": "05530",
@@ -48112,75 +48117,75 @@
       },
       {
         "level2_id": "724",
-        "name": "Huyện Dĩ An",
-        "type": "Huyện",
+        "name": "Thị xã Dĩ An",
+        "type": "Thị xã",
         "level3s": [
           {
             "level3_id": "25942",
-            "name": "Thị trấn Dĩ An",
-            "type": "Thị trấn"
+            "name": "Phường Dĩ An",
+            "type": "Phường"
           },
           {
             "level3_id": "25945",
-            "name": "Xã Tân Bình",
-            "type": "Xã"
+            "name": "Phường Tân Bình",
+            "type": "Phường"
           },
           {
             "level3_id": "25948",
-            "name": "Xã Tân Đông Hiệp",
-            "type": "Xã"
+            "name": "Phường Tân Đông Hiệp",
+            "type": "Phường"
           },
           {
             "level3_id": "25951",
-            "name": "Xã Bình An",
-            "type": "Xã"
+            "name": "Phường Bình An",
+            "type": "Phường"
           },
           {
             "level3_id": "25954",
-            "name": "Xã Bình Thắng",
-            "type": "Xã"
+            "name": "Phường Bình Thắng",
+            "type": "Phường"
           },
           {
             "level3_id": "25957",
-            "name": "Xã Đông Hòa",
-            "type": "Xã"
+            "name": "Phường Đông Hòa",
+            "type": "Phường"
           },
           {
             "level3_id": "25960",
-            "name": "Xã An Bình",
-            "type": "Xã"
+            "name": "Phường An Bình",
+            "type": "Phường"
           }
         ]
       },
       {
         "level2_id": "725",
-        "name": "Huyện Thuận An",
-        "type": "Huyện",
+        "name": "Thị xã Thuận An",
+        "type": "Thị xã",
         "level3s": [
           {
             "level3_id": "25963",
-            "name": "Thị trấn An Thạnh",
-            "type": "Thị trấn"
+            "name": "Phường An Thạnh",
+            "type": "Phường"
           },
           {
             "level3_id": "25966",
-            "name": "Thị trấn Lái Thiêu",
-            "type": "Thị trấn"
+            "name": "Phường Lái Thiêu",
+            "type": "Phường"
           },
           {
             "level3_id": "25969",
-            "name": "Xã Bình Chuẩn",
-            "type": "Xã"
+            "name": "Phường Bình Chuẩn",
+            "type": "Phường"
           },
           {
             "level3_id": "25972",
-            "name": "Xã Thuận Giao",
-            "type": "Xã"
+            "name": "Phường Thuận Giao",
+            "type": "Phường"
           },
           {
             "level3_id": "25975",
-            "name": "Xã An Phú",
-            "type": "Xã"
+            "name": "Phường An Phú",
+            "type": "Phường"
           },
           {
             "level3_id": "25978",
@@ -48199,13 +48204,13 @@
           },
           {
             "level3_id": "25987",
-            "name": "Xã Bình Hòa",
-            "type": "Xã"
+            "name": "Phường Bình Hòa",
+            "type": "Phường"
           },
           {
             "level3_id": "25990",
-            "name": "Xã Vĩnh Phú",
-            "type": "Xã"
+            "name": "Phường Vĩnh Phú",
+            "type": "Phường"
           }
         ]
       }
