@@ -58463,8 +58463,8 @@
           },
           {
             "level3_id": "31381",
-            "name": "Xã Phú Hữu A",
-            "type": "Xã"
+            "name": "Thị trấn Mái Dầm",
+            "type": "Thị trấn"
           },
           {
             "level3_id": "31384",
@@ -58542,6 +58542,11 @@
             "level3_id": "31432",
             "name": "Xã Tân Phước Hưng",
             "type": "Xã"
+          },
+          {
+            "level3_id": "31433",
+            "name": "Thị trấn Búng Tàu",
+            "type": "Thị trấn"
           },
           {
             "level3_id": "31435",
