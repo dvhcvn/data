@@ -58919,8 +58919,8 @@
           },
           {
             "level3_id": "31645",
-            "name": "Xã Đại Ngãi",
-            "type": "Xã"
+            "name": "Thị trấn Đại Ngãi",
+            "type": "Thị trấn"
           },
           {
             "level3_id": "31648",
@@ -59132,13 +59132,13 @@
       },
       {
         "level2_id": "950",
-        "name": "Huyện Vĩnh Châu",
-        "type": "Huyện",
+        "name": "Thị xã Vĩnh Châu",
+        "type": "Thị xã",
         "level3s": [
           {
             "level3_id": "31783",
-            "name": "Thị trấn Vĩnh Châu",
-            "type": "Thị trấn"
+            "name": "Phường 1",
+            "type": "Phường"
           },
           {
             "level3_id": "31786",
@@ -59147,8 +59147,8 @@
           },
           {
             "level3_id": "31789",
-            "name": "Xã Khánh Hòa",
-            "type": "Xã"
+            "name": "Phường Khánh Hòa",
+            "type": "Phường"
           },
           {
             "level3_id": "31792",
@@ -59167,13 +59167,13 @@
           },
           {
             "level3_id": "31801",
-            "name": "Xã Vĩnh Châu",
-            "type": "Xã"
+            "name": "Phường 2",
+            "type": "Phường"
           },
           {
             "level3_id": "31804",
-            "name": "Xã Vĩnh Phước",
-            "type": "Xã"
+            "name": "Phường Vĩnh Phước",
+            "type": "Phường"
           },
           {
             "level3_id": "31807",

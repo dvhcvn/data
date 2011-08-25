@@ -13834,7 +13834,8 @@
             "Xã Đại Ân  2",
             "Xã Liêu Tú",
             "Xã Lịch Hội Thượng",
-            "Xã Trung Bình"
+            "Xã Trung Bình",
+            "Thị trấn Đại Ngãi"
         ],
         "Huyện Mỹ Xuyên": [
             "Thị trấn Mỹ Xuyên",
@@ -13922,6 +13923,18 @@
             "Xã Thạnh Thới An",
             "Xã Thạnh Thới Thuận",
             "Xã Viên Bình"
+        ],
+        "Thị xã Vĩnh Châu": [
+            "Phường 1",
+            "Xã Hòa Đông",
+            "Phường Khánh Hòa",
+            "Xã Vĩnh Hiệp",
+            "Xã Vĩnh Hải",
+            "Xã Lạc Hòa",
+            "Phường 2",
+            "Phường Vĩnh Phước",
+            "Xã Vĩnh Tân",
+            "Xã Lai Hòa"
         ]
     },
     "Tỉnh Bạc Liêu": {
