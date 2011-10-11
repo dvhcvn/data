@@ -30973,6 +30973,11 @@
         "type": "Huyện",
         "level3s": [
           {
+            "level3_id": "16941",
+            "name": "Thị trấn Nghĩa Đàn",
+            "type": "Thị trấn"
+          },
+          {
             "level3_id": "16942",
             "name": "Xã Nghĩa Mai",
             "type": "Xã"
