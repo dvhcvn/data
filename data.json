@@ -8325,6 +8325,11 @@
             "type": "Thị trấn"
           },
           {
+            "level3_id": "03434",
+            "name": "Thị trấn Nậm Nhùn",
+            "type": "Thị trấn"
+          },
+          {
             "level3_id": "03436",
             "name": "Xã Thu Lũm",
             "type": "Xã"
@@ -8332,6 +8337,11 @@
           {
             "level3_id": "03439",
             "name": "Xã Ka Lăng",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "03440",
+            "name": "Xã Tá Bạ",
             "type": "Xã"
           },
           {
@@ -8377,6 +8387,11 @@
           {
             "level3_id": "03466",
             "name": "Xã Bum Nưa",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "03467",
+            "name": "Xã Vàng San",
             "type": "Xã"
           },
           {
@@ -8457,6 +8472,11 @@
             "type": "Xã"
           },
           {
+            "level3_id": "03509",
+            "name": "Xã Lùng Thàng",
+            "type": "Xã"
+          },
+          {
             "level3_id": "03511",
             "name": "Xã Tả Phìn",
             "type": "Xã"
@@ -8484,6 +8504,11 @@
           {
             "level3_id": "03526",
             "name": "Xã Nậm Cha",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "03527",
+            "name": "Xã Pa Khoá",
             "type": "Xã"
           },
           {
