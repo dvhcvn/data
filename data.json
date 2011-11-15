@@ -36118,13 +36118,13 @@
       },
       {
         "level2_id": "480",
-        "name": "Huyện Hương Trà",
-        "type": "Huyện",
+        "name": "Thị xã Hương Trà",
+        "type": "Thị xã",
         "level3s": [
           {
             "level3_id": "19996",
-            "name": "Thị trấn Tứ Hạ",
-            "type": "Thị trấn"
+            "name": "Phường Tứ Hạ",
+            "type": "Phường"
           },
           {
             "level3_id": "19999",
@@ -36143,13 +36143,13 @@
           },
           {
             "level3_id": "20008",
-            "name": "Xã Hương Vân",
-            "type": "Xã"
+            "name": "Phường Hương Vân",
+            "type": "Phường"
           },
           {
             "level3_id": "20011",
-            "name": "Xã Hương Văn",
-            "type": "Xã"
+            "name": "Phường Hương Văn",
+            "type": "Phường"
           },
           {
             "level3_id": "20014",
@@ -36158,18 +36158,18 @@
           },
           {
             "level3_id": "20017",
-            "name": "Xã Hương Xuân",
-            "type": "Xã"
+            "name": "Phường Hương Xuân",
+            "type": "Phường"
           },
           {
             "level3_id": "20020",
-            "name": "Xã Hương Chữ",
-            "type": "Xã"
+            "name": "Phường Hương Chữ",
+            "type": "Phường"
           },
           {
             "level3_id": "20023",
-            "name": "Xã Hương An",
-            "type": "Xã"
+            "name": "Phường Hương An",
+            "type": "Phường"
           },
           {
             "level3_id": "20026",
@@ -36178,8 +36178,8 @@
           },
           {
             "level3_id": "20029",
-            "name": "Xã Hương Hồ",
-            "type": "Xã"
+            "name": "Phường Hương Hồ",
+            "type": "Phường"
           },
           {
             "level3_id": "20032",
