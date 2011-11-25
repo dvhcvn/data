@@ -15079,23 +15079,23 @@
       },
       {
         "level2_id": "206",
-        "name": "Huyện Yên Hưng",
-        "type": "Huyện",
+        "name": "Thị xã Quảng Yên",
+        "type": "Thị xã",
         "level3s": [
           {
             "level3_id": "07132",
-            "name": "Thị trấn Quảng Yên",
-            "type": "Thị trấn"
+            "name": "Phường Quảng Yên",
+            "type": "Phường"
           },
           {
             "level3_id": "07135",
-            "name": "Xã Đông Mai",
-            "type": "Xã"
+            "name": "Phường Đông Mai",
+            "type": "Phường"
           },
           {
             "level3_id": "07138",
-            "name": "Xã Minh Thành",
-            "type": "Xã"
+            "name": "Phường Minh Thành",
+            "type": "Phường"
           },
           {
             "level3_id": "07144",
@@ -15109,8 +15109,8 @@
           },
           {
             "level3_id": "07150",
-            "name": "Xã Cộng Hòa",
-            "type": "Xã"
+            "name": "Phường Cộng Hòa",
+            "type": "Phường"
           },
           {
             "level3_id": "07153",
@@ -15124,23 +15124,23 @@
           },
           {
             "level3_id": "07159",
-            "name": "Xã Tân An",
-            "type": "Xã"
+            "name": "Phường Tân An",
+            "type": "Phường"
           },
           {
             "level3_id": "07162",
-            "name": "Xã Yên Giang",
-            "type": "Xã"
+            "name": "Phường Yên Giang",
+            "type": "Phường"
           },
           {
             "level3_id": "07165",
-            "name": "Xã Nam Hòa",
-            "type": "Xã"
+            "name": "Phường Nam Hoà",
+            "type": "Phường"
           },
           {
             "level3_id": "07168",
-            "name": "Xã Hà An",
-            "type": "Xã"
+            "name": "Phường Hà An",
+            "type": "Phường"
           },
           {
             "level3_id": "07171",
@@ -15149,13 +15149,13 @@
           },
           {
             "level3_id": "07174",
-            "name": "Xã Phong Hải",
-            "type": "Xã"
+            "name": "Phường Phong Hải",
+            "type": "Phường"
           },
           {
             "level3_id": "07177",
-            "name": "Xã Yên Hải",
-            "type": "Xã"
+            "name": "Phường Yên Hải",
+            "type": "Phường"
           },
           {
             "level3_id": "07180",
@@ -15164,8 +15164,8 @@
           },
           {
             "level3_id": "07183",
-            "name": "Xã Phong Cốc",
-            "type": "Xã"
+            "name": "Phường Phong Cốc",
+            "type": "Phường"
           },
           {
             "level3_id": "07186",
