@@ -39879,18 +39879,18 @@
       },
       {
         "level2_id": "549",
-        "name": "Huyện An Nhơn",
-        "type": "Huyện",
+        "name": "Thị xã An Nhơn",
+        "type": "Thị xã",
         "level3s": [
           {
             "level3_id": "21907",
-            "name": "Thị trấn Bình Định",
-            "type": "Thị trấn"
+            "name": "Phường Bình Định",
+            "type": "Phường"
           },
           {
             "level3_id": "21910",
-            "name": "Thị trấn Đập Đá",
-            "type": "Thị trấn"
+            "name": "Phường Đập Đá",
+            "type": "Phường"
           },
           {
             "level3_id": "21913",
@@ -39899,8 +39899,8 @@
           },
           {
             "level3_id": "21916",
-            "name": "Xã Nhơn Thành",
-            "type": "Xã"
+            "name": "Phường Nhơn Thành",
+            "type": "Phường"
           },
           {
             "level3_id": "21919",
@@ -39929,8 +39929,8 @@
           },
           {
             "level3_id": "21934",
-            "name": "Xã Nhơn Hưng",
-            "type": "Xã"
+            "name": "Phường Nhơn Hưng",
+            "type": "Phường"
           },
           {
             "level3_id": "21937",
@@ -39944,8 +39944,8 @@
           },
           {
             "level3_id": "21943",
-            "name": "Xã Nhơn Hòa",
-            "type": "Xã"
+            "name": "Phường Nhơn Hoà",
+            "type": "Phường"
           },
           {
             "level3_id": "21946",
