@@ -1732,7 +1732,8 @@
             "Xã Leng Su Sìn",
             "Xã Pá Mỳ",
             "Xã Nậm Vì",
-            "Xã Na Cô Sa"
+            "Xã Na Cô Sa",
+            "Xã Huổi Lếnh"
         ],
         "Huyện Mường Chà": [
             "Thị Trấn Mường Chà",
@@ -1750,7 +1751,9 @@
             "Xã Sa Lông",
             "Xã Phìn Hồ",
             "Xã Ma Thì Hồ",
-            "Xã Na Sang"
+            "Xã Na Sang",
+            "Xã Huổi Mí",
+            "Xã Nậm Nèn"
         ],
         "Huyện Tủa Chùa": [
             "Thị trấn Tủa Chùa",
@@ -1787,7 +1790,12 @@
             "Xã Tênh Phông",
             "Xã Ẳng Nưa",
             "Xã Ẳng Cang",
-            "Xã Mường Lạn"
+            "Xã Mường Lạn",
+            "Xã Rạng Đông",
+            "Xã Nà Tòng",
+            "Xã Pú Xi",
+            "Xã Mường Khong",
+            "Xã Chiềng Đông"
         ],
         "Huyện Điện Biên": [
             "Xã Nà Tấu",
@@ -1808,7 +1816,13 @@
             "Xã Na Ư",
             "Xã Mường Nhà",
             "Xã Mường Lói",
-            "Xã Nà Nhạn"
+            "Xã Nà Nhạn",
+            "Xã Hua Thanh",
+            "Xã Pá Khoang",
+            "Xã Pom Lót",
+            "Xã Hẹ Muông",
+            "Xã Na Tông",
+            "Xã Phu Luông"
         ],
         "Huyện Điện Biên Đông": [
             "Xã Na Son",
@@ -1837,6 +1851,23 @@
             "Xã Ẳng Cang",
             "Xã Nặm Lịch",
             "Xã Mường Lạn"
+        ],
+        "Huyện Nậm Pồ": [
+            "Xã Nậm Tin",
+            "Xã Pa Tần",
+            "Xã Chà Cang",
+            "Xã Na Cô Sa",
+            "Xã Nà Khoa",
+            "Xã Nà Hỳ",
+            "Xã Nà Bủng",
+            "Xã Nậm Nhừ",
+            "Xã Nậm Chua",
+            "Xã Nậm Khăn",
+            "Xã Chà Tở",
+            "Xã Vàng Đán",
+            "Xã Chà Nưa",
+            "Xã Phìn Hồ",
+            "Xã Si Pa Phìn"
         ]
     },
     "Tỉnh Lai Châu": {

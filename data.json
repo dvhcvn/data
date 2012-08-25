@@ -7705,33 +7705,8 @@
             "type": "Xã"
           },
           {
-            "level3_id": "03165",
-            "name": "Xã Pa Tần",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "03166",
-            "name": "Xã Chà Cang",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "03167",
-            "name": "Xã Na Cô Sa",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "03168",
-            "name": "Xã Nà Khoa",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "03169",
-            "name": "Xã Nà Hỳ",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "03170",
-            "name": "Xã Nà Bủng",
+            "level3_id": "03177",
+            "name": "Xã Huổi Lếnh",
             "type": "Xã"
           }
         ]
@@ -7747,16 +7722,6 @@
             "type": "Thị trấn"
           },
           {
-            "level3_id": "03174",
-            "name": "Xã Nậm Khăn",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "03175",
-            "name": "Xã Chà Tở",
-            "type": "Xã"
-          },
-          {
             "level3_id": "03178",
             "name": "Xã Xá Tổng",
             "type": "Xã"
@@ -7767,18 +7732,23 @@
             "type": "Xã"
           },
           {
-            "level3_id": "03187",
-            "name": "Xã Chà Nưa",
-            "type": "Xã"
-          },
-          {
             "level3_id": "03190",
             "name": "Xã Hừa Ngài",
             "type": "Xã"
           },
           {
+            "level3_id": "03191",
+            "name": "Xã Huổi Mí",
+            "type": "Xã"
+          },
+          {
             "level3_id": "03193",
             "name": "Xã Pa Ham",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "03194",
+            "name": "Xã Nậm Nèn",
             "type": "Xã"
           },
           {
@@ -7789,16 +7759,6 @@
           {
             "level3_id": "03197",
             "name": "Xã Sa Lông",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "03198",
-            "name": "Xã Phìn Hồ",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "03199",
-            "name": "Xã Si Pa Phìn",
             "type": "Xã"
           },
           {
@@ -7901,8 +7861,18 @@
             "type": "Xã"
           },
           {
+            "level3_id": "03260",
+            "name": "Xã Rạng Đông",
+            "type": "Xã"
+          },
+          {
             "level3_id": "03262",
             "name": "Xã Mùn Chung",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "03263",
+            "name": "Xã Nà Tòng",
             "type": "Xã"
           },
           {
@@ -7913,6 +7883,11 @@
           {
             "level3_id": "03268",
             "name": "Xã Mường Mùn",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "03269",
+            "name": "Xã Pú Xi",
             "type": "Xã"
           },
           {
@@ -7941,6 +7916,11 @@
             "type": "Xã"
           },
           {
+            "level3_id": "03284",
+            "name": "Xã Mường Khong",
+            "type": "Xã"
+          },
+          {
             "level3_id": "03289",
             "name": "Xã Quài Cang",
             "type": "Xã"
@@ -7953,6 +7933,11 @@
           {
             "level3_id": "03298",
             "name": "Xã Chiềng Sinh",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "03299",
+            "name": "Xã Chiềng Đông",
             "type": "Xã"
           },
           {
@@ -7988,8 +7973,18 @@
             "type": "Xã"
           },
           {
+            "level3_id": "03323",
+            "name": "Xã Hua Thanh",
+            "type": "Xã"
+          },
+          {
             "level3_id": "03325",
             "name": "Xã Mường Phăng",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "03326",
+            "name": "Xã Pá Khoang",
             "type": "Xã"
           },
           {
@@ -8043,8 +8038,18 @@
             "type": "Xã"
           },
           {
+            "level3_id": "03356",
+            "name": "Xã Pom Lót",
+            "type": "Xã"
+          },
+          {
             "level3_id": "03358",
             "name": "Xã Núa Ngam",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "03359",
+            "name": "Xã Hẹ Muông",
             "type": "Xã"
           },
           {
@@ -8058,8 +8063,18 @@
             "type": "Xã"
           },
           {
+            "level3_id": "03365",
+            "name": "Xã Na Tông",
+            "type": "Xã"
+          },
+          {
             "level3_id": "03367",
             "name": "Xã Mường Lói",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "03368",
+            "name": "Xã Phu Luông",
             "type": "Xã"
           }
         ]
@@ -8194,6 +8209,88 @@
           {
             "level3_id": "03313",
             "name": "Xã Mường Lạn",
+            "type": "Xã"
+          }
+        ]
+      },
+      {
+        "level2_id": "103",
+        "name": "Huyện Nậm Pồ",
+        "type": "Huyện",
+        "level3s": [
+          {
+            "level3_id": "03156",
+            "name": "Xã Nậm Tin",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "03165",
+            "name": "Xã Pa Tần",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "03166",
+            "name": "Xã Chà Cang",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "03167",
+            "name": "Xã Na Cô Sa",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "03168",
+            "name": "Xã Nà Khoa",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "03169",
+            "name": "Xã Nà Hỳ",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "03170",
+            "name": "Xã Nà Bủng",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "03171",
+            "name": "Xã Nậm Nhừ",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "03173",
+            "name": "Xã Nậm Chua",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "03174",
+            "name": "Xã Nậm Khăn",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "03175",
+            "name": "Xã Chà Tở",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "03176",
+            "name": "Xã Vàng Đán",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "03187",
+            "name": "Xã Chà Nưa",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "03198",
+            "name": "Xã Phìn Hồ",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "03199",
+            "name": "Xã Si Pa Phìn",
             "type": "Xã"
           }
         ]
