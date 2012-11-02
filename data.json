@@ -8318,6 +8318,11 @@
             "type": "Phường"
           },
           {
+            "level3_id": "03388",
+            "name": "Phường Quyết Tiến",
+            "type": "Phường"
+          },
+          {
             "level3_id": "03389",
             "name": "Phường Đoàn Kết",
             "type": "Phường"
@@ -8326,6 +8331,11 @@
             "level3_id": "03403",
             "name": "Xã Nậm Loỏng",
             "type": "Xã"
+          },
+          {
+            "level3_id": "03408",
+            "name": "Phường Đông Phong",
+            "type": "Phường"
           },
           {
             "level3_id": "03409",
@@ -8422,11 +8432,6 @@
             "type": "Thị trấn"
           },
           {
-            "level3_id": "03434",
-            "name": "Thị trấn Nậm Nhùn",
-            "type": "Thị trấn"
-          },
-          {
             "level3_id": "03436",
             "name": "Xã Thu Lũm",
             "type": "Xã"
@@ -8472,11 +8477,6 @@
             "type": "Xã"
           },
           {
-            "level3_id": "03460",
-            "name": "Xã Hua Bun",
-            "type": "Xã"
-          },
-          {
             "level3_id": "03463",
             "name": "Xã Tà Tổng",
             "type": "Xã"
@@ -8495,21 +8495,6 @@
             "level3_id": "03469",
             "name": "Xã Kan Hồ",
             "type": "Xã"
-          },
-          {
-            "level3_id": "03472",
-            "name": "Xã Mường Mô",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "03474",
-            "name": "Xã Nậm Manh",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "03475",
-            "name": "Xã Nậm Hàng",
-            "type": "Xã"
           }
         ]
       },
@@ -8522,16 +8507,6 @@
             "level3_id": "03478",
             "name": "Thị trấn Sìn Hồ",
             "type": "Thị trấn"
-          },
-          {
-            "level3_id": "03481",
-            "name": "Xã Lê Lợi",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "03484",
-            "name": "Xã Pú Đao",
-            "type": "Xã"
           },
           {
             "level3_id": "03487",
@@ -8551,11 +8526,6 @@
           {
             "level3_id": "03499",
             "name": "Xã Hồng Thu",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "03502",
-            "name": "Xã Nậm Ban",
             "type": "Xã"
           },
           {
@@ -8862,6 +8832,68 @@
           {
             "level3_id": "03622",
             "name": "Xã Tà Mít",
+            "type": "Xã"
+          }
+        ]
+      },
+      {
+        "level2_id": "112",
+        "name": "Huyện Nậm Nhùn",
+        "type": "Huyện",
+        "level3s": [
+          {
+            "level3_id": "03434",
+            "name": "Thị trấn Nậm Nhùn",
+            "type": "Thị trấn"
+          },
+          {
+            "level3_id": "03460",
+            "name": "Xã Hua Bun",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "03472",
+            "name": "Xã Mường Mô",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "03473",
+            "name": "Xã Nậm Chà",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "03474",
+            "name": "Xã Nậm Manh",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "03475",
+            "name": "Xã Nậm Hàng",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "03481",
+            "name": "Xã Lê Lợi",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "03484",
+            "name": "Xã Pú Đao",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "03488",
+            "name": "Xã Nậm Pì",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "03502",
+            "name": "Xã Nậm Ban",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "03503",
+            "name": "Xã Trung Chải",
             "type": "Xã"
           }
         ]
