@@ -55243,13 +55243,18 @@
       },
       {
         "level2_id": "861",
-        "name": "Huyện Bình Minh",
-        "type": "Huyện",
+        "name": "Thị xã Bình Minh",
+        "type": "Thị xã",
         "level3s": [
           {
             "level3_id": "29770",
-            "name": "Thị trấn Cái Vồn",
-            "type": "Thị trấn"
+            "name": "Phường Cái Vồn",
+            "type": "Phường"
+          },
+          {
+            "level3_id": "29771",
+            "name": "Phường Thành Phước",
+            "type": "Phường"
           },
           {
             "level3_id": "29806",
@@ -55265,6 +55270,11 @@
             "level3_id": "29812",
             "name": "Xã Đông Bình",
             "type": "Xã"
+          },
+          {
+            "level3_id": "29813",
+            "name": "Phường Đông Thuận",
+            "type": "Phường"
           },
           {
             "level3_id": "29815",
