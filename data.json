@@ -51646,6 +51646,53 @@
         ]
       },
       {
+        "level2_id": "795",
+        "name": "Thị xã Kiến Tường",
+        "type": "Thị xã",
+        "level3s": [
+          {
+            "level3_id": "27787",
+            "name": "Phường 1",
+            "type": "Phường"
+          },
+          {
+            "level3_id": "27788",
+            "name": "Phường 2",
+            "type": "Phường"
+          },
+          {
+            "level3_id": "27790",
+            "name": "Xã Thạnh Trị",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "27793",
+            "name": "Xã Bình Hiệp",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "27799",
+            "name": "Xã Bình Tân",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "27805",
+            "name": "Xã Tuyên Thạnh",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "27806",
+            "name": "Phường 3",
+            "type": "Phường"
+          },
+          {
+            "level3_id": "27817",
+            "name": "Xã Thạnh Hưng",
+            "type": "Xã"
+          }
+        ]
+      },
+      {
         "level2_id": "796",
         "name": "Huyện Tân Hưng",
         "type": "Huyện",
@@ -51775,38 +51822,13 @@
         "type": "Huyện",
         "level3s": [
           {
-            "level3_id": "27787",
-            "name": "Thị trấn Mộc Hóa",
-            "type": "Thị trấn"
-          },
-          {
-            "level3_id": "27790",
-            "name": "Xã Thạnh Trị",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "27793",
-            "name": "Xã Bình Hiệp",
-            "type": "Xã"
-          },
-          {
             "level3_id": "27796",
             "name": "Xã Bình Hòa Tây",
             "type": "Xã"
           },
           {
-            "level3_id": "27799",
-            "name": "Xã Bình Tân",
-            "type": "Xã"
-          },
-          {
             "level3_id": "27802",
             "name": "Xã Bình Thạnh",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "27805",
-            "name": "Xã Tuyên Thạnh",
             "type": "Xã"
           },
           {
@@ -51822,11 +51844,6 @@
           {
             "level3_id": "27814",
             "name": "Xã Bình Phong Thạnh",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "27817",
-            "name": "Xã Thạnh Hưng",
             "type": "Xã"
           },
           {
