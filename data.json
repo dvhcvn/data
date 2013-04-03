@@ -31376,31 +31376,6 @@
             "type": "Xã"
           },
           {
-            "level3_id": "17104",
-            "name": "Xã Quỳnh Vinh",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "17107",
-            "name": "Xã Quỳnh Lộc",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "17110",
-            "name": "Thị trấn Hoàng Mai",
-            "type": "Thị trấn"
-          },
-          {
-            "level3_id": "17113",
-            "name": "Xã Quỳnh Lập",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "17116",
-            "name": "Xã Quỳnh Trang",
-            "type": "Xã"
-          },
-          {
             "level3_id": "17119",
             "name": "Xã Quỳnh Tân",
             "type": "Xã"
@@ -31408,31 +31383,6 @@
           {
             "level3_id": "17122",
             "name": "Xã Quỳnh Châu",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "17125",
-            "name": "Xã Mai Hùng",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "17128",
-            "name": "Xã Quỳnh Dị",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "17131",
-            "name": "Xã Quỳnh Xuân",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "17134",
-            "name": "Xã Quỳnh Phương",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "17137",
-            "name": "Xã Quỳnh Liên",
             "type": "Xã"
           },
           {
@@ -33068,6 +33018,63 @@
           {
             "level3_id": "18067",
             "name": "Xã Hưng Lam",
+            "type": "Xã"
+          }
+        ]
+      },
+      {
+        "level2_id": "432",
+        "name": "Thị xã Hoàng Mai",
+        "type": "Thị xã",
+        "level3s": [
+          {
+            "level3_id": "17104",
+            "name": "Xã Quỳnh Vinh",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "17107",
+            "name": "Xã Quỳnh Lộc",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "17110",
+            "name": "Phường Quỳnh Thiện",
+            "type": "Phường"
+          },
+          {
+            "level3_id": "17113",
+            "name": "Xã Quỳnh Lập",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "17116",
+            "name": "Xã Quỳnh Trang",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "17125",
+            "name": "Phường Mai Hùng",
+            "type": "Phường"
+          },
+          {
+            "level3_id": "17128",
+            "name": "Phường Quỳnh Dị",
+            "type": "Phường"
+          },
+          {
+            "level3_id": "17131",
+            "name": "Phường Quỳnh Xuân",
+            "type": "Phường"
+          },
+          {
+            "level3_id": "17134",
+            "name": "Phường Quỳnh Phương",
+            "type": "Phường"
+          },
+          {
+            "level3_id": "17137",
+            "name": "Xã Quỳnh Liên",
             "type": "Xã"
           }
         ]
