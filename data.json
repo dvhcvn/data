@@ -53512,6 +53512,11 @@
             "level3_id": "28798",
             "name": "Xã Phú Nhuận",
             "type": "Xã"
+          },
+          {
+            "level3_id": "28867",
+            "name": "Xã Mỹ Thành",
+            "type": "Xã"
           }
         ]
       },
@@ -53628,11 +53633,6 @@
           {
             "level3_id": "28864",
             "name": "Xã Sơn Hòa",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "28867",
-            "name": "Xã Mỹ Thành",
             "type": "Xã"
           }
         ]
