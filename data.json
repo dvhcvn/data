@@ -56350,8 +56350,8 @@
       },
       {
         "level2_id": "884",
-        "name": "Thị xã Châu Đốc",
-        "type": "Thị xã",
+        "name": "Thành phố Châu Đốc",
+        "type": "Thành phố",
         "level3s": [
           {
             "level3_id": "30316",
@@ -56375,8 +56375,8 @@
           },
           {
             "level3_id": "30328",
-            "name": "Xã Vĩnh Ngươn",
-            "type": "Xã"
+            "name": "Phường Vĩnh Ngươn",
+            "type": "Phường"
           },
           {
             "level3_id": "30331",
@@ -58938,8 +58938,8 @@
           },
           {
             "level3_id": "31531",
-            "name": "Xã An Lạc Thôn",
-            "type": "Xã"
+            "name": "Thị trấn An Lạc Thôn",
+            "type": "Thị trấn"
           },
           {
             "level3_id": "31534",

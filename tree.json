@@ -13570,6 +13570,15 @@
             "Xã Phú Vĩnh",
             "Xã Lê Chánh",
             "Phường Long Sơn"
+        ],
+        "Thành phố Châu Đốc": [
+            "Phường Châu Phú B",
+            "Phường Châu Phú A",
+            "Phường Vĩnh Mỹ",
+            "Phường Núi Sam",
+            "Phường Vĩnh Ngươn",
+            "Xã Vĩnh Tế",
+            "Xã Vĩnh Châu"
         ]
     },
     "Tỉnh Kiên Giang": {
@@ -14027,7 +14036,8 @@
             "Xã Kế Thành",
             "Xã Kế An",
             "Xã Đại Hải",
-            "Xã An Mỹ"
+            "Xã An Mỹ",
+            "Thị trấn An Lạc Thôn"
         ],
         "Huyện Mỹ Tú": [
             "Thị trấn Huỳnh Hữu Nghĩa",
