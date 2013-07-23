@@ -16745,8 +16745,8 @@
           },
           {
             "level3_id": "07966",
-            "name": "Xã Thanh Vinh",
-            "type": "Xã"
+            "name": "Phường Thanh Vinh",
+            "type": "Phường"
           }
         ]
       },
@@ -24556,8 +24556,8 @@
           },
           {
             "level3_id": "13303",
-            "name": "Xã Lam Hạ",
-            "type": "Xã"
+            "name": "Phường Lam Hạ",
+            "type": "Phường"
           },
           {
             "level3_id": "13306",
@@ -24566,8 +24566,8 @@
           },
           {
             "level3_id": "13309",
-            "name": "Xã Liêm Chính",
-            "type": "Xã"
+            "name": "Phường Liêm Chính",
+            "type": "Phường"
           },
           {
             "level3_id": "13312",
@@ -24576,12 +24576,57 @@
           },
           {
             "level3_id": "13315",
-            "name": "Xã Thanh Châu",
-            "type": "Xã"
+            "name": "Phường Thanh Châu",
+            "type": "Phường"
           },
           {
             "level3_id": "13318",
-            "name": "Xã Châu Sơn",
+            "name": "Phường Châu Sơn",
+            "type": "Phường"
+          },
+          {
+            "level3_id": "13366",
+            "name": "Xã Tiên Tân",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "13372",
+            "name": "Xã Tiên Hiệp",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "13381",
+            "name": "Xã Tiên Hải",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "13426",
+            "name": "Xã Kim Bình",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "13444",
+            "name": "Xã Liêm Tuyền",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "13447",
+            "name": "Xã Liêm Tiết",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "13459",
+            "name": "Phường Thanh Tuyền",
+            "type": "Phường"
+          },
+          {
+            "level3_id": "13507",
+            "name": "Xã Đinh Xá",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "13513",
+            "name": "Xã Trịnh Xá",
             "type": "Xã"
           }
         ]
@@ -24667,18 +24712,8 @@
             "type": "Xã"
           },
           {
-            "level3_id": "13366",
-            "name": "Xã Tiên Tân",
-            "type": "Xã"
-          },
-          {
             "level3_id": "13369",
             "name": "Xã Đọi Sơn",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "13372",
-            "name": "Xã Tiên Hiệp",
             "type": "Xã"
           },
           {
@@ -24689,11 +24724,6 @@
           {
             "level3_id": "13378",
             "name": "Xã Tiền Phong",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "13381",
-            "name": "Xã Tiên Hải",
             "type": "Xã"
           }
         ]
@@ -24774,11 +24804,6 @@
             "type": "Xã"
           },
           {
-            "level3_id": "13426",
-            "name": "Xã Kim Bình",
-            "type": "Xã"
-          },
-          {
             "level3_id": "13429",
             "name": "Thị trấn Ba Sao",
             "type": "Thị trấn"
@@ -24811,16 +24836,6 @@
             "type": "Thị trấn"
           },
           {
-            "level3_id": "13444",
-            "name": "Xã Liêm Tuyền",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "13447",
-            "name": "Xã Liêm Tiết",
-            "type": "Xã"
-          },
-          {
             "level3_id": "13450",
             "name": "Xã Liêm Phong",
             "type": "Xã"
@@ -24833,11 +24848,6 @@
           {
             "level3_id": "13456",
             "name": "Xã Liêm Cần",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "13459",
-            "name": "Xã Thanh Tuyền",
             "type": "Xã"
           },
           {
@@ -24923,18 +24933,8 @@
             "type": "Xã"
           },
           {
-            "level3_id": "13507",
-            "name": "Xã Đinh Xá",
-            "type": "Xã"
-          },
-          {
             "level3_id": "13510",
             "name": "Xã Tràng An",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "13513",
-            "name": "Xã Trịnh Xá",
             "type": "Xã"
           },
           {
