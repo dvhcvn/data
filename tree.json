@@ -5701,7 +5701,12 @@
             "Xã Liên Phương",
             "Xã Hồng Nam",
             "Xã Quảng Châu",
-            "Xã Bảo Khê"
+            "Xã Bảo Khê",
+            "Xã Phú Cường",
+            "Xã Hùng Cường",
+            "Xã Phương Chiểu",
+            "Xã Tân Hưng",
+            "Xã Hoàng Hanh"
         ]
     },
     "Tỉnh Thái Bình": {
@@ -9693,7 +9698,8 @@
             "Xã Hòa Đồng",
             "Xã Hòa Mỹ Đông",
             "Xã Hòa Mỹ Tây",
-            "Xã Hòa Thịnh"
+            "Xã Hòa Thịnh",
+            "Thị trấn Phú Thứ"
         ],
         "Huyện Đông Hòa": [
             "Xã Hòa Thành",
@@ -9705,7 +9711,9 @@
             "Xã Hòa Hiệp Nam",
             "Xã Hòa Xuân Đông",
             "Xã Hòa Tâm",
-            "Xã Hòa Xuân Nam"
+            "Xã Hòa Xuân Nam",
+            "Thị trấn Hoà Vinh",
+            "Thị trấn Hoà Hiệp Trung"
         ],
         "Thị xã Sông Cầu": [
             "Phường Xuân Phú",

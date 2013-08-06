@@ -22208,6 +22208,31 @@
             "level3_id": "11983",
             "name": "Xã Bảo Khê",
             "type": "Xã"
+          },
+          {
+            "level3_id": "12331",
+            "name": "Xã Phú Cường",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "12334",
+            "name": "Xã Hùng Cường",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "12382",
+            "name": "Xã Phương Chiểu",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "12385",
+            "name": "Xã Tân Hưng",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "12388",
+            "name": "Xã Hoàng Hanh",
+            "type": "Xã"
           }
         ]
       },
@@ -22832,16 +22857,6 @@
             "level3_id": "12328",
             "name": "Xã Hiệp Cường",
             "type": "Xã"
-          },
-          {
-            "level3_id": "12331",
-            "name": "Xã Phú Cường",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "12334",
-            "name": "Xã Hùng Cường",
-            "type": "Xã"
           }
         ]
       },
@@ -22923,21 +22938,6 @@
           {
             "level3_id": "12379",
             "name": "Xã Minh Phượng",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "12382",
-            "name": "Xã Phương Chiểu",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "12385",
-            "name": "Xã Tân Hưng",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "12388",
-            "name": "Xã Hoàng Hanh",
             "type": "Xã"
           }
         ]
@@ -40692,8 +40692,8 @@
           },
           {
             "level3_id": "22255",
-            "name": "Xã Hòa Bình 2",
-            "type": "Xã"
+            "name": "Thị trấn Phú Thứ",
+            "type": "Thị trấn"
           },
           {
             "level3_id": "22264",
@@ -40801,13 +40801,13 @@
           },
           {
             "level3_id": "22258",
-            "name": "Xã Hòa Vinh",
-            "type": "Xã"
+            "name": "Thị trấn Hoà Vinh",
+            "type": "Thị trấn"
           },
           {
             "level3_id": "22261",
-            "name": "Xã Hòa Hiệp Trung",
-            "type": "Xã"
+            "name": "Thị trấn Hoà Hiệp Trung",
+            "type": "Thị trấn"
           },
           {
             "level3_id": "22267",
