@@ -38368,6 +38368,71 @@
             "level3_id": "21037",
             "name": "Xã Nghĩa Dõng",
             "type": "Xã"
+          },
+          {
+            "level3_id": "21172",
+            "name": "Phường Trương Quang Trọng",
+            "type": "Phường"
+          },
+          {
+            "level3_id": "21187",
+            "name": "Xã Tịnh Hòa",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "21190",
+            "name": "Xã Tịnh Kỳ",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "21199",
+            "name": "Xã Tịnh Thiện",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "21202",
+            "name": "Xã Tịnh Ấn Đông",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "21208",
+            "name": "Xã Tịnh Châu",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "21211",
+            "name": "Xã Tịnh Khê",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "21214",
+            "name": "Xã Tịnh Long",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "21223",
+            "name": "Xã Tịnh Ấn Tây",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "21232",
+            "name": "Xã Tịnh An",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "21253",
+            "name": "Xã Nghĩa Phú",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "21256",
+            "name": "Xã Nghĩa Hà",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "21262",
+            "name": "Xã Nghĩa An",
+            "type": "Xã"
           }
         ]
       },
@@ -38618,11 +38683,6 @@
         "type": "Huyện",
         "level3s": [
           {
-            "level3_id": "21172",
-            "name": "Thị trấn Sơn Tịnh",
-            "type": "Thị trấn"
-          },
-          {
             "level3_id": "21175",
             "name": "Xã Tịnh Thọ",
             "type": "Xã"
@@ -38643,16 +38703,6 @@
             "type": "Xã"
           },
           {
-            "level3_id": "21187",
-            "name": "Xã Tịnh Hòa",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "21190",
-            "name": "Xã Tịnh Kỳ",
-            "type": "Xã"
-          },
-          {
             "level3_id": "21193",
             "name": "Xã Tịnh Bình",
             "type": "Xã"
@@ -38663,33 +38713,8 @@
             "type": "Xã"
           },
           {
-            "level3_id": "21199",
-            "name": "Xã Tịnh Thiện",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "21202",
-            "name": "Xã Tịnh Ấn Đông",
-            "type": "Xã"
-          },
-          {
             "level3_id": "21205",
             "name": "Xã Tịnh Bắc",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "21208",
-            "name": "Xã Tịnh Châu",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "21211",
-            "name": "Xã Tịnh Khê",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "21214",
-            "name": "Xã Tịnh Long",
             "type": "Xã"
           },
           {
@@ -38703,11 +38728,6 @@
             "type": "Xã"
           },
           {
-            "level3_id": "21223",
-            "name": "Xã Tịnh Ấn Tây",
-            "type": "Xã"
-          },
-          {
             "level3_id": "21226",
             "name": "Xã Tịnh Giang",
             "type": "Xã"
@@ -38715,11 +38735,6 @@
           {
             "level3_id": "21229",
             "name": "Xã Tịnh Minh",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "21232",
-            "name": "Xã Tịnh An",
             "type": "Xã"
           }
         ]
@@ -38760,23 +38775,8 @@
             "type": "Xã"
           },
           {
-            "level3_id": "21253",
-            "name": "Xã Nghĩa Phú",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "21256",
-            "name": "Xã Nghĩa Hà",
-            "type": "Xã"
-          },
-          {
             "level3_id": "21259",
             "name": "Xã Nghĩa Sơn",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "21262",
-            "name": "Xã Nghĩa An",
             "type": "Xã"
           },
           {
