@@ -12724,7 +12724,7 @@
         "level3s": [
           {
             "level3_id": "05761",
-            "name": "Thị trấn Đại Từ",
+            "name": "Thị trấn Hùng Sơn",
             "type": "Thị trấn"
           },
           {
@@ -12795,11 +12795,6 @@
           {
             "level3_id": "05803",
             "name": "Xã Tiên Hội",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "05806",
-            "name": "Xã Hùng Sơn",
             "type": "Xã"
           },
           {
