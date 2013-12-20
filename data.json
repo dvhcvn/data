@@ -34605,6 +34605,103 @@
         ]
       },
       {
+        "level2_id": "454",
+        "name": "Huyện Quảng Trạch",
+        "type": "Thị xã",
+        "level3s": [
+          {
+            "level3_id": "19012",
+            "name": "Xã Quảng Hợp",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "19015",
+            "name": "Xã Quảng Kim",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "19018",
+            "name": "Xã Quảng Đông",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "19021",
+            "name": "Xã Quảng Phú",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "19024",
+            "name": "Xã Quảng Châu",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "19027",
+            "name": "Xã Quảng Thạch",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "19030",
+            "name": "Xã Quảng Lưu",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "19033",
+            "name": "Xã Quảng Tùng",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "19036",
+            "name": "Xã Cảnh Dương",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "19039",
+            "name": "Xã Quảng Tiến",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "19042",
+            "name": "Xã Quảng Hưng",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "19045",
+            "name": "Xã Quảng Xuân",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "19048",
+            "name": "Xã Cảnh Hóa",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "19051",
+            "name": "Xã Quảng Liên",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "19054",
+            "name": "Xã Quảng Trường",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "19057",
+            "name": "Xã Quảng Phương",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "19063",
+            "name": "Xã Phù Hóa",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "19072",
+            "name": "Xã Quảng Thanh",
+            "type": "Xã"
+          }
+        ]
+      },
+      {
         "level2_id": "455",
         "name": "Huyện Bố Trạch",
         "type": "Huyện",
@@ -34992,9 +35089,90 @@
       },
       {
         "level2_id": "458",
-        "name": "Huyện Quảng Trạch",
+        "name": "Thị xã Ba Đồn",
         "type": "Huyện",
-        "level3s": []
+        "level3s": [
+          {
+            "level3_id": "19009",
+            "name": "Phường Ba Đồn",
+            "type": "Phường"
+          },
+          {
+            "level3_id": "19060",
+            "name": "Phường Quảng Long",
+            "type": "Phường"
+          },
+          {
+            "level3_id": "19066",
+            "name": "Phường Quảng Thọ",
+            "type": "Phường"
+          },
+          {
+            "level3_id": "19069",
+            "name": "Xã Quảng Tiên",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "19075",
+            "name": "Xã Quảng Trung",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "19078",
+            "name": "Phường Quảng Phong",
+            "type": "Phường"
+          },
+          {
+            "level3_id": "19081",
+            "name": "Phường Quảng Thuận",
+            "type": "Phường"
+          },
+          {
+            "level3_id": "19084",
+            "name": "Xã Quảng Tân",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "19087",
+            "name": "Xã Quảng Hải",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "19090",
+            "name": "Xã Quảng Sơn",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "19093",
+            "name": "Xã Quảng Lộc",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "19096",
+            "name": "Xã Quảng Thủy",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "19099",
+            "name": "Xã Quảng Văn",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "19102",
+            "name": "Phường Quảng Phúc",
+            "type": "Phường"
+          },
+          {
+            "level3_id": "19105",
+            "name": "Xã Quảng Hòa",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "19108",
+            "name": "Xã Quảng Minh",
+            "type": "Xã"
+          }
+        ]
       }
     ]
   },
@@ -43094,6 +43272,11 @@
             "type": "Xã"
           },
           {
+            "level3_id": "23504",
+            "name": "Xã Đăk Long",
+            "type": "Xã"
+          },
+          {
             "level3_id": "23506",
             "name": "Xã Đắk HRing",
             "type": "Xã"
@@ -43101,6 +43284,11 @@
           {
             "level3_id": "23509",
             "name": "Xã Đắk Ui",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "23510",
+            "name": "Xã Đăk Ngọk",
             "type": "Xã"
           },
           {
@@ -43156,8 +43344,23 @@
             "type": "Xã"
           },
           {
+            "level3_id": "23535",
+            "name": "Xã Ia Dal",
+            "type": "Xã"
+          },
+          {
             "level3_id": "23536",
             "name": "Xã Mô Rai",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "23537",
+            "name": "Xã Ia Dom",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "23538",
+            "name": "Xã Ia Tơi",
             "type": "Xã"
           },
           {

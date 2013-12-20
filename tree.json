@@ -8330,7 +8330,44 @@
             "Xã Văn Thủy",
             "Xã Lâm Thủy"
         ],
-        "Huyện Quảng Trạch": []
+        "Huyện Quảng Trạch": [
+            "Xã Quảng Hợp",
+            "Xã Quảng Kim",
+            "Xã Quảng Đông",
+            "Xã Quảng Phú",
+            "Xã Quảng Châu",
+            "Xã Quảng Thạch",
+            "Xã Quảng Lưu",
+            "Xã Quảng Tùng",
+            "Xã Cảnh Dương",
+            "Xã Quảng Tiến",
+            "Xã Quảng Hưng",
+            "Xã Quảng Xuân",
+            "Xã Cảnh Hóa",
+            "Xã Quảng Liên",
+            "Xã Quảng Trường",
+            "Xã Quảng Phương",
+            "Xã Phù Hóa",
+            "Xã Quảng Thanh"
+        ],
+        "Thị xã Ba Đồn": [
+            "Phường Ba Đồn",
+            "Phường Quảng Long",
+            "Phường Quảng Thọ",
+            "Xã Quảng Tiên",
+            "Xã Quảng Trung",
+            "Phường Quảng Phong",
+            "Phường Quảng Thuận",
+            "Xã Quảng Tân",
+            "Xã Quảng Hải",
+            "Xã Quảng Sơn",
+            "Xã Quảng Lộc",
+            "Xã Quảng Thủy",
+            "Xã Quảng Văn",
+            "Phường Quảng Phúc",
+            "Xã Quảng Hòa",
+            "Xã Quảng Minh"
+        ]
     },
     "Tỉnh Quảng Trị": {
         "Thị xã Đông Hà": [
@@ -10326,7 +10363,9 @@
             "Xã Ngok Wang",
             "Xã Ngok Réo",
             "Xã Hà Mòn",
-            "Xã Đắk La"
+            "Xã Đắk La",
+            "Xã Đăk Long",
+            "Xã Đăk Ngọk"
         ],
         "Huyện Sa Thầy": [
             "Thị trấn Sa Thầy",
@@ -10339,7 +10378,10 @@
             "Xã Ya Xiêr",
             "Xã Ya Tăng",
             "Xã Ya ly",
-            "Xã Hơ Moong"
+            "Xã Hơ Moong",
+            "Xã Ia Dal",
+            "Xã Ia Dom",
+            "Xã Ia Tơi"
         ],
         "Huyện Tu Mơ Rông": [
             "Xã Ngọc Lây",
