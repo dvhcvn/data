@@ -12627,7 +12627,24 @@
             "Xã Bình Xuân",
             "Xã Tân Trung"
         ],
-        "Thị xã Cai Lậy": [],
+        "Thị xã Cai Lậy": [
+            "Phường 1",
+            "Phường 2",
+            "Phường 3",
+            "Phường 4",
+            "Phường 5",
+            "Xã Mỹ Phước Tây",
+            "Xã Mỹ Hạnh Đông",
+            "Xã Mỹ Hạnh Trung",
+            "Xã Tân Phú",
+            "Xã Tân Bình",
+            "Xã Tân Hội",
+            "Phường Nhị Mỹ",
+            "Xã Nhị Quý",
+            "Xã Thanh Hòa",
+            "Xã Phú Quý",
+            "Xã Long Khánh"
+        ],
         "Huyện Tân Phước": [
             "Thị trấn Mỹ Phước",
             "Xã Tân Hòa Đông",
@@ -12765,6 +12782,24 @@
             "Xã Tân Thạnh",
             "Xã Phú Đông",
             "Xã Phú Tân"
+        ],
+        "Huyện Cai Lậy": [
+            "Xã Thạnh Lộc",
+            "Xã Mỹ Thành Bắc",
+            "Xã Phú Cường",
+            "Xã Mỹ Thành Nam",
+            "Xã Phú Nhuận",
+            "Xã Bình Phú",
+            "Xã Cẩm Sơn",
+            "Xã Phú An",
+            "Xã Mỹ Long",
+            "Xã Long Tiên",
+            "Xã Hiệp Đức",
+            "Xã Long Trung",
+            "Xã Hội Xuân",
+            "Xã Tân Phong",
+            "Xã Tam Bình",
+            "Xã Ngũ Hiệp"
         ]
     },
     "Tỉnh Bến Tre": {

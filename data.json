@@ -53015,7 +53015,88 @@
         "level2_id": "817",
         "name": "Thị xã Cai Lậy",
         "type": "Huyện",
-        "level3s": []
+        "level3s": [
+          {
+            "level3_id": "28435",
+            "name": "Phường 1",
+            "type": "Phường"
+          },
+          {
+            "level3_id": "28436",
+            "name": "Phường 2",
+            "type": "Phường"
+          },
+          {
+            "level3_id": "28437",
+            "name": "Phường 3",
+            "type": "Phường"
+          },
+          {
+            "level3_id": "28439",
+            "name": "Phường 4",
+            "type": "Phường"
+          },
+          {
+            "level3_id": "28440",
+            "name": "Phường 5",
+            "type": "Phường"
+          },
+          {
+            "level3_id": "28447",
+            "name": "Xã Mỹ Phước Tây",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "28450",
+            "name": "Xã Mỹ Hạnh Đông",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "28453",
+            "name": "Xã Mỹ Hạnh Trung",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "28459",
+            "name": "Xã Tân Phú",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "28462",
+            "name": "Xã Tân Bình",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "28468",
+            "name": "Xã Tân Hội",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "28474",
+            "name": "Phường Nhị Mỹ",
+            "type": "Phường"
+          },
+          {
+            "level3_id": "28477",
+            "name": "Xã Nhị Quý",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "28480",
+            "name": "Xã Thanh Hòa",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "28483",
+            "name": "Xã Phú Quý",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "28486",
+            "name": "Xã Long Khánh",
+            "type": "Xã"
+          }
+        ]
       },
       {
         "level2_id": "818",
@@ -53217,6 +53298,93 @@
           {
             "level3_id": "28432",
             "name": "Xã Hòa Hưng",
+            "type": "Xã"
+          }
+        ]
+      },
+      {
+        "level2_id": "820",
+        "name": "Huyện Cai Lậy",
+        "type": "Thị xã",
+        "level3s": [
+          {
+            "level3_id": "28438",
+            "name": "Xã Thạnh Lộc",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "28441",
+            "name": "Xã Mỹ Thành Bắc",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "28444",
+            "name": "Xã Phú Cường",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "28456",
+            "name": "Xã Mỹ Thành Nam",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "28465",
+            "name": "Xã Phú Nhuận",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "28471",
+            "name": "Xã Bình Phú",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "28489",
+            "name": "Xã Cẩm Sơn",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "28492",
+            "name": "Xã Phú An",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "28495",
+            "name": "Xã Mỹ Long",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "28498",
+            "name": "Xã Long Tiên",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "28501",
+            "name": "Xã Hiệp Đức",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "28504",
+            "name": "Xã Long Trung",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "28507",
+            "name": "Xã Hội Xuân",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "28510",
+            "name": "Xã Tân Phong",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "28513",
+            "name": "Xã Tam Bình",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "28516",
+            "name": "Xã Ngũ Hiệp",
             "type": "Xã"
           }
         ]
