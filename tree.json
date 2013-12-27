@@ -672,6 +672,33 @@
             "Xã Kim Sơn",
             "Xã Sơn Đông",
             "Xã Cổ Đông"
+        ],
+        "Quận Nam Từ Liêm": [
+            "Phường Cầu Diễn",
+            "Phường Xuân Phương",
+            "Phường Phương Canh",
+            "Phường Mỹ Đình 1",
+            "Phường Mỹ Đình 2",
+            "Phường Tây Mỗ",
+            "Phường Mễ Trì",
+            "Phường Phú Đô",
+            "Phường Đại Mỗ",
+            "Phường Trung Văn"
+        ],
+        "Quận Bắc Từ Liêm": [
+            "Phường Thượng Cát",
+            "Phường Liên Mạc",
+            "Phường Đông Ngạc",
+            "Phường Đức Thắng",
+            "Phường Thụy Phương",
+            "Phường Tây Tựu",
+            "Phường Xuân Đỉnh",
+            "Phường Xuân Tảo",
+            "Phường Minh Khai",
+            "Phường Cổ Nhuế 1",
+            "Phường Cổ Nhuế 2",
+            "Phường Phú Diễn",
+            "Phường Phúc Diễn"
         ]
     },
     "Tỉnh Hà Giang": {
@@ -2032,6 +2059,15 @@
             "Xã Nậm Pì",
             "Xã Nậm Ban",
             "Xã Trung Chải"
+        ],
+        "Thành phố Lai Châu": [
+            "Phường Quyết Thắng",
+            "Phường Tân Phong",
+            "Phường Quyết Tiến",
+            "Phường Đoàn Kết",
+            "Xã Nậm Loỏng",
+            "Phường Đông Phong",
+            "Xã San Thàng"
         ]
     },
     "Tỉnh Sơn La": {

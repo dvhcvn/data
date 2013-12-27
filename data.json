@@ -1090,88 +1090,58 @@
       },
       {
         "level2_id": "019",
-        "name": "Huyện Từ Liêm",
-        "type": "Huyện",
+        "name": "Quận Nam Từ Liêm",
+        "type": "Quận",
         "level3s": [
           {
             "level3_id": "00592",
-            "name": "Thị trấn Cầu Diễn",
-            "type": "Thị trấn"
-          },
-          {
-            "level3_id": "00595",
-            "name": "Xã Thượng Cát",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "00598",
-            "name": "Xã Liên Mạc",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "00601",
-            "name": "Xã Đông Ngạc",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "00604",
-            "name": "Xã Thụy Phương",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "00607",
-            "name": "Xã Tây Tựu",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "00610",
-            "name": "Xã Xuân Đỉnh",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "00613",
-            "name": "Xã Minh Khai",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "00616",
-            "name": "Xã Cổ Nhuế",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "00619",
-            "name": "Xã Phú Diễn",
-            "type": "Xã"
+            "name": "Phường Cầu Diễn",
+            "type": "Phường"
           },
           {
             "level3_id": "00622",
-            "name": "Xã Xuân Phương",
-            "type": "Xã"
+            "name": "Phường Xuân Phương",
+            "type": "Phường"
+          },
+          {
+            "level3_id": "00623",
+            "name": "Phường Phương Canh",
+            "type": "Phường"
           },
           {
             "level3_id": "00625",
-            "name": "Xã Mỹ Đình",
-            "type": "Xã"
+            "name": "Phường Mỹ Đình 1",
+            "type": "Phường"
+          },
+          {
+            "level3_id": "00626",
+            "name": "Phường Mỹ Đình 2",
+            "type": "Phường"
           },
           {
             "level3_id": "00628",
-            "name": "Xã Tây Mỗ",
-            "type": "Xã"
+            "name": "Phường Tây Mỗ",
+            "type": "Phường"
           },
           {
             "level3_id": "00631",
-            "name": "Xã Mễ Trì",
-            "type": "Xã"
+            "name": "Phường Mễ Trì",
+            "type": "Phường"
+          },
+          {
+            "level3_id": "00632",
+            "name": "Phường Phú Đô",
+            "type": "Phường"
           },
           {
             "level3_id": "00634",
-            "name": "Xã Đại Mỗ",
-            "type": "Xã"
+            "name": "Phường Đại Mỗ",
+            "type": "Phường"
           },
           {
             "level3_id": "00637",
-            "name": "Xã Trung Văn",
-            "type": "Xã"
+            "name": "Phường Trung Văn",
+            "type": "Phường"
           }
         ]
       },
@@ -1259,6 +1229,78 @@
             "level3_id": "00685",
             "name": "Xã Đông Mỹ",
             "type": "Xã"
+          }
+        ]
+      },
+      {
+        "level2_id": "021",
+        "name": "Quận Bắc Từ Liêm",
+        "type": "Quận",
+        "level3s": [
+          {
+            "level3_id": "00595",
+            "name": "Phường Thượng Cát",
+            "type": "Phường"
+          },
+          {
+            "level3_id": "00598",
+            "name": "Phường Liên Mạc",
+            "type": "Phường"
+          },
+          {
+            "level3_id": "00601",
+            "name": "Phường Đông Ngạc",
+            "type": "Phường"
+          },
+          {
+            "level3_id": "00602",
+            "name": "Phường Đức Thắng",
+            "type": "Phường"
+          },
+          {
+            "level3_id": "00604",
+            "name": "Phường Thụy Phương",
+            "type": "Phường"
+          },
+          {
+            "level3_id": "00607",
+            "name": "Phường Tây Tựu",
+            "type": "Phường"
+          },
+          {
+            "level3_id": "00610",
+            "name": "Phường Xuân Đỉnh",
+            "type": "Phường"
+          },
+          {
+            "level3_id": "00611",
+            "name": "Phường Xuân Tảo",
+            "type": "Phường"
+          },
+          {
+            "level3_id": "00613",
+            "name": "Phường Minh Khai",
+            "type": "Phường"
+          },
+          {
+            "level3_id": "00616",
+            "name": "Phường Cổ Nhuế 1",
+            "type": "Phường"
+          },
+          {
+            "level3_id": "00617",
+            "name": "Phường Cổ Nhuế 2",
+            "type": "Phường"
+          },
+          {
+            "level3_id": "00619",
+            "name": "Phường Phú Diễn",
+            "type": "Phường"
+          },
+          {
+            "level3_id": "00620",
+            "name": "Phường Phúc Diễn",
+            "type": "Phường"
           }
         ]
       },
@@ -8304,8 +8346,8 @@
     "level2s": [
       {
         "level2_id": "105",
-        "name": "Thị xã Lai Châu",
-        "type": "Thị xã",
+        "name": "Thành phố Lai Châu",
+        "type": "Thành phố",
         "level3s": [
           {
             "level3_id": "03386",
