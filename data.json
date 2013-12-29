@@ -18913,13 +18913,13 @@
           },
           {
             "level3_id": "09235",
-            "name": "Xã Khúc Xuyên",
-            "type": "Xã"
+            "name": "Phường Khúc Xuyên",
+            "type": "Phường"
           },
           {
             "level3_id": "09244",
-            "name": "Xã Phong Khê",
-            "type": "Xã"
+            "name": "Phường Phong Khê",
+            "type": "Phường"
           },
           {
             "level3_id": "09256",
@@ -18938,8 +18938,8 @@
           },
           {
             "level3_id": "09325",
-            "name": "Xã Khắc Niệm",
-            "type": "Xã"
+            "name": "Phường Khắc Niệm",
+            "type": "Phường"
           },
           {
             "level3_id": "09331",
@@ -19621,8 +19621,8 @@
           },
           {
             "level3_id": "10660",
-            "name": "Xã ái Quốc",
-            "type": "Xã"
+            "name": "Phường Ái Quốc",
+            "type": "Phường"
           },
           {
             "level3_id": "10663",
@@ -19641,8 +19641,8 @@
           },
           {
             "level3_id": "11002",
-            "name": "Xã Thạch Khôi",
-            "type": "Xã"
+            "name": "Phường Thạch Khôi",
+            "type": "Phường"
           },
           {
             "level3_id": "11011",
@@ -46956,7 +46956,7 @@
         "level3s": [
           {
             "level3_id": "25159",
-            "name": "Thị trấn Đồng Nai",
+            "name": "Thị trấn Cát Tiên",
             "type": "Thị trấn"
           },
           {
@@ -46997,11 +46997,6 @@
           {
             "level3_id": "25183",
             "name": "Xã Đức Phổ",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "25186",
-            "name": "Xã Phù Mỹ",
             "type": "Xã"
           },
           {
@@ -47657,8 +47652,8 @@
     "level2s": [
       {
         "level2_id": "703",
-        "name": "Thị xã Tây Ninh",
-        "type": "Thị xã",
+        "name": "Thành phố Tây Ninh",
+        "type": "Thành phố",
         "level3s": [
           {
             "level3_id": "25456",
@@ -47702,13 +47697,13 @@
           },
           {
             "level3_id": "25480",
-            "name": "Xã Ninh Sơn",
-            "type": "Xã"
+            "name": "Phường Ninh Sơn",
+            "type": "Phường"
           },
           {
             "level3_id": "25483",
-            "name": "Xã Ninh Thạnh",
-            "type": "Xã"
+            "name": "Phường Ninh Thạnh",
+            "type": "Phường"
           }
         ]
       },
@@ -48257,8 +48252,8 @@
           },
           {
             "level3_id": "25765",
-            "name": "Xã Tân An",
-            "type": "Xã"
+            "name": "Phường Tân An",
+            "type": "Phường"
           },
           {
             "level3_id": "25768",
@@ -48267,12 +48262,54 @@
           },
           {
             "level3_id": "25771",
-            "name": "Xã Tương Bình Hiệp",
-            "type": "Xã"
+            "name": "Phường Tương Bình Hiệp",
+            "type": "Phường"
           },
           {
             "level3_id": "25774",
-            "name": "Xã Chánh Mỹ",
+            "name": "Phường Chánh Mỹ",
+            "type": "Phường"
+          }
+        ]
+      },
+      {
+        "level2_id": "719",
+        "name": "Huyện Bàu Bàng",
+        "type": "Huyện",
+        "level3s": [
+          {
+            "level3_id": "25816",
+            "name": "Xã Trừ Văn Thố",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "25819",
+            "name": "Xã Cây Trường II",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "25822",
+            "name": "Xã Lai Uyên",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "25825",
+            "name": "Xã Tân Hưng",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "25828",
+            "name": "Xã Long Nguyên",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "25831",
+            "name": "Xã Hưng Hòa",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "25834",
+            "name": "Xã Lai Hưng",
             "type": "Xã"
           }
         ]
@@ -48346,18 +48383,18 @@
       },
       {
         "level2_id": "721",
-        "name": "Huyện Bến Cát",
-        "type": "Huyện",
+        "name": "Thị xã Bến Cát",
+        "type": "Thị xã",
         "level3s": [
           {
             "level3_id": "25813",
-            "name": "Thị trấn Mỹ Phước",
-            "type": "Thị trấn"
+            "name": "Phường Mỹ Phước",
+            "type": "Phường"
           },
           {
             "level3_id": "25837",
-            "name": "Xã Chánh Phú Hòa",
-            "type": "Xã"
+            "name": "Phường Chánh Phú Hòa",
+            "type": "Phường"
           },
           {
             "level3_id": "25840",
@@ -48371,18 +48408,18 @@
           },
           {
             "level3_id": "25846",
-            "name": "Xã Thới Hòa",
-            "type": "Xã"
+            "name": "Phường Thới Hòa",
+            "type": "Phường"
           },
           {
             "level3_id": "25849",
-            "name": "Xã Hòa Lợi",
-            "type": "Xã"
+            "name": "Phường Hòa Lợi",
+            "type": "Phường"
           },
           {
             "level3_id": "25852",
-            "name": "Xã Tân Định",
-            "type": "Xã"
+            "name": "Phường Tân Định",
+            "type": "Phường"
           },
           {
             "level3_id": "25855",
@@ -48455,18 +48492,18 @@
       },
       {
         "level2_id": "723",
-        "name": "Huyện Tân Uyên",
-        "type": "Huyện",
+        "name": "Thị xã Tân Uyên",
+        "type": "Thị xã",
         "level3s": [
           {
             "level3_id": "25888",
-            "name": "Thị trấn Uyên Hưng",
-            "type": "Thị trấn"
+            "name": "Phường Uyên Hưng",
+            "type": "Phường"
           },
           {
             "level3_id": "25891",
-            "name": "Thị trấn Tân Phước Khánh",
-            "type": "Thị trấn"
+            "name": "Phường Tân Phước Khánh",
+            "type": "Phường"
           },
           {
             "level3_id": "25912",
@@ -48480,13 +48517,13 @@
           },
           {
             "level3_id": "25920",
-            "name": "Xã Tân Hiệp",
-            "type": "Xã"
+            "name": "Phường Tân Hiệp",
+            "type": "Phường"
           },
           {
             "level3_id": "25921",
-            "name": "Xã Khánh Bình",
-            "type": "Xã"
+            "name": "Phường Khánh Bình",
+            "type": "Phường"
           },
           {
             "level3_id": "25924",
@@ -48505,8 +48542,8 @@
           },
           {
             "level3_id": "25936",
-            "name": "Xã Thạnh Phước",
-            "type": "Xã"
+            "name": "Phường Thạnh Phước",
+            "type": "Phường"
           },
           {
             "level3_id": "25937",
@@ -48515,8 +48552,8 @@
           },
           {
             "level3_id": "25939",
-            "name": "Thị trấn Thái Hoà",
-            "type": "Thị trấn"
+            "name": "Phường Thái Hòa",
+            "type": "Phường"
           }
         ]
       },
@@ -48594,8 +48631,8 @@
           },
           {
             "level3_id": "25978",
-            "name": "Xã Hưng Định",
-            "type": "Xã"
+            "name": "Phường Hưng Định",
+            "type": "Phường"
           },
           {
             "level3_id": "25981",
@@ -48604,8 +48641,8 @@
           },
           {
             "level3_id": "25984",
-            "name": "Xã Bình Nhâm",
-            "type": "Xã"
+            "name": "Phường Bình Nhâm",
+            "type": "Phường"
           },
           {
             "level3_id": "25987",
@@ -48616,6 +48653,63 @@
             "level3_id": "25990",
             "name": "Phường Vĩnh Phú",
             "type": "Phường"
+          }
+        ]
+      },
+      {
+        "level2_id": "726",
+        "name": "Huyện Bắc Tân Uyên",
+        "type": "Huyện",
+        "level3s": [
+          {
+            "level3_id": "25894",
+            "name": "Xã Tân Định",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "25897",
+            "name": "Xã Bình Mỹ",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "25900",
+            "name": "Xã Tân Bình",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "25903",
+            "name": "Xã Tân Lập",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "25906",
+            "name": "Xã Tân Thành",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "25907",
+            "name": "Xã Đất Cuốc",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "25908",
+            "name": "Xã Hiếu Liêm",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "25909",
+            "name": "Xã Lạc An",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "25918",
+            "name": "Xã Tân Mỹ",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "25927",
+            "name": "Xã Thường Tân",
+            "type": "Xã"
           }
         ]
       }
@@ -59631,18 +59725,18 @@
       },
       {
         "level2_id": "948",
-        "name": "Huyện Ngã Năm",
-        "type": "Huyện",
+        "name": "Thị xã Ngã Năm",
+        "type": "Thị xã",
         "level3s": [
           {
             "level3_id": "31732",
-            "name": "Thị trấn Ngã Năm",
-            "type": "Thị trấn"
+            "name": "Phường 1",
+            "type": "Phường"
           },
           {
             "level3_id": "31735",
-            "name": "Xã Long Tân",
-            "type": "Xã"
+            "name": "Phường 2",
+            "type": "Phường"
           },
           {
             "level3_id": "31738",
@@ -59661,8 +59755,8 @@
           },
           {
             "level3_id": "31747",
-            "name": "Xã Vĩnh Biên",
-            "type": "Xã"
+            "name": "Phường 3",
+            "type": "Phường"
           },
           {
             "level3_id": "31750",

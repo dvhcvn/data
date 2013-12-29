@@ -4541,7 +4541,10 @@
             "Xã Hạp Lĩnh",
             "Phường Vạn An",
             "Phường Vân Dương",
-            "Phường Hạp Lĩnh"
+            "Phường Hạp Lĩnh",
+            "Phường Khúc Xuyên",
+            "Phường Phong Khê",
+            "Phường Khắc Niệm"
         ],
         "Thị xã Từ Sơn": [
             "Phường Đông Ngàn",
@@ -4979,7 +4982,9 @@
             "Xã Thạch Khôi",
             "Xã Tân Hưng",
             "Phường Nhị Châu",
-            "Phường Tân Bình"
+            "Phường Tân Bình",
+            "Phường Ái Quốc",
+            "Phường Thạch Khôi"
         ],
         "Huyện Chí Linh": [
             "Thị trấn Phả Lại",
@@ -11250,7 +11255,8 @@
             "Xã Đức Phổ",
             "Xã Phù Mỹ",
             "Xã Quảng Ngãi",
-            "Xã Đồng Nai Thượng"
+            "Xã Đồng Nai Thượng",
+            "Thị trấn Cát Tiên"
         ],
         "Huyện Đam Rông": [
             "Xã Đạ Tông",
@@ -11564,6 +11570,18 @@
             "Xã An Tịnh",
             "Xã An Hòa",
             "Xã Phước Chỉ"
+        ],
+        "Thành phố Tây Ninh": [
+            "Phường 1",
+            "Phường 3",
+            "Phường 4",
+            "Phường Hiệp Ninh",
+            "Phường 2",
+            "Xã Thạnh Tân",
+            "Xã Tân Bình",
+            "Xã Bình Minh",
+            "Phường Ninh Sơn",
+            "Phường Ninh Thạnh"
         ]
     },
     "Tỉnh Bình Dương": {
@@ -11678,7 +11696,9 @@
             "Xã An Sơn",
             "Xã Bình Nhâm",
             "Phường Bình Hòa",
-            "Phường Vĩnh Phú"
+            "Phường Vĩnh Phú",
+            "Phường Hưng Định",
+            "Phường Bình Nhâm"
         ],
         "Thành phố Thủ Dầu Một": [
             "Phường Hiệp Thành",
@@ -11694,7 +11714,55 @@
             "Xã Tân An",
             "Phường Hiệp An",
             "Xã Tương Bình Hiệp",
-            "Xã Chánh Mỹ"
+            "Xã Chánh Mỹ",
+            "Phường Tân An",
+            "Phường Tương Bình Hiệp",
+            "Phường Chánh Mỹ"
+        ],
+        "Huyện Bàu Bàng": [
+            "Xã Trừ Văn Thố",
+            "Xã Cây Trường II",
+            "Xã Lai Uyên",
+            "Xã Tân Hưng",
+            "Xã Long Nguyên",
+            "Xã Hưng Hòa",
+            "Xã Lai Hưng"
+        ],
+        "Thị xã Bến Cát": [
+            "Phường Mỹ Phước",
+            "Phường Chánh Phú Hòa",
+            "Xã An Điền",
+            "Xã An Tây",
+            "Phường Thới Hòa",
+            "Phường Hòa Lợi",
+            "Phường Tân Định",
+            "Xã Phú An"
+        ],
+        "Thị xã Tân Uyên": [
+            "Phường Uyên Hưng",
+            "Phường Tân Phước Khánh",
+            "Xã Vĩnh Tân",
+            "Xã Hội Nghĩa",
+            "Phường Tân Hiệp",
+            "Phường Khánh Bình",
+            "Xã Phú Chánh",
+            "Xã Bạch Đằng",
+            "Xã Tân Vĩnh Hiệp",
+            "Phường Thạnh Phước",
+            "Xã Thạnh Hội",
+            "Phường Thái Hòa"
+        ],
+        "Huyện Bắc Tân Uyên": [
+            "Xã Tân Định",
+            "Xã Bình Mỹ",
+            "Xã Tân Bình",
+            "Xã Tân Lập",
+            "Xã Tân Thành",
+            "Xã Đất Cuốc",
+            "Xã Hiếu Liêm",
+            "Xã Lạc An",
+            "Xã Tân Mỹ",
+            "Xã Thường Tân"
         ]
     },
     "Tỉnh Đồng Nai": {
@@ -14353,6 +14421,16 @@
             "Phường Vĩnh Phước",
             "Xã Vĩnh Tân",
             "Xã Lai Hòa"
+        ],
+        "Thị xã Ngã Năm": [
+            "Phường 1",
+            "Phường 2",
+            "Xã Vĩnh Quới",
+            "Xã Tân Long",
+            "Xã Long Bình",
+            "Phường 3",
+            "Xã Mỹ Bình",
+            "Xã Mỹ Quới"
         ]
     },
     "Tỉnh Bạc Liêu": {
