@@ -1327,6 +1327,16 @@
             "Xã Xuân Dương",
             "Xã Đổng Xá",
             "Xã Liêm Thuỷ"
+        ],
+        "Thành Phố Bắc Kạn": [
+            "Phường Nguyễn Thị Minh Khai",
+            "Phường Sông Cầu",
+            "Phường Đức Xuân",
+            "Phường Phùng Chí Kiên",
+            "Phường Huyền Tụng",
+            "Xã Dương Quang",
+            "Xã Nông Thượng",
+            "Phường Xuất Hóa"
         ]
     },
     "Tỉnh Tuyên Quang": {
@@ -3558,6 +3568,29 @@
             "Xã Cộng Hòa",
             "Xã Cẩm Hải",
             "Xã Dương Huy"
+        ],
+        "Thị xã Đông Triều": [
+            "Phường Mạo Khê",
+            "Phường Đông Triều",
+            "Xã An Sinh",
+            "Xã Tràng Lương",
+            "Xã Bình Khê",
+            "Xã Việt Dân",
+            "Xã Tân Việt",
+            "Xã Bình Dương",
+            "Phường Đức Chính",
+            "Xã Tràng An",
+            "Xã Nguyễn Huệ",
+            "Xã Thủy An",
+            "Phường Xuân Sơn",
+            "Xã Hồng Thái Tây",
+            "Xã Hồng Thái Đông",
+            "Xã Hoàng Quế",
+            "Xã Yên Thọ",
+            "Xã Hồng Phong",
+            "Phường Kim Sơn",
+            "Phường Hưng Đạo",
+            "Xã Yên Đức"
         ]
     },
     "Tỉnh Bắc Giang": {
@@ -9206,6 +9239,28 @@
             "Xã Sơn Viên",
             "Xã Quế Phước",
             "Xã Quế Lâm"
+        ],
+        "Thị xã Điện Bàn": [
+            "Phường Vĩnh Điện",
+            "Xã Điện Tiến",
+            "Xã Điện Hòa",
+            "Xã Điện Thắng Bắc",
+            "Xã Điện Thắng Trung",
+            "Xã Điện Thắng Nam",
+            "Phường Điện Ngọc",
+            "Xã Điện Hồng",
+            "Xã Điện Thọ",
+            "Xã Điện Phước",
+            "Phường Điện An",
+            "Phường Điện Nam Bắc",
+            "Phường Điện Nam Trung",
+            "Phường Điện Nam Đông",
+            "Phường Điện Dương",
+            "Xã Điện Quang",
+            "Xã Điện Trung",
+            "Xã Điện Phong",
+            "Xã Điện Minh",
+            "Xã Điện Phương"
         ]
     },
     "Tỉnh Quảng Ngãi": {
@@ -10462,6 +10517,11 @@
             "Xã Chư Hreng",
             "Xã Đắk Rơ Wa",
             "Xã Hòa Bình"
+        ],
+        "Huyện Ia H' Drai": [
+            "Xã Ia Đal",
+            "Xã Ia Dom",
+            "Xã Ia Tơi"
         ]
     },
     "Tỉnh Gia Lai": {

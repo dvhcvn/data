@@ -5295,8 +5295,8 @@
     "level2s": [
       {
         "level2_id": "058",
-        "name": "Thị xã Bắc Kạn",
-        "type": "Thị xã",
+        "name": "Thành Phố Bắc Kạn",
+        "type": "Thành phố",
         "level3s": [
           {
             "level3_id": "01834",
@@ -5320,8 +5320,8 @@
           },
           {
             "level3_id": "01846",
-            "name": "Xã Huyền Tụng",
-            "type": "Xã"
+            "name": "Phường Huyền Tụng",
+            "type": "Phường"
           },
           {
             "level3_id": "01849",
@@ -5335,8 +5335,8 @@
           },
           {
             "level3_id": "01855",
-            "name": "Xã Xuất Hoá",
-            "type": "Xã"
+            "name": "Phường Xuất Hóa",
+            "type": "Phường"
           }
         ]
       },
@@ -15140,18 +15140,18 @@
       },
       {
         "level2_id": "205",
-        "name": "Huyện Đông Triều",
-        "type": "Huyện",
+        "name": "Thị xã Đông Triều",
+        "type": "Thị xã",
         "level3s": [
           {
             "level3_id": "07069",
-            "name": "Thị trấn Mạo Khê",
-            "type": "Thị trấn"
+            "name": "Phường Mạo Khê",
+            "type": "Phường"
           },
           {
             "level3_id": "07072",
-            "name": "Thị trấn Đông Triều",
-            "type": "Thị trấn"
+            "name": "Phường Đông Triều",
+            "type": "Phường"
           },
           {
             "level3_id": "07075",
@@ -15185,8 +15185,8 @@
           },
           {
             "level3_id": "07093",
-            "name": "Xã Đức Chính",
-            "type": "Xã"
+            "name": "Phường Đức Chính",
+            "type": "Phường"
           },
           {
             "level3_id": "07096",
@@ -15205,8 +15205,8 @@
           },
           {
             "level3_id": "07105",
-            "name": "Xã Xuân Sơn",
-            "type": "Xã"
+            "name": "Phường Xuân Sơn",
+            "type": "Phường"
           },
           {
             "level3_id": "07108",
@@ -15235,13 +15235,13 @@
           },
           {
             "level3_id": "07123",
-            "name": "Xã Kim Sơn",
-            "type": "Xã"
+            "name": "Phường Kim Sơn",
+            "type": "Phường"
           },
           {
             "level3_id": "07126",
-            "name": "Xã Hưng Đạo",
-            "type": "Xã"
+            "name": "Phường Hưng Đạo",
+            "type": "Phường"
           },
           {
             "level3_id": "07129",
@@ -37538,13 +37538,13 @@
       },
       {
         "level2_id": "507",
-        "name": "Huyện Điện Bàn",
-        "type": "Huyện",
+        "name": "Thị xã Điện Bàn",
+        "type": "Thị xã",
         "level3s": [
           {
             "level3_id": "20551",
-            "name": "Thị trấn Vĩnh Điện",
-            "type": "Thị trấn"
+            "name": "Phường Vĩnh Điện",
+            "type": "Phường"
           },
           {
             "level3_id": "20554",
@@ -37573,8 +37573,8 @@
           },
           {
             "level3_id": "20563",
-            "name": "Xã Điện Ngọc",
-            "type": "Xã"
+            "name": "Phường Điện Ngọc",
+            "type": "Phường"
           },
           {
             "level3_id": "20566",
@@ -37593,28 +37593,28 @@
           },
           {
             "level3_id": "20575",
-            "name": "Xã Điện An",
-            "type": "Xã"
+            "name": "Phường Điện An",
+            "type": "Phường"
           },
           {
             "level3_id": "20578",
-            "name": "Xã Điện Nam Bắc",
-            "type": "Xã"
+            "name": "Phường Điện Nam Bắc",
+            "type": "Phường"
           },
           {
             "level3_id": "20579",
-            "name": "Xã Điện Nam Trung",
-            "type": "Xã"
+            "name": "Phường Điện Nam Trung",
+            "type": "Phường"
           },
           {
             "level3_id": "20580",
-            "name": "Xã Điện Nam Đông",
-            "type": "Xã"
+            "name": "Phường Điện Nam Đông",
+            "type": "Phường"
           },
           {
             "level3_id": "20581",
-            "name": "Xã Điện Dương",
-            "type": "Xã"
+            "name": "Phường Điện Dương",
+            "type": "Phường"
           },
           {
             "level3_id": "20584",
@@ -43386,23 +43386,8 @@
             "type": "Xã"
           },
           {
-            "level3_id": "23535",
-            "name": "Xã Ia Dal",
-            "type": "Xã"
-          },
-          {
             "level3_id": "23536",
             "name": "Xã Mô Rai",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "23537",
-            "name": "Xã Ia Dom",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "23538",
-            "name": "Xã Ia Tơi",
             "type": "Xã"
           },
           {
@@ -43495,6 +43480,28 @@
           {
             "level3_id": "23449",
             "name": "Xã Văn Xuôi",
+            "type": "Xã"
+          }
+        ]
+      },
+      {
+        "level2_id": "618",
+        "name": "Huyện Ia H' Drai",
+        "type": "Huyện",
+        "level3s": [
+          {
+            "level3_id": "23535",
+            "name": "Xã Ia Đal",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "23537",
+            "name": "Xã Ia Dom",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "23538",
+            "name": "Xã Ia Tơi",
             "type": "Xã"
           }
         ]
