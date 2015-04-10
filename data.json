@@ -26486,8 +26486,8 @@
       },
       {
         "level2_id": "370",
-        "name": "Thị xã Tam Điệp",
-        "type": "Thị xã",
+        "name": "Thành phố Tam Điệp",
+        "type": "Thành phố",
         "level3s": [
           {
             "level3_id": "14362",
@@ -26516,8 +26516,8 @@
           },
           {
             "level3_id": "14374",
-            "name": "Xã Yên Bình",
-            "type": "Xã"
+            "name": "Phường Yên Bình",
+            "type": "Phường"
           },
           {
             "level3_id": "14375",
@@ -34282,9 +34282,115 @@
       },
       {
         "level2_id": "447",
-        "name": "Huyện Kỳ Anh",
-        "type": "Huyện",
-        "level3s": []
+        "name": "Thị xã Kỳ Anh",
+        "type": "Thị xã",
+        "level3s": [
+          {
+            "level3_id": "18757",
+            "name": "Xã Kỳ Xuân",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "18760",
+            "name": "Xã Kỳ Bắc",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "18763",
+            "name": "Xã Kỳ Phú",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "18766",
+            "name": "Xã Kỳ Phong",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "18769",
+            "name": "Xã Kỳ Tiến",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "18772",
+            "name": "Xã Kỳ Giang",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "18775",
+            "name": "Xã Kỳ Đồng",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "18778",
+            "name": "Xã Kỳ Khang",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "18784",
+            "name": "Xã Kỳ Văn",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "18787",
+            "name": "Xã Kỳ Trung",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "18790",
+            "name": "Xã Kỳ Thọ",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "18793",
+            "name": "Xã Kỳ Tây",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "18799",
+            "name": "Xã Kỳ Thượng",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "18802",
+            "name": "Xã Kỳ Hải",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "18805",
+            "name": "Xã Kỳ Thư",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "18811",
+            "name": "Xã Kỳ Châu",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "18814",
+            "name": "Xã Kỳ Tân",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "18826",
+            "name": "Xã Kỳ Hợp",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "18838",
+            "name": "Xã Kỳ Lâm",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "18844",
+            "name": "Xã Kỳ Sơn",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "18850",
+            "name": "Xã Kỳ Lạc",
+            "type": "Xã"
+          }
+        ]
       },
       {
         "level2_id": "448",
@@ -34354,6 +34460,73 @@
           {
             "level3_id": "18670",
             "name": "Xã Mai Phụ",
+            "type": "Xã"
+          }
+        ]
+      },
+      {
+        "level2_id": "449",
+        "name": "Huyện Kỳ Anh",
+        "type": "Huyện",
+        "level3s": [
+          {
+            "level3_id": "18754",
+            "name": "Phường Sông Trí",
+            "type": "Phường"
+          },
+          {
+            "level3_id": "18781",
+            "name": "Xã Kỳ Ninh",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "18796",
+            "name": "Xã Kỳ Lợi",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "18808",
+            "name": "Xã Kỳ Hà",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "18817",
+            "name": "Xã Kỳ Hưng",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "18820",
+            "name": "Phường Kỳ Trinh",
+            "type": "Phường"
+          },
+          {
+            "level3_id": "18823",
+            "name": "Phường Kỳ Thịnh",
+            "type": "Phường"
+          },
+          {
+            "level3_id": "18829",
+            "name": "Xã Kỳ Hoa",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "18832",
+            "name": "Phường Kỳ Phương",
+            "type": "Phường"
+          },
+          {
+            "level3_id": "18835",
+            "name": "Phường Kỳ Long",
+            "type": "Phường"
+          },
+          {
+            "level3_id": "18841",
+            "name": "Phường Kỳ Liên",
+            "type": "Phường"
+          },
+          {
+            "level3_id": "18847",
+            "name": "Xã Kỳ Nam",
             "type": "Xã"
           }
         ]

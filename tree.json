@@ -6696,6 +6696,17 @@
             "Xã Ninh Sơn",
             "Phường Ninh Phong",
             "Phường Ninh Sơn"
+        ],
+        "Thành phố Tam Điệp": [
+            "Phường Bắc Sơn",
+            "Phường Trung Sơn",
+            "Phường Nam Sơn",
+            "Phường Tây Sơn",
+            "Xã Yên Sơn",
+            "Phường Yên Bình",
+            "Phường Tân Bình",
+            "Xã Quang Sơn",
+            "Xã Đông Sơn"
         ]
     },
     "Tỉnh Thanh Hóa": {
@@ -8234,7 +8245,20 @@
             "Xã Cẩm Lạc",
             "Xã Cẩm Minh"
         ],
-        "Huyện Kỳ Anh": [],
+        "Huyện Kỳ Anh": [
+            "Phường Sông Trí",
+            "Xã Kỳ Ninh",
+            "Xã Kỳ Lợi",
+            "Xã Kỳ Hà",
+            "Xã Kỳ Hưng",
+            "Phường Kỳ Trinh",
+            "Phường Kỳ Thịnh",
+            "Xã Kỳ Hoa",
+            "Phường Kỳ Phương",
+            "Phường Kỳ Long",
+            "Phường Kỳ Liên",
+            "Xã Kỳ Nam"
+        ],
         "Huyện Lộc Hà": [
             "Xã Tân Lộc",
             "Xã Hồng Lộc",
@@ -8267,6 +8291,29 @@
             "Xã Thạch Đồng",
             "Xã Thạch Hưng",
             "Xã Thạch Bình"
+        ],
+        "Thị xã Kỳ Anh": [
+            "Xã Kỳ Xuân",
+            "Xã Kỳ Bắc",
+            "Xã Kỳ Phú",
+            "Xã Kỳ Phong",
+            "Xã Kỳ Tiến",
+            "Xã Kỳ Giang",
+            "Xã Kỳ Đồng",
+            "Xã Kỳ Khang",
+            "Xã Kỳ Văn",
+            "Xã Kỳ Trung",
+            "Xã Kỳ Thọ",
+            "Xã Kỳ Tây",
+            "Xã Kỳ Thượng",
+            "Xã Kỳ Hải",
+            "Xã Kỳ Thư",
+            "Xã Kỳ Châu",
+            "Xã Kỳ Tân",
+            "Xã Kỳ Hợp",
+            "Xã Kỳ Lâm",
+            "Xã Kỳ Sơn",
+            "Xã Kỳ Lạc"
         ]
     },
     "Tỉnh Quảng Bình": {
