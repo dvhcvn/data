@@ -3023,6 +3023,39 @@
             "Xã Thanh Ninh",
             "Xã Dương Thành",
             "Xã Hà Châu"
+        ],
+        "Thành phố Sông Công": [
+            "Phường Lương Sơn",
+            "Phường Lương Châu",
+            "Phường Mỏ Chè",
+            "Phường Cải Đan",
+            "Phường Thắng Lợi",
+            "Phường Phố Cò",
+            "Xã Vinh Sơn",
+            "Xã Tân Quang",
+            "Phường Bách Quang",
+            "Xã Bình Sơn",
+            "Xã Bá Xuyên"
+        ],
+        "Thị xã Phổ Yên": [
+            "Phường Bãi Bông",
+            "Phường Bắc Sơn",
+            "Phường Ba Hàng",
+            "Xã Phúc Tân",
+            "Xã Phúc Thuận",
+            "Xã Hồng Tiến",
+            "Xã Minh Đức",
+            "Xã Đắc Sơn",
+            "Phường Đồng Tiến",
+            "Xã Thành Công",
+            "Xã Tiên Phong",
+            "Xã Vạn Phái",
+            "Xã Nam Tiến",
+            "Xã Tân Hương",
+            "Xã Đông Cao",
+            "Xã Trung Thành",
+            "Xã Tân Phú",
+            "Xã Thuận Thành"
         ]
     },
     "Tỉnh Lạng Sơn": {
@@ -6771,7 +6804,13 @@
             "Phường Trường Sơn",
             "Xã Quảng Cư",
             "Xã Quảng Tiến",
-            "Phường Quảng Tiến"
+            "Phường Quảng Tiến",
+            "Xã Quảng Minh",
+            "Xã Quảng Hùng",
+            "Xã Quảng Thọ",
+            "Xã Quảng Châu",
+            "Xã Quảng Vinh",
+            "Xã Quảng Đại"
         ],
         "Huyện Mường Lát": [
             "Thị trấn Mường Lát",
@@ -11565,6 +11604,18 @@
             "Xã Đồng Nơ",
             "Xã Tân Hiệp",
             "Xã Tân Quan"
+        ],
+        "Huyện Phú Riềng": [
+            "Xã Long Bình",
+            "Xã Bình Tân",
+            "Xã Bình Sơn",
+            "Xã Long Hưng",
+            "Xã Phước Tân",
+            "Xã Bù Nho",
+            "Xã Long Hà",
+            "Xã Long Tân",
+            "Xã Phú Trung",
+            "Xã Phú Riềng"
         ]
     },
     "Tỉnh Tây Ninh": {
@@ -13359,7 +13410,15 @@
             "Thị trấn Định An",
             "Xã Hàm Tân"
         ],
-        "Huyện Duyên Hải": [],
+        "Huyện Duyên Hải": [
+            "Phường 1",
+            "Xã Long Toàn",
+            "Phường 2",
+            "Xã Long Hữu",
+            "Xã Dân Thành",
+            "Xã Trường Long Hòa",
+            "Xã Hiệp Thạnh"
+        ],
         "Thành phố Trà Vinh": [
             "Phường 4",
             "Phường 1",
@@ -13371,6 +13430,15 @@
             "Phường 8",
             "Phường 9",
             "Xã Long Đức"
+        ],
+        "Thị xã Duyên Hải": [
+            "Xã Đôn Xuân",
+            "Xã Đôn Châu",
+            "Thị trấn Long Thành",
+            "Xã Long Khánh",
+            "Xã Ngũ Lạc",
+            "Xã Long Vĩnh",
+            "Xã Đông Hải"
         ]
     },
     "Tỉnh Vĩnh Long": {
@@ -14330,7 +14398,17 @@
             "Xã Vị Thanh",
             "Xã Vị Bình"
         ],
-        "Huyện Long Mỹ": [],
+        "Huyện Long Mỹ": [
+            "Phường Thuận An",
+            "Phường Trà Lồng",
+            "Phường Bình Thạnh",
+            "Xã Long Bình",
+            "Phường Vĩnh Tường",
+            "Xã Long Trị",
+            "Xã Long Trị A",
+            "Xã Long Phú",
+            "Xã Tân Phú"
+        ],
         "Thị xã Tân Hiệp": [
             "Phường Ngã Bảy",
             "Phường Lái Hiếu",
@@ -14357,6 +14435,16 @@
             "Xã Hoả Lựu",
             "Xã Tân Tiến",
             "Xã Hoả Tiến"
+        ],
+        "Thị xã Long Mỹ": [
+            "Xã Thuận Hưng",
+            "Xã Thuận Hòa",
+            "Xã Vĩnh Thuận Đông",
+            "Xã Vĩnh Viễn",
+            "Xã Vĩnh Viễn A",
+            "Xã Lương Tâm",
+            "Xã Lương Nghĩa",
+            "Xã Xà Phiên"
         ]
     },
     "Tỉnh Sóc Trăng": {
@@ -14643,6 +14731,18 @@
             "Xã Vĩnh Trạch",
             "Xã Vĩnh Trạch Đông",
             "Xã Hiệp Thành"
+        ],
+        "Thị xã Giá Rai": [
+            "Phường 1",
+            "Phường Hộ Phòng",
+            "Xã Phong Thạnh Đông",
+            "Phường Láng Tròn",
+            "Xã Phong Tân",
+            "Xã Tân Phong",
+            "Xã Phong Thạnh",
+            "Xã Phong Thạnh A",
+            "Xã Phong Thạnh Tây",
+            "Xã Tân Thạnh"
         ]
     },
     "Tỉnh Cà Mau": {
