@@ -8296,7 +8296,28 @@
             "Phường Kỳ Phương",
             "Phường Kỳ Long",
             "Phường Kỳ Liên",
-            "Xã Kỳ Nam"
+            "Xã Kỳ Nam",
+            "Xã Kỳ Xuân",
+            "Xã Kỳ Bắc",
+            "Xã Kỳ Phú",
+            "Xã Kỳ Phong",
+            "Xã Kỳ Tiến",
+            "Xã Kỳ Giang",
+            "Xã Kỳ Đồng",
+            "Xã Kỳ Khang",
+            "Xã Kỳ Văn",
+            "Xã Kỳ Trung",
+            "Xã Kỳ Thọ",
+            "Xã Kỳ Tây",
+            "Xã Kỳ Thượng",
+            "Xã Kỳ Hải",
+            "Xã Kỳ Thư",
+            "Xã Kỳ Châu",
+            "Xã Kỳ Tân",
+            "Xã Kỳ Hợp",
+            "Xã Kỳ Lâm",
+            "Xã Kỳ Sơn",
+            "Xã Kỳ Lạc"
         ],
         "Huyện Lộc Hà": [
             "Xã Tân Lộc",
@@ -8352,7 +8373,19 @@
             "Xã Kỳ Hợp",
             "Xã Kỳ Lâm",
             "Xã Kỳ Sơn",
-            "Xã Kỳ Lạc"
+            "Xã Kỳ Lạc",
+            "Phường Sông Trí",
+            "Xã Kỳ Ninh",
+            "Xã Kỳ Lợi",
+            "Xã Kỳ Hà",
+            "Xã Kỳ Hưng",
+            "Phường Kỳ Trinh",
+            "Phường Kỳ Thịnh",
+            "Xã Kỳ Hoa",
+            "Phường Kỳ Phương",
+            "Phường Kỳ Long",
+            "Phường Kỳ Liên",
+            "Xã Kỳ Nam"
         ]
     },
     "Tỉnh Quảng Bình": {
@@ -13417,7 +13450,14 @@
             "Xã Long Hữu",
             "Xã Dân Thành",
             "Xã Trường Long Hòa",
-            "Xã Hiệp Thạnh"
+            "Xã Hiệp Thạnh",
+            "Xã Đôn Xuân",
+            "Xã Đôn Châu",
+            "Thị trấn Long Thành",
+            "Xã Long Khánh",
+            "Xã Ngũ Lạc",
+            "Xã Long Vĩnh",
+            "Xã Đông Hải"
         ],
         "Thành phố Trà Vinh": [
             "Phường 4",
@@ -13438,7 +13478,14 @@
             "Xã Long Khánh",
             "Xã Ngũ Lạc",
             "Xã Long Vĩnh",
-            "Xã Đông Hải"
+            "Xã Đông Hải",
+            "Phường 1",
+            "Xã Long Toàn",
+            "Phường 2",
+            "Xã Long Hữu",
+            "Xã Dân Thành",
+            "Xã Trường Long Hòa",
+            "Xã Hiệp Thạnh"
         ]
     },
     "Tỉnh Vĩnh Long": {
@@ -14407,7 +14454,15 @@
             "Xã Long Trị",
             "Xã Long Trị A",
             "Xã Long Phú",
-            "Xã Tân Phú"
+            "Xã Tân Phú",
+            "Xã Thuận Hưng",
+            "Xã Thuận Hòa",
+            "Xã Vĩnh Thuận Đông",
+            "Xã Vĩnh Viễn",
+            "Xã Vĩnh Viễn A",
+            "Xã Lương Tâm",
+            "Xã Lương Nghĩa",
+            "Xã Xà Phiên"
         ],
         "Thị xã Tân Hiệp": [
             "Phường Ngã Bảy",
@@ -14444,7 +14499,16 @@
             "Xã Vĩnh Viễn A",
             "Xã Lương Tâm",
             "Xã Lương Nghĩa",
-            "Xã Xà Phiên"
+            "Xã Xà Phiên",
+            "Phường Thuận An",
+            "Phường Trà Lồng",
+            "Phường Bình Thạnh",
+            "Xã Long Bình",
+            "Phường Vĩnh Tường",
+            "Xã Long Trị",
+            "Xã Long Trị A",
+            "Xã Long Phú",
+            "Xã Tân Phú"
         ]
     },
     "Tỉnh Sóc Trăng": {
