@@ -27436,8 +27436,8 @@
       },
       {
         "level2_id": "382",
-        "name": "Thị xã Sầm Sơn",
-        "type": "Thị xã",
+        "name": "Thành phố Sầm Sơn",
+        "type": "Thành phố",
         "level3s": [
           {
             "level3_id": "14830",
@@ -27456,8 +27456,8 @@
           },
           {
             "level3_id": "14839",
-            "name": "Xã Quảng Cư",
-            "type": "Xã"
+            "name": "Phường Quảng Cư",
+            "type": "Phường"
           },
           {
             "level3_id": "14842",
@@ -27476,18 +27476,18 @@
           },
           {
             "level3_id": "16528",
-            "name": "Xã Quảng Thọ",
-            "type": "Xã"
+            "name": "Phường Quảng Thọ",
+            "type": "Phường"
           },
           {
             "level3_id": "16531",
-            "name": "Xã Quảng Châu",
-            "type": "Xã"
+            "name": "Phường Quảng Châu",
+            "type": "Phường"
           },
           {
             "level3_id": "16534",
-            "name": "Xã Quảng Vinh",
-            "type": "Xã"
+            "name": "Phường Quảng Vinh",
+            "type": "Phường"
           },
           {
             "level3_id": "16537",
