@@ -18145,8 +18145,8 @@
       },
       {
         "level2_id": "244",
-        "name": "Thị xã Phúc Yên",
-        "type": "Thị xã",
+        "name": "Thành phố Phúc Yên",
+        "type": "Thành phố",
         "level3s": [
           {
             "level3_id": "08734",
@@ -18190,13 +18190,13 @@
           },
           {
             "level3_id": "08755",
-            "name": "Xã Nam Viêm",
-            "type": "Xã"
+            "name": "Phường Nam Viêm",
+            "type": "Phường"
           },
           {
             "level3_id": "08758",
-            "name": "Xã Tiền Châu",
-            "type": "Xã"
+            "name": "Phường Tiền Châu",
+            "type": "Phường"
           }
         ]
       },
