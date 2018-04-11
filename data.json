@@ -47161,8 +47161,8 @@
           },
           {
             "level3_id": "25180",
-            "name": "Xã Phước Cát 1",
-            "type": "Xã"
+            "name": "Thị trấn Phước Cát ",
+            "type": "Thị trấn"
           },
           {
             "level3_id": "25183",
@@ -50240,13 +50240,13 @@
       },
       {
         "level2_id": "754",
-        "name": "Huyện Tân Thành",
-        "type": "Huyện",
+        "name": "Thị xã Phú Mỹ",
+        "type": "Thị xã",
         "level3s": [
           {
             "level3_id": "26704",
-            "name": "Thị trấn Phú Mỹ",
-            "type": "Thị trấn"
+            "name": "Phường Phú Mỹ",
+            "type": "Phường"
           },
           {
             "level3_id": "26707",
@@ -50260,18 +50260,18 @@
           },
           {
             "level3_id": "26713",
-            "name": "Xã Phước Hoà",
-            "type": "Xã"
+            "name": "Phường Phước Hoà",
+            "type": "Phường"
           },
           {
             "level3_id": "26716",
-            "name": "Xã Tân Phước",
-            "type": "Xã"
+            "name": "Phường Tân Phước",
+            "type": "Phường"
           },
           {
             "level3_id": "26719",
-            "name": "Xã Mỹ Xuân",
-            "type": "Xã"
+            "name": "Phường Mỹ Xuân",
+            "type": "Phường"
           },
           {
             "level3_id": "26722",
@@ -50280,8 +50280,8 @@
           },
           {
             "level3_id": "26725",
-            "name": "Xã Hắc Dịch",
-            "type": "Xã"
+            "name": "Phường Hắc Dịch",
+            "type": "Phường"
           },
           {
             "level3_id": "26728",
