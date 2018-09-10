@@ -57956,8 +57956,8 @@
       },
       {
         "level2_id": "900",
-        "name": "Thị xã Hà Tiên",
-        "type": "Thị xã",
+        "name": "Thành phố Hà Tiên",
+        "type": "Thành phố",
         "level3s": [
           {
             "level3_id": "30766",
@@ -57981,8 +57981,8 @@
           },
           {
             "level3_id": "30778",
-            "name": "Xã Mỹ Đức",
-            "type": "Xã"
+            "name": "Phường Mỹ Đức",
+            "type": "Phường"
           },
           {
             "level3_id": "30781",
