@@ -11670,7 +11670,8 @@
             "Xã Tân Khai",
             "Xã Đồng Nơ",
             "Xã Tân Hiệp",
-            "Xã Tân Quan"
+            "Xã Tân Quan",
+            "Thị trấn Tân Khai"
         ],
         "Huyện Phú Riềng": [
             "Xã Long Bình",
@@ -11683,6 +11684,16 @@
             "Xã Long Tân",
             "Xã Phú Trung",
             "Xã Phú Riềng"
+        ],
+        "Thành phố Đồng Xoài": [
+            "Phường Tân Phú",
+            "Phường Tân Đồng",
+            "Phường Tân Bình",
+            "Phường Tân Xuân",
+            "Phường Tân Thiện",
+            "Xã Tân Thành",
+            "Phường Tiến Thành",
+            "Xã Tiến Hưng"
         ]
     },
     "Tỉnh Tây Ninh": {

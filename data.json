@@ -47232,8 +47232,8 @@
       },
       {
         "level2_id": "689",
-        "name": "Thị xã Đồng Xoài",
-        "type": "Thị xã",
+        "name": "Thành phố Đồng Xoài",
+        "type": "Thành phố",
         "level3s": [
           {
             "level3_id": "25195",
@@ -47267,8 +47267,8 @@
           },
           {
             "level3_id": "25210",
-            "name": "Xã Tiến Thành",
-            "type": "Xã"
+            "name": "Phường Tiến Thành",
+            "type": "Phường"
           },
           {
             "level3_id": "25213",
@@ -47542,8 +47542,8 @@
           },
           {
             "level3_id": "25357",
-            "name": "Xã Tân Khai",
-            "type": "Xã"
+            "name": "Thị trấn Tân Khai",
+            "type": "Thị trấn"
           },
           {
             "level3_id": "25360",
