@@ -5366,6 +5366,27 @@
             "Xã Kênh Giang",
             "Xã Đồng Lạc",
             "Xã Tân Dân"
+        ],
+        "Thành phố Chí Linh": [
+            "Phường Phả Lại",
+            "Phường Sao Đỏ",
+            "Phường Bến Tắm",
+            "Xã Hoàng Hoa Thám",
+            "Xã Bắc An",
+            "Xã Hưng Đạo",
+            "Xã Lê Lợi",
+            "Phường Hoàng Tiến",
+            "Phường Cộng Hoà",
+            "Phường Hoàng Tân",
+            "Phường Cổ Thành",
+            "Phường Văn An",
+            "Phường Chí Minh",
+            "Phường Văn Đức",
+            "Phường Thái Học",
+            "Xã Nhân Huệ",
+            "Phường An Lạc",
+            "Phường Đồng Lạc",
+            "Phường Tân Dân"
         ]
     },
     "Thành phố Hải Phòng": {
@@ -13752,7 +13773,8 @@
             "Xã An Bình A",
             "Xã Long Thuận",
             "Xã Phú Thuận B",
-            "Xã Phú Thuận A"
+            "Xã Phú Thuận A",
+            "Thị trấn Thường Thới Tiền"
         ],
         "Huyện Tam Nông": [
             "Thị trấn Tràm Chim",

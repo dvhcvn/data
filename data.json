@@ -19653,8 +19653,8 @@
       },
       {
         "level2_id": "290",
-        "name": "Thị xã Chí Linh",
-        "type": "Thị xã",
+        "name": "Thành phố Chí Linh",
+        "type": "Thành phố",
         "level3s": [
           {
             "level3_id": "10546",
@@ -19693,8 +19693,8 @@
           },
           {
             "level3_id": "10567",
-            "name": "Xã Hoàng Tiến",
-            "type": "Xã"
+            "name": "Phường Hoàng Tiến",
+            "type": "Phường"
           },
           {
             "level3_id": "10570",
@@ -19708,8 +19708,8 @@
           },
           {
             "level3_id": "10576",
-            "name": "Xã Cổ Thành",
-            "type": "Xã"
+            "name": "Phường Cổ Thành",
+            "type": "Phường"
           },
           {
             "level3_id": "10579",
@@ -19723,8 +19723,8 @@
           },
           {
             "level3_id": "10585",
-            "name": "Xã Văn Đức",
-            "type": "Xã"
+            "name": "Phường Văn Đức",
+            "type": "Phường"
           },
           {
             "level3_id": "10588",
@@ -19738,23 +19738,18 @@
           },
           {
             "level3_id": "10594",
-            "name": "Xã An Lạc",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "10597",
-            "name": "Xã Kênh Giang",
-            "type": "Xã"
+            "name": "Phường An Lạc",
+            "type": "Phường"
           },
           {
             "level3_id": "10600",
-            "name": "Xã Đồng Lạc",
-            "type": "Xã"
+            "name": "Phường Đồng Lạc",
+            "type": "Phường"
           },
           {
             "level3_id": "10603",
-            "name": "Xã Tân Dân",
-            "type": "Xã"
+            "name": "Phường Tân Dân",
+            "type": "Phường"
           }
         ]
       },
@@ -56462,8 +56457,8 @@
           },
           {
             "level3_id": "29971",
-            "name": "Xã Thường Thới Tiền",
-            "type": "Xã"
+            "name": "Thị trấn Thường Thới Tiền",
+            "type": "Thị trấn"
           },
           {
             "level3_id": "29974",
