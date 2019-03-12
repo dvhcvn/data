@@ -22486,18 +22486,18 @@
       },
       {
         "level2_id": "328",
-        "name": "Huyện Mỹ Hào",
-        "type": "Huyện",
+        "name": "Thị xã Mỹ Hào",
+        "type": "Thị xã",
         "level3s": [
           {
             "level3_id": "12103",
-            "name": "Thị trấn Bần Yên Nhân",
-            "type": "Thị trấn"
+            "name": "Phường Bần Yên Nhân",
+            "type": "Phường"
           },
           {
             "level3_id": "12106",
-            "name": "Xã Phan Đình Phùng",
-            "type": "Xã"
+            "name": "Phường Phan Đình Phùng",
+            "type": "Phường"
           },
           {
             "level3_id": "12109",
@@ -22516,28 +22516,28 @@
           },
           {
             "level3_id": "12118",
-            "name": "Xã Nhân Hòa",
-            "type": "Xã"
+            "name": "Phường Nhân Hòa",
+            "type": "Phường"
           },
           {
             "level3_id": "12121",
-            "name": "Xã Dị Sử",
-            "type": "Xã"
+            "name": "Phường Dị Sử",
+            "type": "Phường"
           },
           {
             "level3_id": "12124",
-            "name": "Xã Bạch Sam",
-            "type": "Xã"
+            "name": "Phường Bạch Sam",
+            "type": "Phường"
           },
           {
             "level3_id": "12127",
-            "name": "Xã Minh Đức",
-            "type": "Xã"
+            "name": "Phường Minh Đức",
+            "type": "Phường"
           },
           {
             "level3_id": "12130",
-            "name": "Xã Phùng Chí Kiên",
-            "type": "Xã"
+            "name": "Phường Phùng Chí Kiên",
+            "type": "Phường"
           },
           {
             "level3_id": "12133",
