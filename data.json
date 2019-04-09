@@ -49051,8 +49051,8 @@
       },
       {
         "level2_id": "732",
-        "name": "Thị xã Long Khánh",
-        "type": "Thị xã",
+        "name": "Thành phố Long Khánh",
+        "type": "Thành phố",
         "level3s": [
           {
             "level3_id": "26071",
@@ -49096,23 +49096,23 @@
           },
           {
             "level3_id": "26095",
-            "name": "Xã Suối Tre",
-            "type": "Xã"
+            "name": "Phường Suối Tre",
+            "type": "Phường"
           },
           {
             "level3_id": "26098",
-            "name": "Xã Bảo Vinh",
-            "type": "Xã"
+            "name": "Phường Bảo Vinh",
+            "type": "Phường"
           },
           {
             "level3_id": "26101",
-            "name": "Xã Xuân Lập",
-            "type": "Xã"
+            "name": "Phường Xuân Lập",
+            "type": "Phường"
           },
           {
             "level3_id": "26104",
-            "name": "Xã Bàu Sen",
-            "type": "Xã"
+            "name": "Phường Bàu Sen",
+            "type": "Phường"
           },
           {
             "level3_id": "26107",
@@ -49121,8 +49121,8 @@
           },
           {
             "level3_id": "26110",
-            "name": "Xã Xuân Tân",
-            "type": "Xã"
+            "name": "Phường Xuân Tân",
+            "type": "Phường"
           },
           {
             "level3_id": "26113",
@@ -49641,11 +49641,6 @@
           {
             "level3_id": "26404",
             "name": "Xã Long An",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "26407",
-            "name": "Xã Suối Trầu",
             "type": "Xã"
           },
           {
