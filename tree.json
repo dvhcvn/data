@@ -1747,6 +1747,28 @@
             "Xã Cam Đường",
             "Xã Tả Phời",
             "Xã Hợp Thành"
+        ],
+        "Thị xã Sa Pa": [
+            "Phường Sa Pa",
+            "Phường Cầu Mây",
+            "Phường Hàm Rồng",
+            "Xã Ngũ Chỉ Sơn",
+            "Phường Phan Si Păng",
+            "Xã Trung Chải",
+            "Xã Tả Phìn",
+            "Phường Sa Pả",
+            "Phường Ô Quý Hồ",
+            "Xã Bản Phùng",
+            "Xã Hầu Thào",
+            "Xã Lao Chải",
+            "Xã Thanh Kim",
+            "Xã Suối Thầu",
+            "Xã Sử Pán",
+            "Xã Tả Van",
+            "Xã Thanh Phú",
+            "Xã Bản Hồ",
+            "Xã Nậm Sài",
+            "Xã Nậm Cang"
         ]
     },
     "Tỉnh Điện Biên": {
@@ -3629,7 +3651,11 @@
             "Xã Hồng Phong",
             "Phường Kim Sơn",
             "Phường Hưng Đạo",
-            "Xã Yên Đức"
+            "Xã Yên Đức",
+            "Phường Tràng An",
+            "Phường Hoàng Quế",
+            "Phường Yên Thọ",
+            "Phường Hồng Phong"
         ]
     },
     "Tỉnh Bắc Giang": {
@@ -5387,6 +5413,32 @@
             "Phường An Lạc",
             "Phường Đồng Lạc",
             "Phường Tân Dân"
+        ],
+        "Thị xã Kinh Môn": [
+            "Phường An Lưu",
+            "Xã Bạch Đằng",
+            "Phường Thất Hùng",
+            "Xã Lê Ninh",
+            "Xã Hoành Sơn",
+            "Phường Phạm Thái",
+            "Phường Duy Tân",
+            "Phường Tân Dân",
+            "Phường Minh Tân",
+            "Xã Quang Thành",
+            "Xã Hiệp Hòa",
+            "Xã Phạm Mệnh",
+            "Phường Phú Thứ",
+            "Xã Thăng Long",
+            "Xã Lạc Long",
+            "Xã An Sinh",
+            "Phường Hiệp Sơn",
+            "Xã Thượng Quận",
+            "Phường An Phụ",
+            "Phường Hiệp An",
+            "Phường Long Xuyên",
+            "Phường Thái Thịnh",
+            "Xã Hiến Thành",
+            "Xã Minh Hòa"
         ]
     },
     "Thành phố Hải Phòng": {
