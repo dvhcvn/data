@@ -28344,18 +28344,18 @@
       },
       {
         "level2_id": "407",
-        "name": "Huyện Tĩnh Gia",
-        "type": "Huyện",
+        "name": "Thị xã Nghi Sơn",
+        "type": "Thị xã",
         "level3s": [
           {
             "level3_id": "16561",
-            "name": "Thị trấn Tĩnh Gia",
-            "type": "Thị trấn"
+            "name": "Phường Hải Hòa",
+            "type": "Phường"
           },
           {
             "level3_id": "16564",
-            "name": "Xã Hải Châu",
-            "type": "Xã"
+            "name": "Phường Hải Châu",
+            "type": "Phường"
           },
           {
             "level3_id": "16567",
@@ -28369,8 +28369,8 @@
           },
           {
             "level3_id": "16576",
-            "name": "Xã Hải Ninh",
-            "type": "Xã"
+            "name": "Phường Hải Ninh",
+            "type": "Phường"
           },
           {
             "level3_id": "16579",
@@ -28384,8 +28384,8 @@
           },
           {
             "level3_id": "16585",
-            "name": "Xã Hải An",
-            "type": "Xã"
+            "name": "Phường Hải An",
+            "type": "Phường"
           },
           {
             "level3_id": "16591",
@@ -28394,13 +28394,13 @@
           },
           {
             "level3_id": "16594",
-            "name": "Xã Tân Dân",
-            "type": "Xã"
+            "name": "Phường Tân Dân",
+            "type": "Phường"
           },
           {
             "level3_id": "16597",
-            "name": "Xã Hải Lĩnh",
-            "type": "Xã"
+            "name": "Phường Hải Lĩnh",
+            "type": "Phường"
           },
           {
             "level3_id": "16600",
@@ -28414,13 +28414,13 @@
           },
           {
             "level3_id": "16606",
-            "name": "Xã Ninh Hải",
-            "type": "Xã"
+            "name": "Phường Ninh Hải",
+            "type": "Phường"
           },
           {
             "level3_id": "16609",
-            "name": "Xã Nguyên Bình",
-            "type": "Xã"
+            "name": "Phường Nguyên Bình",
+            "type": "Phường"
           },
           {
             "level3_id": "16612",
@@ -28429,13 +28429,13 @@
           },
           {
             "level3_id": "16618",
-            "name": "Xã Bình Minh",
-            "type": "Xã"
+            "name": "Phường Bình Minh",
+            "type": "Phường"
           },
           {
             "level3_id": "16621",
-            "name": "Xã Hải Thanh",
-            "type": "Xã"
+            "name": "Phường Hải Thanh",
+            "type": "Phường"
           },
           {
             "level3_id": "16624",
@@ -28444,18 +28444,18 @@
           },
           {
             "level3_id": "16627",
-            "name": "Xã Xuân Lâm",
-            "type": "Xã"
+            "name": "Phường Xuân Lâm",
+            "type": "Phường"
           },
           {
             "level3_id": "16630",
-            "name": "Xã Trúc Lâm",
-            "type": "Xã"
+            "name": "Phường Trúc Lâm",
+            "type": "Phường"
           },
           {
             "level3_id": "16633",
-            "name": "Xã Hải Bình",
-            "type": "Xã"
+            "name": "Phường Hải Bình",
+            "type": "Phường"
           },
           {
             "level3_id": "16636",
@@ -28469,13 +28469,13 @@
           },
           {
             "level3_id": "16642",
-            "name": "Xã Tĩnh Hải",
-            "type": "Xã"
+            "name": "Phường Tĩnh Hải",
+            "type": "Phường"
           },
           {
             "level3_id": "16645",
-            "name": "Xã Mai Lâm",
-            "type": "Xã"
+            "name": "Phường Mai Lâm",
+            "type": "Phường"
           },
           {
             "level3_id": "16648",
@@ -28489,8 +28489,8 @@
           },
           {
             "level3_id": "16654",
-            "name": "Xã Hải Thượng",
-            "type": "Xã"
+            "name": "Phường Hải Thượng",
+            "type": "Phường"
           },
           {
             "level3_id": "16657",
@@ -37270,18 +37270,18 @@
       },
       {
         "level2_id": "543",
-        "name": "Huyện Hoài Nhơn",
-        "type": "Huyện",
+        "name": "Thị xã Hoài Nhơn",
+        "type": "Thị xã",
         "level3s": [
           {
             "level3_id": "21637",
-            "name": "Thị trấn  Tam Quan",
-            "type": "Thị trấn"
+            "name": "Phường Tam Quan",
+            "type": "Phường"
           },
           {
             "level3_id": "21640",
-            "name": "Thị trấn Bồng Sơn",
-            "type": "Thị trấn"
+            "name": "Phường Bồng Sơn",
+            "type": "Phường"
           },
           {
             "level3_id": "21643",
@@ -37305,38 +37305,38 @@
           },
           {
             "level3_id": "21655",
-            "name": "Xã Tam Quan Bắc",
-            "type": "Xã"
+            "name": "Phường Tam Quan Bắc",
+            "type": "Phường"
           },
           {
             "level3_id": "21658",
-            "name": "Xã Tam Quan Nam",
-            "type": "Xã"
+            "name": "Phường Tam Quan Nam",
+            "type": "Phường"
           },
           {
             "level3_id": "21661",
-            "name": "Xã Hoài Hảo",
-            "type": "Xã"
+            "name": "Phường Hoài Hảo",
+            "type": "Phường"
           },
           {
             "level3_id": "21664",
-            "name": "Xã Hoài Thanh Tây",
-            "type": "Xã"
+            "name": "Phường Hoài Thanh Tây",
+            "type": "Phường"
           },
           {
             "level3_id": "21667",
-            "name": "Xã Hoài Thanh",
-            "type": "Xã"
+            "name": "Phường Hoài Thanh",
+            "type": "Phường"
           },
           {
             "level3_id": "21670",
-            "name": "Xã Hoài Hương",
-            "type": "Xã"
+            "name": "Phường Hoài Hương",
+            "type": "Phường"
           },
           {
             "level3_id": "21673",
-            "name": "Xã Hoài Tân",
-            "type": "Xã"
+            "name": "Phường Hoài Tân",
+            "type": "Phường"
           },
           {
             "level3_id": "21676",
@@ -37345,8 +37345,8 @@
           },
           {
             "level3_id": "21679",
-            "name": "Xã Hoài Xuân",
-            "type": "Xã"
+            "name": "Phường Hoài Xuân",
+            "type": "Phường"
           },
           {
             "level3_id": "21682",
@@ -37355,8 +37355,8 @@
           },
           {
             "level3_id": "21685",
-            "name": "Xã Hoài Đức",
-            "type": "Xã"
+            "name": "Phường Hoài Đức",
+            "type": "Phường"
           }
         ]
       },
@@ -38536,8 +38536,8 @@
       },
       {
         "level2_id": "564",
-        "name": "Huyện Đông Hòa",
-        "type": "Huyện",
+        "name": "Thị xã Đông Hòa",
+        "type": "Thị xã",
         "level3s": [
           {
             "level3_id": "22243",
@@ -38546,18 +38546,18 @@
           },
           {
             "level3_id": "22246",
-            "name": "Xã Hòa Hiệp Bắc",
-            "type": "Xã"
+            "name": "Phường Hòa Hiệp Bắc",
+            "type": "Phường"
           },
           {
             "level3_id": "22258",
-            "name": "Thị trấn Hoà Vinh",
-            "type": "Thị trấn"
+            "name": "Phường Hoà Vinh",
+            "type": "Phường"
           },
           {
             "level3_id": "22261",
-            "name": "Thị trấn Hoà Hiệp Trung",
-            "type": "Thị trấn"
+            "name": "Phường Hoà Hiệp Trung",
+            "type": "Phường"
           },
           {
             "level3_id": "22267",
@@ -38566,13 +38566,13 @@
           },
           {
             "level3_id": "22279",
-            "name": "Xã Hòa Xuân Tây",
-            "type": "Xã"
+            "name": "Phường Hòa Xuân Tây",
+            "type": "Phường"
           },
           {
             "level3_id": "22282",
-            "name": "Xã Hòa Hiệp Nam",
-            "type": "Xã"
+            "name": "Phường Hòa Hiệp Nam",
+            "type": "Phường"
           },
           {
             "level3_id": "22291",

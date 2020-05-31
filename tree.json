@@ -13631,10 +13631,19 @@
                 }
             ],
             "407": [
-                ["Huyện Tĩnh Gia"],
+                [
+                    "Huyện Tĩnh Gia",
+                    "Thị xã Nghi Sơn"
+                ],
                 {
-                    "16561": [["Thị trấn Tĩnh Gia"]],
-                    "16564": [["Xã Hải Châu"]],
+                    "16561": [[
+                            "Thị trấn Tĩnh Gia",
+                            "Phường Hải Hòa"
+                        ]],
+                    "16564": [[
+                            "Xã Hải Châu",
+                            "Phường Hải Châu"
+                        ]],
                     "16567": [["Xã Thanh Thủy"]],
                     "16570": [["Xã Thanh Sơn"]],
                     "16573": [
@@ -13642,41 +13651,83 @@
                         [],
                         "Deleted"
                     ],
-                    "16576": [["Xã Hải Ninh"]],
+                    "16576": [[
+                            "Xã Hải Ninh",
+                            "Phường Hải Ninh"
+                        ]],
                     "16579": [["Xã Anh Sơn"]],
                     "16582": [["Xã Ngọc Lĩnh"]],
-                    "16585": [["Xã Hải An"]],
+                    "16585": [[
+                            "Xã Hải An",
+                            "Phường Hải An"
+                        ]],
                     "16588": [
                         ["Xã Hùng Sơn"],
                         [],
                         "Deleted"
                     ],
                     "16591": [["Xã Các Sơn"]],
-                    "16594": [["Xã Tân Dân"]],
-                    "16597": [["Xã Hải Lĩnh"]],
+                    "16594": [[
+                            "Xã Tân Dân",
+                            "Phường Tân Dân"
+                        ]],
+                    "16597": [[
+                            "Xã Hải Lĩnh",
+                            "Phường Hải Lĩnh"
+                        ]],
                     "16600": [["Xã Định Hải"]],
                     "16603": [["Xã Phú Sơn"]],
-                    "16606": [["Xã Ninh Hải"]],
-                    "16609": [["Xã Nguyên Bình"]],
+                    "16606": [[
+                            "Xã Ninh Hải",
+                            "Phường Ninh Hải"
+                        ]],
+                    "16609": [[
+                            "Xã Nguyên Bình",
+                            "Phường Nguyên Bình"
+                        ]],
                     "16612": [["Xã Hải Nhân"]],
                     "16615": [
                         ["Xã Hải Hòa"],
                         [],
                         "Deleted"
                     ],
-                    "16618": [["Xã Bình Minh"]],
-                    "16621": [["Xã Hải Thanh"]],
+                    "16618": [[
+                            "Xã Bình Minh",
+                            "Phường Bình Minh"
+                        ]],
+                    "16621": [[
+                            "Xã Hải Thanh",
+                            "Phường Hải Thanh"
+                        ]],
                     "16624": [["Xã Phú Lâm"]],
-                    "16627": [["Xã Xuân Lâm"]],
-                    "16630": [["Xã Trúc Lâm"]],
-                    "16633": [["Xã Hải Bình"]],
+                    "16627": [[
+                            "Xã Xuân Lâm",
+                            "Phường Xuân Lâm"
+                        ]],
+                    "16630": [[
+                            "Xã Trúc Lâm",
+                            "Phường Trúc Lâm"
+                        ]],
+                    "16633": [[
+                            "Xã Hải Bình",
+                            "Phường Hải Bình"
+                        ]],
                     "16636": [["Xã Tân Trường"]],
                     "16639": [["Xã Tùng Lâm"]],
-                    "16642": [["Xã Tĩnh Hải"]],
-                    "16645": [["Xã Mai Lâm"]],
+                    "16642": [[
+                            "Xã Tĩnh Hải",
+                            "Phường Tĩnh Hải"
+                        ]],
+                    "16645": [[
+                            "Xã Mai Lâm",
+                            "Phường Mai Lâm"
+                        ]],
                     "16648": [["Xã Trường Lâm"]],
                     "16651": [["Xã Hải Yến"]],
-                    "16654": [["Xã Hải Thượng"]],
+                    "16654": [[
+                            "Xã Hải Thượng",
+                            "Phường Hải Thượng"
+                        ]],
                     "16657": [["Xã Nghi Sơn"]],
                     "16660": [["Xã Hải Hà"]]
                 }
@@ -17202,25 +17253,61 @@
                 }
             ],
             "543": [
-                ["Huyện Hoài Nhơn"],
+                [
+                    "Huyện Hoài Nhơn",
+                    "Thị xã Hoài Nhơn"
+                ],
                 {
-                    "21637": [["Thị trấn  Tam Quan"]],
-                    "21640": [["Thị trấn Bồng Sơn"]],
+                    "21637": [[
+                            "Thị trấn  Tam Quan",
+                            "Phường Tam Quan"
+                        ]],
+                    "21640": [[
+                            "Thị trấn Bồng Sơn",
+                            "Phường Bồng Sơn"
+                        ]],
                     "21643": [["Xã Hoài Sơn"]],
                     "21646": [["Xã Hoài Châu Bắc"]],
                     "21649": [["Xã Hoài Châu"]],
                     "21652": [["Xã Hoài Phú"]],
-                    "21655": [["Xã Tam Quan Bắc"]],
-                    "21658": [["Xã Tam Quan Nam"]],
-                    "21661": [["Xã Hoài Hảo"]],
-                    "21664": [["Xã Hoài Thanh Tây"]],
-                    "21667": [["Xã Hoài Thanh"]],
-                    "21670": [["Xã Hoài Hương"]],
-                    "21673": [["Xã Hoài Tân"]],
+                    "21655": [[
+                            "Xã Tam Quan Bắc",
+                            "Phường Tam Quan Bắc"
+                        ]],
+                    "21658": [[
+                            "Xã Tam Quan Nam",
+                            "Phường Tam Quan Nam"
+                        ]],
+                    "21661": [[
+                            "Xã Hoài Hảo",
+                            "Phường Hoài Hảo"
+                        ]],
+                    "21664": [[
+                            "Xã Hoài Thanh Tây",
+                            "Phường Hoài Thanh Tây"
+                        ]],
+                    "21667": [[
+                            "Xã Hoài Thanh",
+                            "Phường Hoài Thanh"
+                        ]],
+                    "21670": [[
+                            "Xã Hoài Hương",
+                            "Phường Hoài Hương"
+                        ]],
+                    "21673": [[
+                            "Xã Hoài Tân",
+                            "Phường Hoài Tân"
+                        ]],
                     "21676": [["Xã Hoài Hải"]],
-                    "21679": [["Xã Hoài Xuân"]],
+                    "21679": [[
+                            "Xã Hoài Xuân",
+                            "Phường Hoài Xuân"
+                        ]],
                     "21682": [["Xã Hoài Mỹ"]],
-                    "21685": [["Xã Hoài Đức"]]
+                    "21685": [[
+                            "Xã Hoài Đức",
+                            "Phường Hoài Đức"
+                        ]]
                 }
             ],
             "544": [
@@ -17642,21 +17729,35 @@
                 }
             ],
             "564": [
-                ["Huyện Đông Hòa"],
+                [
+                    "Huyện Đông Hòa",
+                    "Thị xã Đông Hòa"
+                ],
                 {
                     "22243": [["Xã Hòa Thành"]],
-                    "22246": [["Xã Hòa Hiệp Bắc"]],
+                    "22246": [[
+                            "Xã Hòa Hiệp Bắc",
+                            "Phường Hòa Hiệp Bắc"
+                        ]],
                     "22258": [[
                             "Xã Hòa Vinh",
-                            "Thị trấn Hoà Vinh"
+                            "Thị trấn Hoà Vinh",
+                            "Phường Hoà Vinh"
                         ]],
                     "22261": [[
                             "Xã Hòa Hiệp Trung",
-                            "Thị trấn Hoà Hiệp Trung"
+                            "Thị trấn Hoà Hiệp Trung",
+                            "Phường Hoà Hiệp Trung"
                         ]],
                     "22267": [["Xã Hòa Tân Đông"]],
-                    "22279": [["Xã Hòa Xuân Tây"]],
-                    "22282": [["Xã Hòa Hiệp Nam"]],
+                    "22279": [[
+                            "Xã Hòa Xuân Tây",
+                            "Phường Hòa Xuân Tây"
+                        ]],
+                    "22282": [[
+                            "Xã Hòa Hiệp Nam",
+                            "Phường Hòa Hiệp Nam"
+                        ]],
                     "22291": [["Xã Hòa Xuân Đông"]],
                     "22297": [["Xã Hòa Tâm"]],
                     "22300": [["Xã Hòa Xuân Nam"]]
