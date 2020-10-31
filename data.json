@@ -7058,7 +7058,7 @@
           {
             "level3_id": "03016",
             "name": "Phường Hàm Rồng",
-            "type": "Phường"
+            "type": "Xã"
           },
           {
             "level3_id": "03019",
@@ -53585,8 +53585,8 @@
       },
       {
         "level2_id": "868",
-        "name": "Thị xã Hồng Ngự",
-        "type": "Thị xã",
+        "name": "Thành phố Hồng Ngự",
+        "type": "Thành phố",
         "level3s": [
           {
             "level3_id": "29954",
@@ -53615,13 +53615,13 @@
           },
           {
             "level3_id": "29986",
-            "name": "Xã An Bình B",
-            "type": "Xã"
+            "name": "Phường An Bình B",
+            "type": "Phường"
           },
           {
             "level3_id": "29989",
-            "name": "Xã An Bình A",
-            "type": "Xã"
+            "name": "Phường An Bình A",
+            "type": "Phường"
           }
         ]
       },

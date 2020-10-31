@@ -23067,15 +23067,24 @@
                 }
             ],
             "868": [
-                ["Thị xã Hồng Ngự"],
+                [
+                    "Thị xã Hồng Ngự",
+                    "Thành phố Hồng Ngự"
+                ],
                 {
                     "29954": [["Phường An Lộc"]],
                     "29955": [["Phường An Thạnh"]],
                     "29959": [["Xã Bình Thạnh"]],
                     "29965": [["Xã Tân Hội"]],
                     "29978": [["Phường An Lạc"]],
-                    "29986": [["Xã An Bình B"]],
-                    "29989": [["Xã An Bình A"]]
+                    "29986": [[
+                            "Xã An Bình B",
+                            "Phường An Bình B"
+                        ]],
+                    "29989": [[
+                            "Xã An Bình A",
+                            "Phường An Bình A"
+                        ]]
                 }
             ]
         }
