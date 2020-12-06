@@ -1,13 +1,12 @@
 # Thông tin về các đơn vị hành chính Việt Nam qua từng năm
 
-Dữ liệu được cập nhật từ trang [Đơn vị hành chính](https://www.gso.gov.vn/dmhc2015/) của Tổng cục thống kê.
+Dữ liệu được cập nhật từ trang [Danh mục hành chính](https://danhmuchanhchinh.gso.gov.vn) của Tổng cục thống kê.
 
 ## Các tập dữ liệu
 
 ### data.json
 
-Thông tin 3 cấp đơn vị hành chính trả về từ [web service của TCTK](https://www.gso.gov.vn/dmhc2015/WebService.aspx)
-được lấy bằng đoạn mã của [daohoangson/dvhcvn](https://github.com/daohoangson/dvhcvn):
+Thông tin 3 cấp đơn vị hành chính được thu thập bởi [daohoangson/dvhcvn](https://github.com/daohoangson/dvhcvn):
 
 - Tỉnh thành:
   - `level1_id`
@@ -113,5 +112,5 @@ Thông tin cả cũ và mới đều có trong `tree.json`:
 
 ## Nguồn tham khảo
 
-- Tổng cục thống kê https://www.gso.gov.vn/dmhc2015/
+- Tổng cục thống kê https://danhmuchanhchinh.gso.gov.vn
 - https://github.com/daohoangson/dvhcvn/tree/master/history
