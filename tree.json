@@ -4096,7 +4096,10 @@
                         "Deleted"
                     ],
                     "04813": [["Xã Yên Mông"]],
-                    "04816": [["Xã Sủ Ngòi"]],
+                    "04816": [[
+                            "Xã Sủ Ngòi",
+                            "Phường Quỳnh Lâm"
+                        ]],
                     "04819": [[
                             "Xã Dân Chủ",
                             "Phường Dân Chủ"
@@ -4111,7 +4114,10 @@
                             "Xã Thống Nhất",
                             "Phường Thống Nhất"
                         ]],
-                    "04918": [["Xã Trung Minh"]],
+                    "04918": [[
+                            "Xã Trung Minh",
+                            "Phường Trung Minh"
+                        ]],
                     "04897": [[
                             "Xã Phú Minh",
                             "Xã Thịnh Minh"
@@ -7793,10 +7799,22 @@
                             "Thị trấn Từ Sơn",
                             "Phường Đông Ngàn"
                         ]],
-                    "09370": [["Xã Tam Sơn"]],
-                    "09373": [["Xã Hương Mạc"]],
-                    "09376": [["Xã Tương Giang"]],
-                    "09379": [["Xã Phù Khê"]],
+                    "09370": [[
+                            "Xã Tam Sơn",
+                            "Phường Tam Sơn"
+                        ]],
+                    "09373": [[
+                            "Xã Hương Mạc",
+                            "Phường Hương Mạc"
+                        ]],
+                    "09376": [[
+                            "Xã Tương Giang",
+                            "Phường Tương Giang"
+                        ]],
+                    "09379": [[
+                            "Xã Phù Khê",
+                            "Phường Phù Khê"
+                        ]],
                     "09382": [[
                             "Xã Đồng Quang",
                             "Phường Đồng Kỵ"
@@ -7817,7 +7835,10 @@
                             "Xã Đình Bảng",
                             "Phường Đình Bảng"
                         ]],
-                    "09397": [["Xã Phù Chẩn"]],
+                    "09397": [[
+                            "Xã Phù Chẩn",
+                            "Phường Phù Chẩn"
+                        ]],
                     "09383": [["Phường Trang Hạ"]]
                 }
             ],
@@ -12341,8 +12362,14 @@
                             "Phường Quảng Thành"
                         ]],
                     "15850": [["Xã Thiệu Vân"]],
-                    "15856": [["Xã Thiệu Khánh"]],
-                    "15859": [["Xã Thiệu Dương"]],
+                    "15856": [[
+                            "Xã Thiệu Khánh",
+                            "Phường Thiệu Khánh"
+                        ]],
+                    "15859": [[
+                            "Xã Thiệu Dương",
+                            "Phường Thiệu Dương"
+                        ]],
                     "15868": [
                         ["Phường Tào Xuyên"],
                         [],
@@ -12354,7 +12381,8 @@
                         ]],
                     "15922": [[
                             "Xã Hoằng Long",
-                            "Xã Long Anh"
+                            "Xã Long Anh",
+                            "Phường Long Anh"
                         ]],
                     "15925": [["Xã Hoằng Quang"]],
                     "15970": [["Xã Hoằng Đại"]],
@@ -12368,18 +12396,39 @@
                         [],
                         "Deleted"
                     ],
-                    "16396": [["Xã Đông Lĩnh"]],
+                    "16396": [[
+                            "Xã Đông Lĩnh",
+                            "Phường Đông Lĩnh"
+                        ]],
                     "16429": [["Xã Đông Vinh"]],
-                    "16432": [["Xã Đông Tân"]],
+                    "16432": [[
+                            "Xã Đông Tân",
+                            "Phường Đông Tân"
+                        ]],
                     "16435": [[
                             "Xã Đông Hưng",
                             "Phường An Hưng"
                         ]],
-                    "16441": [["Xã Quảng Thịnh"]],
-                    "16459": [["Xã Quảng Đông"]],
-                    "16507": [["Xã Quảng Cát"]],
-                    "16522": [["Xã Quảng Phú"]],
-                    "16525": [["Xã Quảng Tâm"]]
+                    "16441": [[
+                            "Xã Quảng Thịnh",
+                            "Phường Quảng Thịnh"
+                        ]],
+                    "16459": [[
+                            "Xã Quảng Đông",
+                            "Phường Quảng Đông"
+                        ]],
+                    "16507": [[
+                            "Xã Quảng Cát",
+                            "Phường Quảng Cát"
+                        ]],
+                    "16522": [[
+                            "Xã Quảng Phú",
+                            "Phường Quảng Phú"
+                        ]],
+                    "16525": [[
+                            "Xã Quảng Tâm",
+                            "Phường Quảng Tâm"
+                        ]]
                 }
             ],
             "381": [
@@ -17426,7 +17475,10 @@
                     "21889": [["Xã Cát Hưng"]],
                     "21892": [["Xã Cát Tường"]],
                     "21895": [["Xã Cát Tân"]],
-                    "21898": [["Xã Cát Tiến"]],
+                    "21898": [[
+                            "Xã Cát Tiến",
+                            "Thị trấn Cát Tiến"
+                        ]],
                     "21901": [["Xã Cát Thắng"]],
                     "21904": [["Xã Cát Chánh"]]
                 }
@@ -20611,7 +20663,10 @@
                 {
                     "25894": [["Xã Tân Định"]],
                     "25897": [["Xã Bình Mỹ"]],
-                    "25900": [["Xã Tân Bình"]],
+                    "25900": [[
+                            "Xã Tân Bình",
+                            "Thị trấn Tân Bình"
+                        ]],
                     "25903": [["Xã Tân Lập"]],
                     "25906": [[
                             "Xã Tân Thành",
@@ -23402,7 +23457,10 @@
                     "30469": [["Xã Mỹ Đức"]],
                     "30472": [["Xã Mỹ Phú"]],
                     "30475": [["Xã Ô Long Vỹ"]],
-                    "30478": [["Xã Vĩnh Thạnh Trung"]],
+                    "30478": [[
+                            "Xã Vĩnh Thạnh Trung",
+                            "Thị trấn Vĩnh Thạnh Trung"
+                        ]],
                     "30481": [["Xã Thạnh Mỹ Tây"]],
                     "30484": [["Xã Bình Long"]],
                     "30487": [["Xã Bình Mỹ"]],
@@ -23449,7 +23507,10 @@
                     "30571": [["Xã Tà Đảnh"]],
                     "30574": [["Xã Núi Tô"]],
                     "30577": [["Xã An Tức"]],
-                    "30580": [["Xã Cô Tô"]],
+                    "30580": [[
+                            "Xã Cô Tô",
+                            "Thị trấn Cô Tô"
+                        ]],
                     "30583": [["Xã Tân Tuyến"]],
                     "30586": [["Xã Ô Lâm"]]
                 }
@@ -23462,7 +23523,10 @@
                     "30595": [["Xã Cần Đăng"]],
                     "30598": [["Xã Vĩnh Hanh"]],
                     "30601": [["Xã Bình Thạnh"]],
-                    "30604": [["Xã Vĩnh Bình"]],
+                    "30604": [[
+                            "Xã Vĩnh Bình",
+                            "Thị trấn Vĩnh Bình"
+                        ]],
                     "30607": [["Xã Bình Hòa"]],
                     "30610": [["Xã Vĩnh An"]],
                     "30613": [["Xã Hòa Bình Thạnh"]],
