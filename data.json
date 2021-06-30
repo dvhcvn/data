@@ -5754,8 +5754,8 @@
           },
           {
             "level3_id": "02266",
-            "name": "Xã Lăng Can",
-            "type": "Xã"
+            "name": "Thị trấn Lăng Can",
+            "type": "Thị trấn"
           },
           {
             "level3_id": "02269",
@@ -5775,6 +5775,16 @@
           {
             "level3_id": "02296",
             "name": "Xã Thổ Bình",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "02299",
+            "name": "Xã Phúc Sơn",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "02302",
+            "name": "Xã Minh Quang",
             "type": "Xã"
           }
         ]
@@ -5855,16 +5865,6 @@
             "level3_id": "02287",
             "name": "Thị trấn Vĩnh Lộc",
             "type": "Thị trấn"
-          },
-          {
-            "level3_id": "02299",
-            "name": "Xã Phúc Sơn",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "02302",
-            "name": "Xã Minh Quang",
-            "type": "Xã"
           },
           {
             "level3_id": "02305",
@@ -6157,8 +6157,8 @@
           },
           {
             "level3_id": "02473",
-            "name": "Xã Thắng Quân",
-            "type": "Xã"
+            "name": "Thị trấn Yên Sơn",
+            "type": "Thị trấn"
           },
           {
             "level3_id": "02476",
@@ -7058,7 +7058,7 @@
           {
             "level3_id": "03016",
             "name": "Phường Hàm Rồng",
-            "type": "Xã"
+            "type": "Phường"
           },
           {
             "level3_id": "03019",
@@ -26693,8 +26693,8 @@
           },
           {
             "level3_id": "15403",
-            "name": "Xã Yên Lâm",
-            "type": "Xã"
+            "name": "Thị trấn Yên Lâm",
+            "type": "Thị trấn"
           },
           {
             "level3_id": "15406",
@@ -26708,8 +26708,8 @@
           },
           {
             "level3_id": "15412",
-            "name": "Xã Quí Lộc",
-            "type": "Xã"
+            "name": "Thị trấn Quý Lộc",
+            "type": "Thị trấn"
           },
           {
             "level3_id": "15415",
@@ -46865,8 +46865,8 @@
           },
           {
             "level3_id": "26341",
-            "name": "Xã Long Giao",
-            "type": "Xã"
+            "name": "Thị trấn Long Giao",
+            "type": "Thị trấn"
           },
           {
             "level3_id": "26344",
