@@ -17911,8 +17911,8 @@
       },
       {
         "level2_id": "261",
-        "name": "Thị xã Từ Sơn",
-        "type": "Thị xã",
+        "name": "Thành phố Từ Sơn",
+        "type": "Thành phố",
         "level3s": [
           {
             "level3_id": "09367",
@@ -33668,16 +33668,6 @@
         "type": "Thành phố",
         "level3s": [
           {
-            "level3_id": "19744",
-            "name": "Phường Phú Thuận",
-            "type": "Phường"
-          },
-          {
-            "level3_id": "19747",
-            "name": "Phường Phú Bình",
-            "type": "Phường"
-          },
-          {
             "level3_id": "19750",
             "name": "Phường Tây Lộc",
             "type": "Phường"
@@ -33689,7 +33679,7 @@
           },
           {
             "level3_id": "19756",
-            "name": "Phường Phú Hiệp",
+            "name": "Phường Gia Hội",
             "type": "Phường"
           },
           {
@@ -33703,18 +33693,8 @@
             "type": "Phường"
           },
           {
-            "level3_id": "19765",
-            "name": "Phường Thuận Thành",
-            "type": "Phường"
-          },
-          {
             "level3_id": "19768",
-            "name": "Phường Phú Hòa",
-            "type": "Phường"
-          },
-          {
-            "level3_id": "19771",
-            "name": "Phường Phú Cát",
+            "name": "Phường Đông Ba",
             "type": "Phường"
           },
           {
@@ -33801,6 +33781,71 @@
             "level3_id": "19816",
             "name": "Phường An Tây",
             "type": "Phường"
+          },
+          {
+            "level3_id": "19900",
+            "name": "Phường Thuận An",
+            "type": "Phường"
+          },
+          {
+            "level3_id": "19906",
+            "name": "Xã Phú Dương",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "19909",
+            "name": "Xã Phú Mậu",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "19924",
+            "name": "Xã Phú Thanh",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "19930",
+            "name": "Phường Phú Thượng",
+            "type": "Phường"
+          },
+          {
+            "level3_id": "19963",
+            "name": "Phường Thủy Vân",
+            "type": "Phường"
+          },
+          {
+            "level3_id": "19981",
+            "name": "Xã Thủy Bằng",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "19999",
+            "name": "Xã Hải Dương",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "20002",
+            "name": "Xã Hương Phong",
+            "type": "Xã"
+          },
+          {
+            "level3_id": "20014",
+            "name": "Phường Hương Vinh",
+            "type": "Phường"
+          },
+          {
+            "level3_id": "20023",
+            "name": "Phường Hương An",
+            "type": "Phường"
+          },
+          {
+            "level3_id": "20029",
+            "name": "Phường Hương Hồ",
+            "type": "Phường"
+          },
+          {
+            "level3_id": "20032",
+            "name": "Xã Hương Thọ",
+            "type": "Xã"
           }
         ]
       },
@@ -33959,23 +34004,8 @@
         "type": "Huyện",
         "level3s": [
           {
-            "level3_id": "19900",
-            "name": "Thị trấn Thuận An",
-            "type": "Thị trấn"
-          },
-          {
             "level3_id": "19903",
             "name": "Xã Phú Thuận",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "19906",
-            "name": "Xã Phú Dương",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "19909",
-            "name": "Xã Phú Mậu",
             "type": "Xã"
           },
           {
@@ -33999,18 +34029,8 @@
             "type": "Xã"
           },
           {
-            "level3_id": "19924",
-            "name": "Xã Phú Thanh",
-            "type": "Xã"
-          },
-          {
             "level3_id": "19927",
             "name": "Xã Phú Mỹ",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "19930",
-            "name": "Xã Phú Thượng",
             "type": "Xã"
           },
           {
@@ -34066,11 +34086,6 @@
             "type": "Phường"
           },
           {
-            "level3_id": "19963",
-            "name": "Xã Thủy Vân",
-            "type": "Xã"
-          },
-          {
             "level3_id": "19966",
             "name": "Xã Thủy Thanh",
             "type": "Xã"
@@ -34094,11 +34109,6 @@
             "level3_id": "19978",
             "name": "Phường Thủy Lương",
             "type": "Phường"
-          },
-          {
-            "level3_id": "19981",
-            "name": "Xã Thủy Bằng",
-            "type": "Xã"
           },
           {
             "level3_id": "19984",
@@ -34133,16 +34143,6 @@
             "type": "Phường"
           },
           {
-            "level3_id": "19999",
-            "name": "Xã Hải Dương",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "20002",
-            "name": "Xã Hương Phong",
-            "type": "Xã"
-          },
-          {
             "level3_id": "20005",
             "name": "Xã Hương Toàn",
             "type": "Xã"
@@ -34158,11 +34158,6 @@
             "type": "Phường"
           },
           {
-            "level3_id": "20014",
-            "name": "Xã Hương Vinh",
-            "type": "Xã"
-          },
-          {
             "level3_id": "20017",
             "name": "Phường Hương Xuân",
             "type": "Phường"
@@ -34173,23 +34168,8 @@
             "type": "Phường"
           },
           {
-            "level3_id": "20023",
-            "name": "Phường Hương An",
-            "type": "Phường"
-          },
-          {
             "level3_id": "20026",
             "name": "Xã Hương Bình",
-            "type": "Xã"
-          },
-          {
-            "level3_id": "20029",
-            "name": "Phường Hương Hồ",
-            "type": "Phường"
-          },
-          {
-            "level3_id": "20032",
-            "name": "Xã Hương Thọ",
             "type": "Xã"
           },
           {
