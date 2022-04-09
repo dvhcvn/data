@@ -12170,8 +12170,8 @@
       },
       {
         "level2_id": "172",
-        "name": "Thị xã Phổ Yên",
-        "type": "Thị xã",
+        "name": "Thành phố Phổ Yên",
+        "type": "Thành phố",
         "level3s": [
           {
             "level3_id": "05854",
@@ -12200,8 +12200,8 @@
           },
           {
             "level3_id": "05869",
-            "name": "Xã Hồng Tiến",
-            "type": "Xã"
+            "name": "Phường Hồng Tiến",
+            "type": "Phường"
           },
           {
             "level3_id": "05872",
@@ -12210,8 +12210,8 @@
           },
           {
             "level3_id": "05875",
-            "name": "Xã Đắc Sơn",
-            "type": "Xã"
+            "name": "Phường Đắc Sơn",
+            "type": "Phường"
           },
           {
             "level3_id": "05878",
@@ -12225,8 +12225,8 @@
           },
           {
             "level3_id": "05884",
-            "name": "Xã Tiên Phong",
-            "type": "Xã"
+            "name": "Phường Tiên Phong",
+            "type": "Phường"
           },
           {
             "level3_id": "05887",
@@ -12235,33 +12235,33 @@
           },
           {
             "level3_id": "05890",
-            "name": "Xã Nam Tiến",
-            "type": "Xã"
+            "name": "Phường Nam Tiến",
+            "type": "Phường"
           },
           {
             "level3_id": "05893",
-            "name": "Xã Tân Hương",
-            "type": "Xã"
+            "name": "Phường Tân Hương",
+            "type": "Phường"
           },
           {
             "level3_id": "05896",
-            "name": "Xã Đông Cao",
-            "type": "Xã"
+            "name": "Phường Đông Cao",
+            "type": "Phường"
           },
           {
             "level3_id": "05899",
-            "name": "Xã Trung Thành",
-            "type": "Xã"
+            "name": "Phường Trung Thành",
+            "type": "Phường"
           },
           {
             "level3_id": "05902",
-            "name": "Xã Tân Phú",
-            "type": "Xã"
+            "name": "Phường Tân Phú",
+            "type": "Phường"
           },
           {
             "level3_id": "05905",
-            "name": "Xã Thuận Thành",
-            "type": "Xã"
+            "name": "Phường Thuận Thành",
+            "type": "Phường"
           }
         ]
       },
@@ -19583,6 +19583,11 @@
             "type": "Phường"
           },
           {
+            "level3_id": "11344",
+            "name": "Phường Cầu Đất",
+            "type": "Phường"
+          },
+          {
             "level3_id": "11347",
             "name": "Phường Gia Viên",
             "type": "Phường"
@@ -19590,11 +19595,6 @@
           {
             "level3_id": "11350",
             "name": "Phường Đông Khê",
-            "type": "Phường"
-          },
-          {
-            "level3_id": "11353",
-            "name": "Phường Cầu Đất",
             "type": "Phường"
           },
           {

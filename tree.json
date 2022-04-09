@@ -5062,7 +5062,8 @@
             "172": [
                 [
                     "Huyện Phổ Yên",
-                    "Thị xã Phổ Yên"
+                    "Thị xã Phổ Yên",
+                    "Thành phố Phổ Yên"
                 ],
                 {
                     "05854": [[
@@ -5079,22 +5080,49 @@
                         ]],
                     "05863": [["Xã Phúc Tân"]],
                     "05866": [["Xã Phúc Thuận"]],
-                    "05869": [["Xã Hồng Tiến"]],
+                    "05869": [[
+                            "Xã Hồng Tiến",
+                            "Phường Hồng Tiến"
+                        ]],
                     "05872": [["Xã Minh Đức"]],
-                    "05875": [["Xã Đắc Sơn"]],
+                    "05875": [[
+                            "Xã Đắc Sơn",
+                            "Phường Đắc Sơn"
+                        ]],
                     "05878": [[
                             "Xã Đồng Tiến",
                             "Phường Đồng Tiến"
                         ]],
                     "05881": [["Xã Thành Công"]],
-                    "05884": [["Xã Tiên Phong"]],
+                    "05884": [[
+                            "Xã Tiên Phong",
+                            "Phường Tiên Phong"
+                        ]],
                     "05887": [["Xã Vạn Phái"]],
-                    "05890": [["Xã Nam Tiến"]],
-                    "05893": [["Xã Tân Hương"]],
-                    "05896": [["Xã Đông Cao"]],
-                    "05899": [["Xã Trung Thành"]],
-                    "05902": [["Xã Tân Phú"]],
-                    "05905": [["Xã Thuận Thành"]]
+                    "05890": [[
+                            "Xã Nam Tiến",
+                            "Phường Nam Tiến"
+                        ]],
+                    "05893": [[
+                            "Xã Tân Hương",
+                            "Phường Tân Hương"
+                        ]],
+                    "05896": [[
+                            "Xã Đông Cao",
+                            "Phường Đông Cao"
+                        ]],
+                    "05899": [[
+                            "Xã Trung Thành",
+                            "Phường Trung Thành"
+                        ]],
+                    "05902": [[
+                            "Xã Tân Phú",
+                            "Phường Tân Phú"
+                        ]],
+                    "05905": [[
+                            "Xã Thuận Thành",
+                            "Phường Thuận Thành"
+                        ]]
                 }
             ],
             "173": [
@@ -10373,13 +10401,20 @@
                     "11338": [["Phường Cầu Tre"]],
                     "11341": [["Phường Lạc Viên"]],
                     "11344": [
-                        ["Phường Lương Khánh Thiện"],
+                        [
+                            "Phường Lương Khánh Thiện",
+                            "Phường Cầu Đất"
+                        ],
                         [],
                         "Deleted"
                     ],
                     "11347": [["Phường Gia Viên"]],
                     "11350": [["Phường Đông Khê"]],
-                    "11353": [["Phường Cầu Đất"]],
+                    "11353": [
+                        ["Phường Cầu Đất"],
+                        [],
+                        "Deleted"
+                    ],
                     "11356": [["Phường Lê Lợi"]],
                     "11359": [["Phường Đằng Giang"]],
                     "11362": [["Phường Lạch Tray"]],
