@@ -45010,18 +45010,18 @@
       },
       {
         "level2_id": "697",
-        "name": "Huyện Chơn Thành",
-        "type": "Huyện",
+        "name": "Thị xã Chơn Thành",
+        "type": "Thị xã",
         "level3s": [
           {
             "level3_id": "25432",
-            "name": "Thị trấn Chơn Thành",
-            "type": "Thị trấn"
+            "name": "Phường Hưng Long",
+            "type": "Phường"
           },
           {
             "level3_id": "25433",
-            "name": "Xã Thành Tâm",
-            "type": "Xã"
+            "name": "Phường Thành Tâm",
+            "type": "Phường"
           },
           {
             "level3_id": "25435",
@@ -45035,18 +45035,18 @@
           },
           {
             "level3_id": "25441",
-            "name": "Xã Minh Hưng",
-            "type": "Xã"
+            "name": "Phường Minh Hưng",
+            "type": "Phường"
           },
           {
             "level3_id": "25444",
-            "name": "Xã Minh Long",
-            "type": "Xã"
+            "name": "Phường Minh Long",
+            "type": "Phường"
           },
           {
             "level3_id": "25447",
-            "name": "Xã Minh Thành",
-            "type": "Xã"
+            "name": "Phường Minh Thành",
+            "type": "Phường"
           },
           {
             "level3_id": "25450",
@@ -50845,8 +50845,8 @@
           },
           {
             "level3_id": "28471",
-            "name": "Xã Bình Phú",
-            "type": "Xã"
+            "name": "Thị trấn Bình Phú",
+            "type": "Thị trấn"
           },
           {
             "level3_id": "28489",

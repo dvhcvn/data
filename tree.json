@@ -20298,21 +20298,39 @@
                 }
             ],
             "697": [
-                ["Huyện Chơn Thành"],
+                [
+                    "Huyện Chơn Thành",
+                    "Thị xã Chơn Thành"
+                ],
                 {
-                    "25432": [["Thị trấn Chơn Thành"]],
+                    "25432": [[
+                            "Thị trấn Chơn Thành",
+                            "Phường Hưng Long"
+                        ]],
                     "25435": [["Xã Minh Lập"]],
                     "25438": [
                         ["Xã Tân Quan"],
                         [],
                         "Moved"
                     ],
-                    "25441": [["Xã Minh Hưng"]],
-                    "25444": [["Xã Minh Long"]],
-                    "25447": [["Xã Minh Thành"]],
+                    "25441": [[
+                            "Xã Minh Hưng",
+                            "Phường Minh Hưng"
+                        ]],
+                    "25444": [[
+                            "Xã Minh Long",
+                            "Phường Minh Long"
+                        ]],
+                    "25447": [[
+                            "Xã Minh Thành",
+                            "Phường Minh Thành"
+                        ]],
                     "25450": [["Xã Nha Bích"]],
                     "25453": [["Xã Minh Thắng"]],
-                    "25433": [["Xã Thành Tâm"]],
+                    "25433": [[
+                            "Xã Thành Tâm",
+                            "Phường Thành Tâm"
+                        ]],
                     "25439": [["Xã Quang Minh"]]
                 }
             ],
@@ -22525,7 +22543,10 @@
                     "28444": [["Xã Phú Cường"]],
                     "28456": [["Xã Mỹ Thành Nam"]],
                     "28465": [["Xã Phú Nhuận"]],
-                    "28471": [["Xã Bình Phú"]],
+                    "28471": [[
+                            "Xã Bình Phú",
+                            "Thị trấn Bình Phú"
+                        ]],
                     "28489": [["Xã Cẩm Sơn"]],
                     "28492": [["Xã Phú An"]],
                     "28495": [["Xã Mỹ Long"]],
