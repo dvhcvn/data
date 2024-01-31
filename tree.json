@@ -6450,7 +6450,10 @@
                 }
             ],
             "222": [
-                ["Huyện Việt Yên"],
+                [
+                    "Huyện Việt Yên",
+                    "Thị Xã Việt Yên"
+                ],
                 {
                     "07753": [
                         ["Thị trấn  Bích Động"],
@@ -6467,24 +6470,47 @@
                     "07765": [["Xã Nghĩa Trung"]],
                     "07768": [["Xã Minh Đức"]],
                     "07771": [["Xã Hương Mai"]],
-                    "07774": [["Xã Tự Lạn"]],
+                    "07774": [[
+                            "Xã Tự Lạn",
+                            "Phường Tự Lạn"
+                        ]],
                     "07777": [[
                             "Xã Bích Sơn",
-                            "Thị trấn Bích Động"
+                            "Thị trấn Bích Động",
+                            "Phường Bích Động"
                         ]],
                     "07780": [["Xã Trung Sơn"]],
-                    "07783": [["Xã Hồng Thái"]],
+                    "07783": [[
+                            "Xã Hồng Thái",
+                            "Phường Hồng Thái"
+                        ]],
                     "07786": [["Xã Tiên Sơn"]],
-                    "07789": [["Xã Tăng Tiến"]],
-                    "07792": [["Xã Quảng Minh"]],
+                    "07789": [[
+                            "Xã Tăng Tiến",
+                            "Phường Tăng Tiến"
+                        ]],
+                    "07792": [[
+                            "Xã Quảng Minh",
+                            "Phường Quảng Minh"
+                        ]],
                     "07795": [[
                             "Xã Hoàng Ninh",
-                            "Thị trấn Nếnh"
+                            "Thị trấn Nếnh",
+                            "Phường Nếnh"
                         ]],
-                    "07798": [["Xã Ninh Sơn"]],
-                    "07801": [["Xã Vân Trung"]],
+                    "07798": [[
+                            "Xã Ninh Sơn",
+                            "Phường Ninh Sơn"
+                        ]],
+                    "07801": [[
+                            "Xã Vân Trung",
+                            "Phường Vân Trung"
+                        ]],
                     "07804": [["Xã Vân Hà"]],
-                    "07807": [["Xã Quang Châu"]]
+                    "07807": [[
+                            "Xã Quang Châu",
+                            "Phường Quang Châu"
+                        ]]
                 }
             ],
             "223": [
