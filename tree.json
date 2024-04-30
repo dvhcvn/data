@@ -13300,7 +13300,11 @@
                     "15781": [["Xã Thiệu Phúc"]],
                     "15784": [["Xã Thiệu Tiến"]],
                     "15787": [["Xã Thiệu Công"]],
-                    "15790": [["Xã Thiệu Phú"]],
+                    "15790": [
+                        ["Xã Thiệu Phú"],
+                        [],
+                        "Deleted"
+                    ],
                     "15793": [["Xã Thiệu Long"]],
                     "15796": [["Xã Thiệu Giang"]],
                     "15799": [["Xã Thiệu Duy"]],
@@ -13319,7 +13323,8 @@
                     ],
                     "15829": [[
                             "Xã Thiệu Tâm",
-                            "Xã Minh Tâm"
+                            "Xã Minh Tâm",
+                            "Thị trấn Hậu Hiền"
                         ]],
                     "15832": [["Xã Thiệu Viên"]],
                     "15835": [["Xã Thiệu Lý"]],
@@ -20770,7 +20775,8 @@
             "721": [
                 [
                     "Huyện Bến Cát",
-                    "Thị xã Bến Cát"
+                    "Thị xã Bến Cát",
+                    "Thành phố Bến Cát"
                 ],
                 {
                     "25813": [[
@@ -20781,8 +20787,14 @@
                             "Xã Chánh Phú Hòa",
                             "Phường Chánh Phú Hòa"
                         ]],
-                    "25840": [["Xã An Điền"]],
-                    "25843": [["Xã An Tây"]],
+                    "25840": [[
+                            "Xã An Điền",
+                            "Phường An Điền"
+                        ]],
+                    "25843": [[
+                            "Xã An Tây",
+                            "Phường An Tây"
+                        ]],
                     "25846": [[
                             "Xã Thới Hòa",
                             "Phường Thới Hòa"
@@ -22426,17 +22438,43 @@
                 }
             ],
             "816": [
-                ["Thị xã Gò Công"],
+                [
+                    "Thị xã Gò Công",
+                    "Thành phố Gò Công"
+                ],
                 {
-                    "28294": [["Phường 3"]],
+                    "28294": [
+                        ["Phường 3"],
+                        [],
+                        "Deleted"
+                    ],
                     "28297": [["Phường 2"]],
-                    "28300": [["Phường 4"]],
-                    "28303": [["Phường 1"]],
+                    "28300": [[
+                            "Phường 4",
+                            "Phường 1"
+                        ]],
+                    "28303": [
+                        ["Phường 1"],
+                        [],
+                        "Deleted"
+                    ],
                     "28306": [["Phường 5"]],
-                    "28309": [["Xã Long Hưng"]],
-                    "28312": [["Xã Long Thuận"]],
-                    "28315": [["Xã Long Chánh"]],
-                    "28318": [["Xã Long Hòa"]],
+                    "28309": [[
+                            "Xã Long Hưng",
+                            "Phường Long Hưng"
+                        ]],
+                    "28312": [[
+                            "Xã Long Thuận",
+                            "Phường Long Thuận"
+                        ]],
+                    "28315": [[
+                            "Xã Long Chánh",
+                            "Phường Long Chánh"
+                        ]],
+                    "28318": [[
+                            "Xã Long Hòa",
+                            "Phường Long Hòa"
+                        ]],
                     "28708": [["Xã Bình Đông"]],
                     "28717": [["Xã Bình Xuân"]],
                     "28729": [["Xã Tân Trung"]]
