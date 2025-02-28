@@ -25191,15 +25191,22 @@
             "754": [
                 [
                     "Huyện Tân Thành",
-                    "Thị xã Phú Mỹ"
+                    "Thị xã Phú Mỹ",
+                    "Thành phố Phú Mỹ"
                 ],
                 {
                     "26704": [[
                             "Thị trấn Phú Mỹ",
                             "Phường Phú Mỹ"
                         ]],
-                    "26707": [["Xã Tân Hoà"]],
-                    "26710": [["Xã Tân Hải"]],
+                    "26707": [[
+                            "Xã Tân Hoà",
+                            "Phường Tân Hoà"
+                        ]],
+                    "26710": [[
+                            "Xã Tân Hải",
+                            "Phường Tân Hải"
+                        ]],
                     "26713": [[
                             "Xã Phước Hoà",
                             "Phường Phước Hoà"

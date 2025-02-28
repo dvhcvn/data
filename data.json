@@ -45074,8 +45074,8 @@
       },
       {
         "level2_id": "754",
-        "name": "Thị xã Phú Mỹ",
-        "type": "Thị xã",
+        "name": "Thành phố Phú Mỹ",
+        "type": "Thành phố",
         "level3s": [
           {
             "level3_id": "26704",
@@ -45084,13 +45084,13 @@
           },
           {
             "level3_id": "26707",
-            "name": "Xã Tân Hoà",
-            "type": "Xã"
+            "name": "Phường Tân Hoà",
+            "type": "Phường"
           },
           {
             "level3_id": "26710",
-            "name": "Xã Tân Hải",
-            "type": "Xã"
+            "name": "Phường Tân Hải",
+            "type": "Phường"
           },
           {
             "level3_id": "26713",
